@@ -1,0 +1,286 @@
+{
+  "id": "health",
+  "name": "Sức khỏe",
+  "cards": [
+    {
+      "id": "health-001",
+      "word": "health",
+      "ipa": "/hɛlθ/",
+      "meaning": "sức khỏe",
+      "example": "Good health is important."
+    },
+    {
+      "id": "health-002",
+      "word": "healthy",
+      "ipa": "/hɛlθi/",
+      "meaning": "khỏe mạnh",
+      "example": "I’m trying to eat healthy."
+    },
+    {
+      "id": "health-003",
+      "word": "sick",
+      "ipa": "/sɪk/",
+      "meaning": "ốm",
+      "example": "I feel sick."
+    },
+    {
+      "id": "health-004",
+      "word": "ill",
+      "ipa": "/ɪl/",
+      "meaning": "bệnh",
+      "example": "She got ill."
+    },
+    {
+      "id": "health-005",
+      "word": "doctor",
+      "ipa": "/dɑktɝ/",
+      "meaning": "bác sĩ",
+      "example": "I need to see a doctor."
+    },
+    {
+      "id": "health-006",
+      "word": "nurse",
+      "ipa": "/nɝs/",
+      "meaning": "y tá",
+      "example": "The nurse was kind."
+    },
+    {
+      "id": "health-007",
+      "word": "hospital",
+      "ipa": "/hɑspɪtʌl/",
+      "meaning": "bệnh viện",
+      "example": "He was taken to the hospital."
+    },
+    {
+      "id": "health-008",
+      "word": "clinic",
+      "ipa": "/klɪnɪk/",
+      "meaning": "phòng khám",
+      "example": "The clinic is open today."
+    },
+    {
+      "id": "health-009",
+      "word": "medicine",
+      "ipa": "/mɛdʌsʌn/",
+      "meaning": "thuốc",
+      "example": "Take your medicine after meals."
+    },
+    {
+      "id": "health-010",
+      "word": "pill",
+      "ipa": "/pɪl/",
+      "meaning": "viên thuốc",
+      "example": "I took a pill."
+    },
+    {
+      "id": "health-011",
+      "word": "pain",
+      "ipa": "/peɪn/",
+      "meaning": "đau",
+      "example": "I’m in pain."
+    },
+    {
+      "id": "health-012",
+      "word": "headache",
+      "ipa": "/hɛdeɪk/",
+      "meaning": "đau đầu",
+      "example": "I have a headache."
+    },
+    {
+      "id": "health-013",
+      "word": "toothache",
+      "ipa": "",
+      "meaning": "đau răng",
+      "example": "He has a toothache."
+    },
+    {
+      "id": "health-014",
+      "word": "stomachache",
+      "ipa": "",
+      "meaning": "đau bụng",
+      "example": "I have a stomachache."
+    },
+    {
+      "id": "health-015",
+      "word": "fever",
+      "ipa": "/fivɝ/",
+      "meaning": "sốt",
+      "example": "She has a fever."
+    },
+    {
+      "id": "health-016",
+      "word": "cough",
+      "ipa": "/kɑf/",
+      "meaning": "ho",
+      "example": "I can’t stop coughing."
+    },
+    {
+      "id": "health-017",
+      "word": "cold",
+      "ipa": "/koʊld/",
+      "meaning": "cảm lạnh",
+      "example": "I caught a cold."
+    },
+    {
+      "id": "health-018",
+      "word": "flu",
+      "ipa": "/flu/",
+      "meaning": "cúm",
+      "example": "The flu is going around."
+    },
+    {
+      "id": "health-019",
+      "word": "injury",
+      "ipa": "/ɪndʒɝi/",
+      "meaning": "chấn thương",
+      "example": "It was a minor injury."
+    },
+    {
+      "id": "health-020",
+      "word": "hurt",
+      "ipa": "/hɝt/",
+      "meaning": "bị đau",
+      "example": "My back hurts."
+    },
+    {
+      "id": "health-021",
+      "word": "tired",
+      "ipa": "/taɪɝd/",
+      "meaning": "mệt",
+      "example": "I’m tired."
+    },
+    {
+      "id": "health-022",
+      "word": "stress",
+      "ipa": "/stɹɛs/",
+      "meaning": "căng thẳng",
+      "example": "Stress can affect sleep."
+    },
+    {
+      "id": "health-023",
+      "word": "exercise",
+      "ipa": "/ɛksɝsaɪz/",
+      "meaning": "tập thể dục",
+      "example": "I do exercise every morning."
+    },
+    {
+      "id": "health-024",
+      "word": "diet",
+      "ipa": "/daɪʌt/",
+      "meaning": "chế độ ăn",
+      "example": "I’m on a diet."
+    },
+    {
+      "id": "health-025",
+      "word": "sleep",
+      "ipa": "/slip/",
+      "meaning": "giấc ngủ",
+      "example": "I need more sleep."
+    },
+    {
+      "id": "health-026",
+      "word": "checkup",
+      "ipa": "/tʃɛkʌp/",
+      "meaning": "khám định kỳ",
+      "example": "I’m going for a checkup."
+    },
+    {
+      "id": "health-027",
+      "word": "appointment",
+      "ipa": "/ʌpɔɪntmʌnt/",
+      "meaning": "cuộc hẹn",
+      "example": "I have a doctor’s appointment."
+    },
+    {
+      "id": "health-028",
+      "word": "emergency",
+      "ipa": "/ɪmɝdʒʌnsi/",
+      "meaning": "cấp cứu",
+      "example": "Call 911—it's an emergency."
+    },
+    {
+      "id": "health-029",
+      "word": "ambulance",
+      "ipa": "/æmbjʌlʌns/",
+      "meaning": "xe cứu thương",
+      "example": "An ambulance arrived."
+    },
+    {
+      "id": "health-030",
+      "word": "pharmacy",
+      "ipa": "/fɑɹmʌsi/",
+      "meaning": "nhà thuốc",
+      "example": "The pharmacy closes at 10."
+    },
+    {
+      "id": "health-031",
+      "word": "vitamin",
+      "ipa": "/vaɪtʌmʌn/",
+      "meaning": "vitamin",
+      "example": "I take vitamins daily."
+    },
+    {
+      "id": "health-032",
+      "word": "allergy",
+      "ipa": "/ælɝdʒi/",
+      "meaning": "dị ứng",
+      "example": "I have a peanut allergy."
+    },
+    {
+      "id": "health-033",
+      "word": "bandage",
+      "ipa": "/bændɪdʒ/",
+      "meaning": "băng",
+      "example": "Put a bandage on it."
+    },
+    {
+      "id": "health-034",
+      "word": "rest",
+      "ipa": "/ɹɛst/",
+      "meaning": "nghỉ ngơi",
+      "example": "You should rest."
+    },
+    {
+      "id": "health-035",
+      "word": "recover",
+      "ipa": "/ɹɪkʌvɝ/",
+      "meaning": "hồi phục",
+      "example": "He recovered quickly."
+    },
+    {
+      "id": "health-036",
+      "word": "symptom",
+      "ipa": "/sɪmptʌm/",
+      "meaning": "triệu chứng",
+      "example": "What symptoms do you have?"
+    },
+    {
+      "id": "health-037",
+      "word": "blood pressure",
+      "ipa": "",
+      "meaning": "huyết áp",
+      "example": "My blood pressure is high."
+    },
+    {
+      "id": "health-038",
+      "word": "mental health",
+      "ipa": "",
+      "meaning": "sức khỏe tinh thần",
+      "example": "Mental health matters."
+    },
+    {
+      "id": "health-039",
+      "word": "hydration",
+      "ipa": "/haɪdɹeɪʃʌn/",
+      "meaning": "bù nước",
+      "example": "Hydration is key."
+    },
+    {
+      "id": "health-040",
+      "word": "workout",
+      "ipa": "/wɝkaʊt/",
+      "meaning": "buổi tập",
+      "example": "I did a quick workout."
+    }
+  ]
+}

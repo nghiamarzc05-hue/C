@@ -1,0 +1,286 @@
+{
+  "id": "daily_conversation",
+  "name": "Giao tiếp hằng ngày",
+  "cards": [
+    {
+      "id": "daily_conversation-001",
+      "word": "What's up?",
+      "ipa": "",
+      "meaning": "Dạo này sao?",
+      "example": "What's up?"
+    },
+    {
+      "id": "daily_conversation-002",
+      "word": "How's it going?",
+      "ipa": "",
+      "meaning": "Dạo này thế nào?",
+      "example": "How's it going?"
+    },
+    {
+      "id": "daily_conversation-003",
+      "word": "I'm good.",
+      "ipa": "",
+      "meaning": "Tôi ổn.",
+      "example": "I'm good, thanks."
+    },
+    {
+      "id": "daily_conversation-004",
+      "word": "Not bad.",
+      "ipa": "",
+      "meaning": "Không tệ.",
+      "example": "Not bad—just busy."
+    },
+    {
+      "id": "daily_conversation-005",
+      "word": "Long time no see.",
+      "ipa": "",
+      "meaning": "Lâu rồi không gặp.",
+      "example": "Long time no see!"
+    },
+    {
+      "id": "daily_conversation-006",
+      "word": "Nice to meet you.",
+      "ipa": "",
+      "meaning": "Rất vui được gặp bạn.",
+      "example": "Nice to meet you."
+    },
+    {
+      "id": "daily_conversation-007",
+      "word": "Good to see you.",
+      "ipa": "",
+      "meaning": "Rất vui gặp bạn.",
+      "example": "Good to see you."
+    },
+    {
+      "id": "daily_conversation-008",
+      "word": "How are you?",
+      "ipa": "",
+      "meaning": "Bạn khỏe không?",
+      "example": "How are you?"
+    },
+    {
+      "id": "daily_conversation-009",
+      "word": "I'm doing great.",
+      "ipa": "",
+      "meaning": "Tôi rất ổn.",
+      "example": "I'm doing great today."
+    },
+    {
+      "id": "daily_conversation-010",
+      "word": "Thanks a lot.",
+      "ipa": "",
+      "meaning": "Cảm ơn nhiều.",
+      "example": "Thanks a lot!"
+    },
+    {
+      "id": "daily_conversation-011",
+      "word": "No problem.",
+      "ipa": "",
+      "meaning": "Không có gì.",
+      "example": "No problem."
+    },
+    {
+      "id": "daily_conversation-012",
+      "word": "You're welcome.",
+      "ipa": "",
+      "meaning": "Không có chi.",
+      "example": "You're welcome."
+    },
+    {
+      "id": "daily_conversation-013",
+      "word": "Excuse me.",
+      "ipa": "",
+      "meaning": "Xin lỗi (lịch sự).",
+      "example": "Excuse me, can I ask you something?"
+    },
+    {
+      "id": "daily_conversation-014",
+      "word": "Sorry about that.",
+      "ipa": "",
+      "meaning": "Xin lỗi vì chuyện đó.",
+      "example": "Sorry about that."
+    },
+    {
+      "id": "daily_conversation-015",
+      "word": "My bad.",
+      "ipa": "",
+      "meaning": "Lỗi tôi rồi.",
+      "example": "My bad—I forgot."
+    },
+    {
+      "id": "daily_conversation-016",
+      "word": "I got it.",
+      "ipa": "",
+      "meaning": "Tôi hiểu rồi.",
+      "example": "Got it."
+    },
+    {
+      "id": "daily_conversation-017",
+      "word": "I don't get it.",
+      "ipa": "",
+      "meaning": "Tôi không hiểu.",
+      "example": "I don't get it."
+    },
+    {
+      "id": "daily_conversation-018",
+      "word": "Could you repeat that?",
+      "ipa": "",
+      "meaning": "Bạn nói lại được không?",
+      "example": "Could you repeat that, please?"
+    },
+    {
+      "id": "daily_conversation-019",
+      "word": "Could you say that again?",
+      "ipa": "",
+      "meaning": "Nói lại được không?",
+      "example": "Could you say that again?"
+    },
+    {
+      "id": "daily_conversation-020",
+      "word": "Speak a little slower.",
+      "ipa": "",
+      "meaning": "Nói chậm lại một chút.",
+      "example": "Could you speak a little slower?"
+    },
+    {
+      "id": "daily_conversation-021",
+      "word": "What do you mean?",
+      "ipa": "",
+      "meaning": "Ý bạn là sao?",
+      "example": "What do you mean?"
+    },
+    {
+      "id": "daily_conversation-022",
+      "word": "I'm serious.",
+      "ipa": "",
+      "meaning": "Tôi nói nghiêm túc đó.",
+      "example": "I'm serious."
+    },
+    {
+      "id": "daily_conversation-023",
+      "word": "Just kidding.",
+      "ipa": "",
+      "meaning": "Đùa thôi.",
+      "example": "Just kidding."
+    },
+    {
+      "id": "daily_conversation-024",
+      "word": "That makes sense.",
+      "ipa": "",
+      "meaning": "Nghe hợp lý.",
+      "example": "That makes sense."
+    },
+    {
+      "id": "daily_conversation-025",
+      "word": "I agree.",
+      "ipa": "",
+      "meaning": "Tôi đồng ý.",
+      "example": "I agree."
+    },
+    {
+      "id": "daily_conversation-026",
+      "word": "I disagree.",
+      "ipa": "",
+      "meaning": "Tôi không đồng ý.",
+      "example": "I disagree."
+    },
+    {
+      "id": "daily_conversation-027",
+      "word": "Maybe.",
+      "ipa": "/meɪbi/",
+      "meaning": "Có thể.",
+      "example": "Maybe."
+    },
+    {
+      "id": "daily_conversation-028",
+      "word": "It depends.",
+      "ipa": "",
+      "meaning": "Còn tùy.",
+      "example": "It depends."
+    },
+    {
+      "id": "daily_conversation-029",
+      "word": "Sounds good.",
+      "ipa": "",
+      "meaning": "Nghe được đó.",
+      "example": "Sounds good."
+    },
+    {
+      "id": "daily_conversation-030",
+      "word": "Sure.",
+      "ipa": "/ʃʊɹ/",
+      "meaning": "Được chứ.",
+      "example": "Sure."
+    },
+    {
+      "id": "daily_conversation-031",
+      "word": "Of course.",
+      "ipa": "",
+      "meaning": "Tất nhiên.",
+      "example": "Of course."
+    },
+    {
+      "id": "daily_conversation-032",
+      "word": "Let’s go.",
+      "ipa": "",
+      "meaning": "Đi thôi.",
+      "example": "Let’s go."
+    },
+    {
+      "id": "daily_conversation-033",
+      "word": "I’m in.",
+      "ipa": "",
+      "meaning": "Tôi tham gia.",
+      "example": "I’m in."
+    },
+    {
+      "id": "daily_conversation-034",
+      "word": "I’m out.",
+      "ipa": "",
+      "meaning": "Tôi không tham gia.",
+      "example": "I’m out."
+    },
+    {
+      "id": "daily_conversation-035",
+      "word": "Give me a sec.",
+      "ipa": "",
+      "meaning": "Cho tôi chút.",
+      "example": "Give me a sec."
+    },
+    {
+      "id": "daily_conversation-036",
+      "word": "I’m on my way.",
+      "ipa": "",
+      "meaning": "Tôi đang tới.",
+      "example": "I’m on my way."
+    },
+    {
+      "id": "daily_conversation-037",
+      "word": "See you soon.",
+      "ipa": "",
+      "meaning": "Gặp lại sớm nhé.",
+      "example": "See you soon."
+    },
+    {
+      "id": "daily_conversation-038",
+      "word": "Take care.",
+      "ipa": "",
+      "meaning": "Giữ gìn nhé.",
+      "example": "Take care."
+    },
+    {
+      "id": "daily_conversation-039",
+      "word": "Have a good one.",
+      "ipa": "",
+      "meaning": "Chúc một ngày tốt lành.",
+      "example": "Have a good one!"
+    },
+    {
+      "id": "daily_conversation-040",
+      "word": "Bye for now.",
+      "ipa": "",
+      "meaning": "Tạm biệt nhé.",
+      "example": "Bye for now."
+    }
+  ]
+}

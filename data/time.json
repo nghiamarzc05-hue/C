@@ -1,0 +1,286 @@
+{
+  "id": "time",
+  "name": "Thời gian",
+  "cards": [
+    {
+      "id": "time-001",
+      "word": "Monday",
+      "ipa": "/mʌndi/",
+      "meaning": "Thứ Hai",
+      "example": "I have class on Monday."
+    },
+    {
+      "id": "time-002",
+      "word": "Tuesday",
+      "ipa": "/tuzdi/",
+      "meaning": "Thứ Ba",
+      "example": "Let's meet on Tuesday."
+    },
+    {
+      "id": "time-003",
+      "word": "Wednesday",
+      "ipa": "/wɛnzdi/",
+      "meaning": "Thứ Tư",
+      "example": "Wednesday works for me."
+    },
+    {
+      "id": "time-004",
+      "word": "Thursday",
+      "ipa": "/θɝzdeɪ/",
+      "meaning": "Thứ Năm",
+      "example": "I’m free on Thursday."
+    },
+    {
+      "id": "time-005",
+      "word": "Friday",
+      "ipa": "/fɹaɪdi/",
+      "meaning": "Thứ Sáu",
+      "example": "It’s Friday—finally!"
+    },
+    {
+      "id": "time-006",
+      "word": "Saturday",
+      "ipa": "/sætɝdi/",
+      "meaning": "Thứ Bảy",
+      "example": "We’ll go out on Saturday."
+    },
+    {
+      "id": "time-007",
+      "word": "Sunday",
+      "ipa": "/sʌndeɪ/",
+      "meaning": "Chủ nhật",
+      "example": "I usually rest on Sunday."
+    },
+    {
+      "id": "time-008",
+      "word": "January",
+      "ipa": "/dʒænjuɛɹi/",
+      "meaning": "Tháng 1",
+      "example": "My birthday is in January."
+    },
+    {
+      "id": "time-009",
+      "word": "February",
+      "ipa": "/fɛbjʌwɛɹi/",
+      "meaning": "Tháng 2",
+      "example": "February is short."
+    },
+    {
+      "id": "time-010",
+      "word": "March",
+      "ipa": "/mɑɹtʃ/",
+      "meaning": "Tháng 3",
+      "example": "It starts getting warmer in March."
+    },
+    {
+      "id": "time-011",
+      "word": "April",
+      "ipa": "/eɪpɹʌl/",
+      "meaning": "Tháng 4",
+      "example": "April can be rainy."
+    },
+    {
+      "id": "time-012",
+      "word": "May",
+      "ipa": "/meɪ/",
+      "meaning": "Tháng 5",
+      "example": "May is my favorite month."
+    },
+    {
+      "id": "time-013",
+      "word": "June",
+      "ipa": "/dʒun/",
+      "meaning": "Tháng 6",
+      "example": "School ends in June."
+    },
+    {
+      "id": "time-014",
+      "word": "July",
+      "ipa": "/dʒulaɪ/",
+      "meaning": "Tháng 7",
+      "example": "July is really hot."
+    },
+    {
+      "id": "time-015",
+      "word": "August",
+      "ipa": "/ɑɡʌst/",
+      "meaning": "Tháng 8",
+      "example": "We travel in August."
+    },
+    {
+      "id": "time-016",
+      "word": "September",
+      "ipa": "/sɛptɛmbɝ/",
+      "meaning": "Tháng 9",
+      "example": "Classes start in September."
+    },
+    {
+      "id": "time-017",
+      "word": "October",
+      "ipa": "/ɑktoʊbɝ/",
+      "meaning": "Tháng 10",
+      "example": "October has Halloween."
+    },
+    {
+      "id": "time-018",
+      "word": "November",
+      "ipa": "/noʊvɛmbɝ/",
+      "meaning": "Tháng 11",
+      "example": "It gets colder in November."
+    },
+    {
+      "id": "time-019",
+      "word": "December",
+      "ipa": "/dɪsɛmbɝ/",
+      "meaning": "Tháng 12",
+      "example": "December is holiday season."
+    },
+    {
+      "id": "time-020",
+      "word": "spring",
+      "ipa": "/spɹɪŋ/",
+      "meaning": "mùa xuân",
+      "example": "I love spring weather."
+    },
+    {
+      "id": "time-021",
+      "word": "summer",
+      "ipa": "/sʌmɝ/",
+      "meaning": "mùa hè",
+      "example": "We go to the beach in summer."
+    },
+    {
+      "id": "time-022",
+      "word": "fall",
+      "ipa": "/fɔl/",
+      "meaning": "mùa thu",
+      "example": "Fall is nice and cool."
+    },
+    {
+      "id": "time-023",
+      "word": "winter",
+      "ipa": "/wɪntɝ/",
+      "meaning": "mùa đông",
+      "example": "Winter is cold here."
+    },
+    {
+      "id": "time-024",
+      "word": "morning",
+      "ipa": "/mɔɹnɪŋ/",
+      "meaning": "buổi sáng",
+      "example": "I wake up early in the morning."
+    },
+    {
+      "id": "time-025",
+      "word": "afternoon",
+      "ipa": "/æftɝnun/",
+      "meaning": "buổi chiều",
+      "example": "I study in the afternoon."
+    },
+    {
+      "id": "time-026",
+      "word": "evening",
+      "ipa": "/ivnɪŋ/",
+      "meaning": "buổi tối",
+      "example": "Let’s grab dinner this evening."
+    },
+    {
+      "id": "time-027",
+      "word": "night",
+      "ipa": "/naɪt/",
+      "meaning": "ban đêm",
+      "example": "I don’t drive much at night."
+    },
+    {
+      "id": "time-028",
+      "word": "today",
+      "ipa": "/tʌdeɪ/",
+      "meaning": "hôm nay",
+      "example": "I’m busy today."
+    },
+    {
+      "id": "time-029",
+      "word": "tomorrow",
+      "ipa": "/tʌmɑɹoʊ/",
+      "meaning": "ngày mai",
+      "example": "See you tomorrow."
+    },
+    {
+      "id": "time-030",
+      "word": "yesterday",
+      "ipa": "/jɛstɝdeɪ/",
+      "meaning": "hôm qua",
+      "example": "I was tired yesterday."
+    },
+    {
+      "id": "time-031",
+      "word": "weekday",
+      "ipa": "/wikdeɪ/",
+      "meaning": "ngày trong tuần",
+      "example": "I work on weekdays."
+    },
+    {
+      "id": "time-032",
+      "word": "weekend",
+      "ipa": "/wikɛnd/",
+      "meaning": "cuối tuần",
+      "example": "I relax on the weekend."
+    },
+    {
+      "id": "time-033",
+      "word": "date",
+      "ipa": "/deɪt/",
+      "meaning": "ngày (trên lịch)",
+      "example": "What’s the date today?"
+    },
+    {
+      "id": "time-034",
+      "word": "calendar",
+      "ipa": "/kælʌndɝ/",
+      "meaning": "lịch",
+      "example": "I checked the calendar."
+    },
+    {
+      "id": "time-035",
+      "word": "appointment",
+      "ipa": "/ʌpɔɪntmʌnt/",
+      "meaning": "cuộc hẹn",
+      "example": "I have a dentist appointment."
+    },
+    {
+      "id": "time-036",
+      "word": "at noon",
+      "ipa": "",
+      "meaning": "lúc trưa",
+      "example": "Let’s meet at noon."
+    },
+    {
+      "id": "time-037",
+      "word": "midnight",
+      "ipa": "/mɪdnaɪt/",
+      "meaning": "nửa đêm",
+      "example": "It was quiet at midnight."
+    },
+    {
+      "id": "time-038",
+      "word": "early",
+      "ipa": "/ɝli/",
+      "meaning": "sớm",
+      "example": "Let’s leave early."
+    },
+    {
+      "id": "time-039",
+      "word": "late",
+      "ipa": "/leɪt/",
+      "meaning": "muộn",
+      "example": "Sorry, I’m running late."
+    },
+    {
+      "id": "time-040",
+      "word": "on time",
+      "ipa": "",
+      "meaning": "đúng giờ",
+      "example": "Please be on time."
+    }
+  ]
+}

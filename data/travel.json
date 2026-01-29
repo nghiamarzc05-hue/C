@@ -1,0 +1,286 @@
+{
+  "id": "travel",
+  "name": "Du lịch",
+  "cards": [
+    {
+      "id": "travel-001",
+      "word": "travel",
+      "ipa": "/tɹævʌl/",
+      "meaning": "du lịch",
+      "example": "I love to travel abroad."
+    },
+    {
+      "id": "travel-002",
+      "word": "trip",
+      "ipa": "/tɹɪp/",
+      "meaning": "chuyến đi",
+      "example": "Our trip was amazing."
+    },
+    {
+      "id": "travel-003",
+      "word": "vacation",
+      "ipa": "/veɪkeɪʃʌn/",
+      "meaning": "kỳ nghỉ",
+      "example": "I'm on vacation."
+    },
+    {
+      "id": "travel-004",
+      "word": "flight",
+      "ipa": "/flaɪt/",
+      "meaning": "chuyến bay",
+      "example": "My flight leaves at 8."
+    },
+    {
+      "id": "travel-005",
+      "word": "airport",
+      "ipa": "/ɛɹpɔɹt/",
+      "meaning": "sân bay",
+      "example": "We arrived at the airport."
+    },
+    {
+      "id": "travel-006",
+      "word": "passport",
+      "ipa": "/pæspɔɹt/",
+      "meaning": "hộ chiếu",
+      "example": "Don’t forget your passport."
+    },
+    {
+      "id": "travel-007",
+      "word": "visa",
+      "ipa": "/vizʌ/",
+      "meaning": "thị thực",
+      "example": "I need a visa."
+    },
+    {
+      "id": "travel-008",
+      "word": "hotel",
+      "ipa": "/hoʊtɛl/",
+      "meaning": "khách sạn",
+      "example": "We booked a hotel."
+    },
+    {
+      "id": "travel-009",
+      "word": "hostel",
+      "ipa": "/hɑstʌl/",
+      "meaning": "nhà nghỉ",
+      "example": "The hostel is cheap."
+    },
+    {
+      "id": "travel-010",
+      "word": "reservation",
+      "ipa": "/ɹɛzɝveɪʃʌn/",
+      "meaning": "đặt chỗ",
+      "example": "I made a reservation."
+    },
+    {
+      "id": "travel-011",
+      "word": "ticket",
+      "ipa": "/tɪkʌt/",
+      "meaning": "vé",
+      "example": "Keep your ticket."
+    },
+    {
+      "id": "travel-012",
+      "word": "luggage",
+      "ipa": "/lʌɡʌdʒ/",
+      "meaning": "hành lý",
+      "example": "My luggage is heavy."
+    },
+    {
+      "id": "travel-013",
+      "word": "backpack",
+      "ipa": "/bækpæk/",
+      "meaning": "ba lô",
+      "example": "I travel with a backpack."
+    },
+    {
+      "id": "travel-014",
+      "word": "suitcase",
+      "ipa": "/sutkeɪs/",
+      "meaning": "vali",
+      "example": "My suitcase is full."
+    },
+    {
+      "id": "travel-015",
+      "word": "map",
+      "ipa": "/mæp/",
+      "meaning": "bản đồ",
+      "example": "Use a map."
+    },
+    {
+      "id": "travel-016",
+      "word": "tour",
+      "ipa": "/tʊɹ/",
+      "meaning": "chuyến tham quan",
+      "example": "We joined a city tour."
+    },
+    {
+      "id": "travel-017",
+      "word": "guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "hướng dẫn viên",
+      "example": "The guide was helpful."
+    },
+    {
+      "id": "travel-018",
+      "word": "camera",
+      "ipa": "/kæmɝʌ/",
+      "meaning": "máy ảnh",
+      "example": "I brought my camera."
+    },
+    {
+      "id": "travel-019",
+      "word": "souvenir",
+      "ipa": "/suvʌnɪɹ/",
+      "meaning": "quà lưu niệm",
+      "example": "I bought a souvenir."
+    },
+    {
+      "id": "travel-020",
+      "word": "beach",
+      "ipa": "/bitʃ/",
+      "meaning": "bãi biển",
+      "example": "Let’s go to the beach."
+    },
+    {
+      "id": "travel-021",
+      "word": "mountain",
+      "ipa": "/maʊntʌn/",
+      "meaning": "núi",
+      "example": "We climbed a mountain."
+    },
+    {
+      "id": "travel-022",
+      "word": "island",
+      "ipa": "/aɪlʌnd/",
+      "meaning": "đảo",
+      "example": "They visited an island."
+    },
+    {
+      "id": "travel-023",
+      "word": "museum",
+      "ipa": "/mjuziʌm/",
+      "meaning": "bảo tàng",
+      "example": "We went to a museum."
+    },
+    {
+      "id": "travel-024",
+      "word": "temple",
+      "ipa": "/tɛmpʌl/",
+      "meaning": "đền / chùa",
+      "example": "The temple is beautiful."
+    },
+    {
+      "id": "travel-025",
+      "word": "restaurant",
+      "ipa": "/ɹɛstɝɑnt/",
+      "meaning": "nhà hàng",
+      "example": "We ate at a restaurant."
+    },
+    {
+      "id": "travel-026",
+      "word": "check-in",
+      "ipa": "",
+      "meaning": "làm thủ tục",
+      "example": "I need to check in."
+    },
+    {
+      "id": "travel-027",
+      "word": "check-out",
+      "ipa": "",
+      "meaning": "trả phòng",
+      "example": "We check out at noon."
+    },
+    {
+      "id": "travel-028",
+      "word": "boarding pass",
+      "ipa": "",
+      "meaning": "thẻ lên máy bay",
+      "example": "Show your boarding pass."
+    },
+    {
+      "id": "travel-029",
+      "word": "customs",
+      "ipa": "/kʌstʌmz/",
+      "meaning": "hải quan",
+      "example": "Go through customs."
+    },
+    {
+      "id": "travel-030",
+      "word": "exchange money",
+      "ipa": "",
+      "meaning": "đổi tiền",
+      "example": "I need to exchange money."
+    },
+    {
+      "id": "travel-031",
+      "word": "local food",
+      "ipa": "",
+      "meaning": "đồ ăn địa phương",
+      "example": "Try the local food."
+    },
+    {
+      "id": "travel-032",
+      "word": "street market",
+      "ipa": "",
+      "meaning": "chợ đường phố",
+      "example": "We visited a street market."
+    },
+    {
+      "id": "travel-033",
+      "word": "landmark",
+      "ipa": "/lændmɑɹk/",
+      "meaning": "địa danh nổi tiếng",
+      "example": "That tower is a landmark."
+    },
+    {
+      "id": "travel-034",
+      "word": "city center",
+      "ipa": "",
+      "meaning": "trung tâm thành phố",
+      "example": "Our hotel is downtown."
+    },
+    {
+      "id": "travel-035",
+      "word": "subway",
+      "ipa": "/sʌbweɪ/",
+      "meaning": "tàu điện ngầm",
+      "example": "Take the subway."
+    },
+    {
+      "id": "travel-036",
+      "word": "taxi",
+      "ipa": "/tæksi/",
+      "meaning": "taxi",
+      "example": "Call a taxi."
+    },
+    {
+      "id": "travel-037",
+      "word": "bus",
+      "ipa": "/bʌs/",
+      "meaning": "xe buýt",
+      "example": "We took a bus."
+    },
+    {
+      "id": "travel-038",
+      "word": "train",
+      "ipa": "/tɹeɪn/",
+      "meaning": "tàu hỏa",
+      "example": "Travel by train is relaxing."
+    },
+    {
+      "id": "travel-039",
+      "word": "schedule",
+      "ipa": "/skɛdʒʊl/",
+      "meaning": "lịch trình",
+      "example": "Check the schedule."
+    },
+    {
+      "id": "travel-040",
+      "word": "delay",
+      "ipa": "/dɪleɪ/",
+      "meaning": "trễ chuyến",
+      "example": "The flight has a delay."
+    }
+  ]
+}

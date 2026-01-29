@@ -1,0 +1,286 @@
+{
+  "id": "emotions",
+  "name": "Cảm xúc",
+  "cards": [
+    {
+      "id": "emotions-001",
+      "word": "happy",
+      "ipa": "/hæpi/",
+      "meaning": "vui",
+      "example": "I feel happy today."
+    },
+    {
+      "id": "emotions-002",
+      "word": "sad",
+      "ipa": "/sæd/",
+      "meaning": "buồn",
+      "example": "He looks sad."
+    },
+    {
+      "id": "emotions-003",
+      "word": "angry",
+      "ipa": "/æŋɡɹi/",
+      "meaning": "tức giận",
+      "example": "She’s angry about the delay."
+    },
+    {
+      "id": "emotions-004",
+      "word": "excited",
+      "ipa": "/ɪksaɪtʌd/",
+      "meaning": "phấn khích",
+      "example": "I’m excited for the trip."
+    },
+    {
+      "id": "emotions-005",
+      "word": "nervous",
+      "ipa": "/nɝvʌs/",
+      "meaning": "hồi hộp",
+      "example": "I’m nervous before exams."
+    },
+    {
+      "id": "emotions-006",
+      "word": "calm",
+      "ipa": "/kɑm/",
+      "meaning": "bình tĩnh",
+      "example": "Stay calm."
+    },
+    {
+      "id": "emotions-007",
+      "word": "tired",
+      "ipa": "/taɪɝd/",
+      "meaning": "mệt",
+      "example": "I’m tired after work."
+    },
+    {
+      "id": "emotions-008",
+      "word": "sleepy",
+      "ipa": "/slipi/",
+      "meaning": "buồn ngủ",
+      "example": "I’m sleepy."
+    },
+    {
+      "id": "emotions-009",
+      "word": "stressed",
+      "ipa": "/stɹɛst/",
+      "meaning": "căng thẳng",
+      "example": "I’m stressed this week."
+    },
+    {
+      "id": "emotions-010",
+      "word": "relaxed",
+      "ipa": "/ɹɪlækst/",
+      "meaning": "thư giãn",
+      "example": "I feel relaxed now."
+    },
+    {
+      "id": "emotions-011",
+      "word": "scared",
+      "ipa": "/skɛɹd/",
+      "meaning": "sợ",
+      "example": "I’m scared of heights."
+    },
+    {
+      "id": "emotions-012",
+      "word": "afraid",
+      "ipa": "/ʌfɹeɪd/",
+      "meaning": "sợ (trang trọng)",
+      "example": "Don’t be afraid."
+    },
+    {
+      "id": "emotions-013",
+      "word": "surprised",
+      "ipa": "/sɝpɹaɪzd/",
+      "meaning": "ngạc nhiên",
+      "example": "I was surprised to see you."
+    },
+    {
+      "id": "emotions-014",
+      "word": "confused",
+      "ipa": "/kʌnfjuzd/",
+      "meaning": "bối rối",
+      "example": "I’m confused."
+    },
+    {
+      "id": "emotions-015",
+      "word": "bored",
+      "ipa": "/bɔɹd/",
+      "meaning": "chán",
+      "example": "I’m bored."
+    },
+    {
+      "id": "emotions-016",
+      "word": "curious",
+      "ipa": "/kjʊɹiʌs/",
+      "meaning": "tò mò",
+      "example": "I’m curious about that."
+    },
+    {
+      "id": "emotions-017",
+      "word": "proud",
+      "ipa": "/pɹaʊd/",
+      "meaning": "tự hào",
+      "example": "I’m proud of you."
+    },
+    {
+      "id": "emotions-018",
+      "word": "ashamed",
+      "ipa": "/ʌʃeɪmd/",
+      "meaning": "xấu hổ",
+      "example": "He felt ashamed."
+    },
+    {
+      "id": "emotions-019",
+      "word": "embarrassed",
+      "ipa": "/ɪmbɛɹʌst/",
+      "meaning": "ngại",
+      "example": "I was embarrassed."
+    },
+    {
+      "id": "emotions-020",
+      "word": "jealous",
+      "ipa": "/dʒɛlʌs/",
+      "meaning": "ghen tị",
+      "example": "She got jealous."
+    },
+    {
+      "id": "emotions-021",
+      "word": "grateful",
+      "ipa": "/ɡɹeɪtfʌl/",
+      "meaning": "biết ơn",
+      "example": "I’m grateful for your help."
+    },
+    {
+      "id": "emotions-022",
+      "word": "thankful",
+      "ipa": "/θæŋkfʌl/",
+      "meaning": "biết ơn",
+      "example": "I’m thankful."
+    },
+    {
+      "id": "emotions-023",
+      "word": "hopeful",
+      "ipa": "/hoʊpfʌl/",
+      "meaning": "hy vọng",
+      "example": "I’m hopeful."
+    },
+    {
+      "id": "emotions-024",
+      "word": "worried",
+      "ipa": "/wɝid/",
+      "meaning": "lo lắng",
+      "example": "I’m worried about him."
+    },
+    {
+      "id": "emotions-025",
+      "word": "anxious",
+      "ipa": "/æŋkʃʌs/",
+      "meaning": "lo âu",
+      "example": "I feel anxious."
+    },
+    {
+      "id": "emotions-026",
+      "word": "lonely",
+      "ipa": "/loʊnli/",
+      "meaning": "cô đơn",
+      "example": "He felt lonely."
+    },
+    {
+      "id": "emotions-027",
+      "word": "confident",
+      "ipa": "/kɑnfʌdʌnt/",
+      "meaning": "tự tin",
+      "example": "I feel confident."
+    },
+    {
+      "id": "emotions-028",
+      "word": "shy",
+      "ipa": "/ʃaɪ/",
+      "meaning": "nhút nhát",
+      "example": "She’s shy."
+    },
+    {
+      "id": "emotions-029",
+      "word": "brave",
+      "ipa": "/bɹeɪv/",
+      "meaning": "dũng cảm",
+      "example": "That was brave."
+    },
+    {
+      "id": "emotions-030",
+      "word": "frustrated",
+      "ipa": "/fɹʌstɹeɪtʌd/",
+      "meaning": "bực bội",
+      "example": "I’m frustrated."
+    },
+    {
+      "id": "emotions-031",
+      "word": "content",
+      "ipa": "/kɑntɛnt/",
+      "meaning": "hài lòng",
+      "example": "I feel content."
+    },
+    {
+      "id": "emotions-032",
+      "word": "disappointed",
+      "ipa": "/dɪsʌpɔɪntɪd/",
+      "meaning": "thất vọng",
+      "example": "I’m disappointed."
+    },
+    {
+      "id": "emotions-033",
+      "word": "motivated",
+      "ipa": "/moʊtʌveɪtʌd/",
+      "meaning": "có động lực",
+      "example": "I feel motivated today."
+    },
+    {
+      "id": "emotions-034",
+      "word": "overwhelmed",
+      "ipa": "/oʊvɝwɛlmd/",
+      "meaning": "quá tải",
+      "example": "I’m overwhelmed."
+    },
+    {
+      "id": "emotions-035",
+      "word": "relieved",
+      "ipa": "/ɹɪlivd/",
+      "meaning": "nhẹ nhõm",
+      "example": "I’m relieved."
+    },
+    {
+      "id": "emotions-036",
+      "word": "upset",
+      "ipa": "/ʌpsɛt/",
+      "meaning": "buồn bực",
+      "example": "I’m upset."
+    },
+    {
+      "id": "emotions-037",
+      "word": "serious",
+      "ipa": "/sɪɹiʌs/",
+      "meaning": "nghiêm túc",
+      "example": "He looks serious."
+    },
+    {
+      "id": "emotions-038",
+      "word": "friendly",
+      "ipa": "/fɹɛndli/",
+      "meaning": "thân thiện",
+      "example": "She’s friendly."
+    },
+    {
+      "id": "emotions-039",
+      "word": "irritated",
+      "ipa": "/ɪɹʌteɪtʌd/",
+      "meaning": "khó chịu",
+      "example": "He seems irritated."
+    },
+    {
+      "id": "emotions-040",
+      "word": "thrilled",
+      "ipa": "/θɹɪld/",
+      "meaning": "cực kỳ vui",
+      "example": "I’m thrilled!"
+    }
+  ]
+}

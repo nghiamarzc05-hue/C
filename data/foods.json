@@ -1,0 +1,286 @@
+{
+  "id": "foods",
+  "name": "Đồ ăn",
+  "cards": [
+    {
+      "id": "foods-001",
+      "word": "rice",
+      "ipa": "/ɹaɪs/",
+      "meaning": "cơm",
+      "example": "I eat rice every day."
+    },
+    {
+      "id": "foods-002",
+      "word": "bread",
+      "ipa": "/bɹɛd/",
+      "meaning": "bánh mì",
+      "example": "She bought fresh bread."
+    },
+    {
+      "id": "foods-003",
+      "word": "noodles",
+      "ipa": "/nudʌlz/",
+      "meaning": "mì",
+      "example": "He likes eating noodles."
+    },
+    {
+      "id": "foods-004",
+      "word": "pizza",
+      "ipa": "/pitsʌ/",
+      "meaning": "pizza",
+      "example": "We ordered a pizza."
+    },
+    {
+      "id": "foods-005",
+      "word": "burger",
+      "ipa": "/bɝɡɝ/",
+      "meaning": "hamburger",
+      "example": "I had a burger for lunch."
+    },
+    {
+      "id": "foods-006",
+      "word": "sandwich",
+      "ipa": "/sændwɪtʃ/",
+      "meaning": "bánh sandwich",
+      "example": "She made a sandwich."
+    },
+    {
+      "id": "foods-007",
+      "word": "salad",
+      "ipa": "/sælʌd/",
+      "meaning": "salad",
+      "example": "I eat salad for dinner."
+    },
+    {
+      "id": "foods-008",
+      "word": "soup",
+      "ipa": "/sup/",
+      "meaning": "súp",
+      "example": "The soup is hot."
+    },
+    {
+      "id": "foods-009",
+      "word": "steak",
+      "ipa": "/steɪk/",
+      "meaning": "bít tết",
+      "example": "He ordered a steak."
+    },
+    {
+      "id": "foods-010",
+      "word": "chicken",
+      "ipa": "/tʃɪkʌn/",
+      "meaning": "gà",
+      "example": "I like grilled chicken."
+    },
+    {
+      "id": "foods-011",
+      "word": "fish",
+      "ipa": "/fɪʃ/",
+      "meaning": "cá",
+      "example": "We had fish for dinner."
+    },
+    {
+      "id": "foods-012",
+      "word": "egg",
+      "ipa": "/ɛɡ/",
+      "meaning": "trứng",
+      "example": "She boiled an egg."
+    },
+    {
+      "id": "foods-013",
+      "word": "cheese",
+      "ipa": "/tʃiz/",
+      "meaning": "phô mai",
+      "example": "I love cheese."
+    },
+    {
+      "id": "foods-014",
+      "word": "milk",
+      "ipa": "/mɪlk/",
+      "meaning": "sữa",
+      "example": "He drinks milk every morning."
+    },
+    {
+      "id": "foods-015",
+      "word": "cake",
+      "ipa": "/keɪk/",
+      "meaning": "bánh ngọt",
+      "example": "They baked a cake."
+    },
+    {
+      "id": "foods-016",
+      "word": "ice cream",
+      "ipa": "",
+      "meaning": "kem",
+      "example": "Kids love ice cream."
+    },
+    {
+      "id": "foods-017",
+      "word": "chocolate",
+      "ipa": "/tʃɔklʌt/",
+      "meaning": "sô cô la",
+      "example": "She gave me chocolate."
+    },
+    {
+      "id": "foods-018",
+      "word": "snack",
+      "ipa": "/snæk/",
+      "meaning": "đồ ăn vặt",
+      "example": "I bought a snack."
+    },
+    {
+      "id": "foods-019",
+      "word": "fried rice",
+      "ipa": "",
+      "meaning": "cơm chiên",
+      "example": "I ordered fried rice."
+    },
+    {
+      "id": "foods-020",
+      "word": "pasta",
+      "ipa": "/pɑstʌ/",
+      "meaning": "mì Ý",
+      "example": "She cooked pasta."
+    },
+    {
+      "id": "foods-021",
+      "word": "dumplings",
+      "ipa": "/dʌmplɪŋz/",
+      "meaning": "bánh bao",
+      "example": "We ate dumplings."
+    },
+    {
+      "id": "foods-022",
+      "word": "sushi",
+      "ipa": "/suʃi/",
+      "meaning": "sushi",
+      "example": "He likes sushi."
+    },
+    {
+      "id": "foods-023",
+      "word": "ramen",
+      "ipa": "",
+      "meaning": "mì ramen",
+      "example": "Ramen is popular in Japan."
+    },
+    {
+      "id": "foods-024",
+      "word": "hot pot",
+      "ipa": "",
+      "meaning": "lẩu",
+      "example": "Let’s eat hot pot."
+    },
+    {
+      "id": "foods-025",
+      "word": "seafood",
+      "ipa": "/sifud/",
+      "meaning": "hải sản",
+      "example": "I love seafood."
+    },
+    {
+      "id": "foods-026",
+      "word": "beef",
+      "ipa": "/bif/",
+      "meaning": "thịt bò",
+      "example": "Beef is expensive."
+    },
+    {
+      "id": "foods-027",
+      "word": "pork",
+      "ipa": "/pɔɹk/",
+      "meaning": "thịt heo",
+      "example": "Pork is common."
+    },
+    {
+      "id": "foods-028",
+      "word": "lamb",
+      "ipa": "/læm/",
+      "meaning": "thịt cừu",
+      "example": "Lamb tastes great."
+    },
+    {
+      "id": "foods-029",
+      "word": "vegetarian",
+      "ipa": "/vɛdʒʌtɛɹiʌn/",
+      "meaning": "đồ chay",
+      "example": "She eats vegetarian food."
+    },
+    {
+      "id": "foods-030",
+      "word": "dessert",
+      "ipa": "/dɪzɝt/",
+      "meaning": "tráng miệng",
+      "example": "Let’s order dessert."
+    },
+    {
+      "id": "foods-031",
+      "word": "spicy",
+      "ipa": "/spaɪsi/",
+      "meaning": "cay",
+      "example": "This dish is spicy."
+    },
+    {
+      "id": "foods-032",
+      "word": "sweet",
+      "ipa": "/swit/",
+      "meaning": "ngọt",
+      "example": "The cake is sweet."
+    },
+    {
+      "id": "foods-033",
+      "word": "sour",
+      "ipa": "/saʊɝ/",
+      "meaning": "chua",
+      "example": "Lemons are sour."
+    },
+    {
+      "id": "foods-034",
+      "word": "salty",
+      "ipa": "/sɔlti/",
+      "meaning": "mặn",
+      "example": "This soup is salty."
+    },
+    {
+      "id": "foods-035",
+      "word": "bitter",
+      "ipa": "/bɪtɝ/",
+      "meaning": "đắng",
+      "example": "Coffee can be bitter."
+    },
+    {
+      "id": "foods-036",
+      "word": "delicious",
+      "ipa": "/dɪlɪʃʌs/",
+      "meaning": "ngon",
+      "example": "This meal is delicious."
+    },
+    {
+      "id": "foods-037",
+      "word": "tasty",
+      "ipa": "/teɪsti/",
+      "meaning": "ngon",
+      "example": "The food is tasty."
+    },
+    {
+      "id": "foods-038",
+      "word": "fresh",
+      "ipa": "/fɹɛʃ/",
+      "meaning": "tươi",
+      "example": "These vegetables are fresh."
+    },
+    {
+      "id": "foods-039",
+      "word": "cooked",
+      "ipa": "/kʊkt/",
+      "meaning": "đã nấu",
+      "example": "The rice is cooked."
+    },
+    {
+      "id": "foods-040",
+      "word": "raw",
+      "ipa": "/ɹɑ/",
+      "meaning": "sống",
+      "example": "This fish is raw."
+    }
+  ]
+}

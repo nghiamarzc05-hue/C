@@ -1,0 +1,286 @@
+{
+  "id": "directions",
+  "name": "Hỏi đường",
+  "cards": [
+    {
+      "id": "directions-001",
+      "word": "Where is...?",
+      "ipa": "",
+      "meaning": "Ở đâu...?",
+      "example": "Excuse me, where is the station?"
+    },
+    {
+      "id": "directions-002",
+      "word": "How do I get to...?",
+      "ipa": "",
+      "meaning": "Làm sao để đến...?",
+      "example": "How do I get to the airport?"
+    },
+    {
+      "id": "directions-003",
+      "word": "Go straight",
+      "ipa": "",
+      "meaning": "Đi thẳng",
+      "example": "Go straight for two blocks."
+    },
+    {
+      "id": "directions-004",
+      "word": "Turn left",
+      "ipa": "",
+      "meaning": "Rẽ trái",
+      "example": "Turn left at the corner."
+    },
+    {
+      "id": "directions-005",
+      "word": "Turn right",
+      "ipa": "",
+      "meaning": "Rẽ phải",
+      "example": "Turn right after the bank."
+    },
+    {
+      "id": "directions-006",
+      "word": "intersection",
+      "ipa": "/ɪntɝsɛkʃʌn/",
+      "meaning": "ngã tư",
+      "example": "The store is at the intersection."
+    },
+    {
+      "id": "directions-007",
+      "word": "traffic light",
+      "ipa": "",
+      "meaning": "đèn giao thông",
+      "example": "Stop at the traffic light."
+    },
+    {
+      "id": "directions-008",
+      "word": "crosswalk",
+      "ipa": "/kɹɑswɑk/",
+      "meaning": "vạch sang đường",
+      "example": "Use the crosswalk."
+    },
+    {
+      "id": "directions-009",
+      "word": "bus stop",
+      "ipa": "",
+      "meaning": "trạm xe buýt",
+      "example": "The bus stop is over there."
+    },
+    {
+      "id": "directions-010",
+      "word": "subway station",
+      "ipa": "",
+      "meaning": "ga tàu điện ngầm",
+      "example": "The subway station is nearby."
+    },
+    {
+      "id": "directions-011",
+      "word": "train station",
+      "ipa": "",
+      "meaning": "ga tàu hỏa",
+      "example": "The train station is far."
+    },
+    {
+      "id": "directions-012",
+      "word": "airport",
+      "ipa": "/ɛɹpɔɹt/",
+      "meaning": "sân bay",
+      "example": "Follow signs to the airport."
+    },
+    {
+      "id": "directions-013",
+      "word": "map",
+      "ipa": "/mæp/",
+      "meaning": "bản đồ",
+      "example": "Do you have a map?"
+    },
+    {
+      "id": "directions-014",
+      "word": "near",
+      "ipa": "/nɪɹ/",
+      "meaning": "gần",
+      "example": "Is there a restaurant near here?"
+    },
+    {
+      "id": "directions-015",
+      "word": "far",
+      "ipa": "/fɑɹ/",
+      "meaning": "xa",
+      "example": "Is the mall far from here?"
+    },
+    {
+      "id": "directions-016",
+      "word": "next to",
+      "ipa": "",
+      "meaning": "bên cạnh",
+      "example": "The bank is next to the post office."
+    },
+    {
+      "id": "directions-017",
+      "word": "across from",
+      "ipa": "",
+      "meaning": "đối diện",
+      "example": "The cafe is across from the park."
+    },
+    {
+      "id": "directions-018",
+      "word": "on the corner",
+      "ipa": "",
+      "meaning": "ở góc",
+      "example": "The shop is on the corner."
+    },
+    {
+      "id": "directions-019",
+      "word": "block",
+      "ipa": "/blɑk/",
+      "meaning": "dãy nhà",
+      "example": "Go two blocks ahead."
+    },
+    {
+      "id": "directions-020",
+      "word": "roundabout",
+      "ipa": "/ɹaʊndʌbaʊt/",
+      "meaning": "bùng binh",
+      "example": "Take the second exit."
+    },
+    {
+      "id": "directions-021",
+      "word": "entrance",
+      "ipa": "/ɛntɹʌns/",
+      "meaning": "lối vào",
+      "example": "The entrance is on the left."
+    },
+    {
+      "id": "directions-022",
+      "word": "exit",
+      "ipa": "/ɛɡzɪt/",
+      "meaning": "lối ra",
+      "example": "The exit is at the back."
+    },
+    {
+      "id": "directions-023",
+      "word": "sign",
+      "ipa": "/saɪn/",
+      "meaning": "biển chỉ dẫn",
+      "example": "Follow the sign."
+    },
+    {
+      "id": "directions-024",
+      "word": "left side",
+      "ipa": "",
+      "meaning": "bên trái",
+      "example": "It’s on the left side."
+    },
+    {
+      "id": "directions-025",
+      "word": "right side",
+      "ipa": "",
+      "meaning": "bên phải",
+      "example": "It’s on the right side."
+    },
+    {
+      "id": "directions-026",
+      "word": "straight ahead",
+      "ipa": "",
+      "meaning": "thẳng phía trước",
+      "example": "Go straight ahead."
+    },
+    {
+      "id": "directions-027",
+      "word": "behind",
+      "ipa": "/bɪhaɪnd/",
+      "meaning": "phía sau",
+      "example": "The restroom is behind you."
+    },
+    {
+      "id": "directions-028",
+      "word": "in front of",
+      "ipa": "",
+      "meaning": "phía trước",
+      "example": "The statue is in front of the museum."
+    },
+    {
+      "id": "directions-029",
+      "word": "upstairs",
+      "ipa": "/ʌpstɛɹz/",
+      "meaning": "tầng trên",
+      "example": "The office is upstairs."
+    },
+    {
+      "id": "directions-030",
+      "word": "downstairs",
+      "ipa": "/daʊnstɛɹz/",
+      "meaning": "tầng dưới",
+      "example": "The restroom is downstairs."
+    },
+    {
+      "id": "directions-031",
+      "word": "elevator",
+      "ipa": "/ɛlʌveɪtɝ/",
+      "meaning": "thang máy",
+      "example": "Take the elevator."
+    },
+    {
+      "id": "directions-032",
+      "word": "stairs",
+      "ipa": "/stɛɹz/",
+      "meaning": "cầu thang",
+      "example": "Use the stairs."
+    },
+    {
+      "id": "directions-033",
+      "word": "parking lot",
+      "ipa": "",
+      "meaning": "bãi đỗ xe",
+      "example": "The parking lot is full."
+    },
+    {
+      "id": "directions-034",
+      "word": "street",
+      "ipa": "/stɹit/",
+      "meaning": "đường",
+      "example": "This street is busy."
+    },
+    {
+      "id": "directions-035",
+      "word": "avenue",
+      "ipa": "/ævʌnu/",
+      "meaning": "đại lộ",
+      "example": "Walk along the avenue."
+    },
+    {
+      "id": "directions-036",
+      "word": "bridge",
+      "ipa": "/bɹɪdʒ/",
+      "meaning": "cầu",
+      "example": "Cross the bridge."
+    },
+    {
+      "id": "directions-037",
+      "word": "tunnel",
+      "ipa": "/tʌnʌl/",
+      "meaning": "đường hầm",
+      "example": "Go through the tunnel."
+    },
+    {
+      "id": "directions-038",
+      "word": "corner store",
+      "ipa": "",
+      "meaning": "cửa hàng góc phố",
+      "example": "There’s a corner store nearby."
+    },
+    {
+      "id": "directions-039",
+      "word": "landmark",
+      "ipa": "/lændmɑɹk/",
+      "meaning": "điểm mốc",
+      "example": "Use the tower as a landmark."
+    },
+    {
+      "id": "directions-040",
+      "word": "lost",
+      "ipa": "/lɔst/",
+      "meaning": "bị lạc",
+      "example": "I think I’m lost."
+    }
+  ]
+}

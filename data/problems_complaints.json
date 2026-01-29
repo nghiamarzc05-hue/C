@@ -1,0 +1,272 @@
+{
+  "id": "problems_complaints",
+  "name": "Phàn nàn & Vấn đề",
+  "cards": [
+    {
+      "id": "problems_complaints-001",
+      "word": "This is broken",
+      "ipa": "",
+      "meaning": "Cái này bị hỏng",
+      "example": "This is broken."
+    },
+    {
+      "id": "problems_complaints-002",
+      "word": "It doesn’t work",
+      "ipa": "",
+      "meaning": "Nó không hoạt động",
+      "example": "It doesn’t work."
+    },
+    {
+      "id": "problems_complaints-003",
+      "word": "I have a problem",
+      "ipa": "",
+      "meaning": "Tôi có vấn đề",
+      "example": "I have a problem."
+    },
+    {
+      "id": "problems_complaints-004",
+      "word": "Can you fix this?",
+      "ipa": "",
+      "meaning": "Bạn sửa được không?",
+      "example": "Can you fix this?"
+    },
+    {
+      "id": "problems_complaints-005",
+      "word": "I need help",
+      "ipa": "",
+      "meaning": "Tôi cần giúp",
+      "example": "I need help."
+    },
+    {
+      "id": "problems_complaints-006",
+      "word": "This is too slow",
+      "ipa": "",
+      "meaning": "Cái này quá chậm",
+      "example": "This is too slow."
+    },
+    {
+      "id": "problems_complaints-007",
+      "word": "This is too expensive",
+      "ipa": "",
+      "meaning": "Cái này quá đắt",
+      "example": "This is too expensive."
+    },
+    {
+      "id": "problems_complaints-008",
+      "word": "I want a refund",
+      "ipa": "",
+      "meaning": "Tôi muốn hoàn tiền",
+      "example": "I want a refund."
+    },
+    {
+      "id": "problems_complaints-009",
+      "word": "I want to complain",
+      "ipa": "",
+      "meaning": "Tôi muốn khiếu nại",
+      "example": "I want to complain."
+    },
+    {
+      "id": "problems_complaints-010",
+      "word": "That’s unacceptable",
+      "ipa": "",
+      "meaning": "Không thể chấp nhận",
+      "example": "That’s unacceptable."
+    },
+    {
+      "id": "problems_complaints-011",
+      "word": "problem",
+      "ipa": "/pɹɑblʌm/",
+      "meaning": "vấn đề",
+      "example": "We have a problem."
+    },
+    {
+      "id": "problems_complaints-012",
+      "word": "issue",
+      "ipa": "/ɪʃu/",
+      "meaning": "sự cố",
+      "example": "There is an issue."
+    },
+    {
+      "id": "problems_complaints-013",
+      "word": "complaint",
+      "ipa": "/kʌmpleɪnt/",
+      "meaning": "khiếu nại",
+      "example": "Submit a complaint."
+    },
+    {
+      "id": "problems_complaints-014",
+      "word": "refund",
+      "ipa": "/ɹɪfʌnd/",
+      "meaning": "hoàn tiền",
+      "example": "Get a refund."
+    },
+    {
+      "id": "problems_complaints-015",
+      "word": "repair",
+      "ipa": "/ɹɪpɛɹ/",
+      "meaning": "sửa chữa",
+      "example": "Repair the device."
+    },
+    {
+      "id": "problems_complaints-016",
+      "word": "damage",
+      "ipa": "/dæmʌdʒ/",
+      "meaning": "hư hỏng",
+      "example": "There is damage."
+    },
+    {
+      "id": "problems_complaints-017",
+      "word": "error",
+      "ipa": "/ɛɹɝ/",
+      "meaning": "lỗi",
+      "example": "An error occurred."
+    },
+    {
+      "id": "problems_complaints-018",
+      "word": "delay",
+      "ipa": "/dɪleɪ/",
+      "meaning": "trễ",
+      "example": "There is a delay."
+    },
+    {
+      "id": "problems_complaints-019",
+      "word": "broken",
+      "ipa": "/bɹoʊkʌn/",
+      "meaning": "bị hỏng",
+      "example": "It’s broken."
+    },
+    {
+      "id": "problems_complaints-020",
+      "word": "slow",
+      "ipa": "/sloʊ/",
+      "meaning": "chậm",
+      "example": "The service is slow."
+    },
+    {
+      "id": "problems_complaints-021",
+      "word": "expensive",
+      "ipa": "/ɪkspɛnsɪv/",
+      "meaning": "đắt",
+      "example": "It’s expensive."
+    },
+    {
+      "id": "problems_complaints-022",
+      "word": "cheap",
+      "ipa": "/tʃip/",
+      "meaning": "rẻ",
+      "example": "Cheap quality."
+    },
+    {
+      "id": "problems_complaints-023",
+      "word": "bad",
+      "ipa": "/bæd/",
+      "meaning": "tệ",
+      "example": "Bad service."
+    },
+    {
+      "id": "problems_complaints-024",
+      "word": "terrible",
+      "ipa": "/tɛɹʌbʌl/",
+      "meaning": "khủng khiếp",
+      "example": "Terrible experience."
+    },
+    {
+      "id": "problems_complaints-025",
+      "word": "fix",
+      "ipa": "/fɪks/",
+      "meaning": "sửa",
+      "example": "Fix this."
+    },
+    {
+      "id": "problems_complaints-026",
+      "word": "solve",
+      "ipa": "/sɑlv/",
+      "meaning": "giải quyết",
+      "example": "Solve the problem."
+    },
+    {
+      "id": "problems_complaints-027",
+      "word": "report",
+      "ipa": "/ɹipɔɹt/",
+      "meaning": "báo cáo",
+      "example": "Report the issue."
+    },
+    {
+      "id": "problems_complaints-028",
+      "word": "complain",
+      "ipa": "/kʌmpleɪn/",
+      "meaning": "phàn nàn",
+      "example": "I want to complain."
+    },
+    {
+      "id": "problems_complaints-029",
+      "word": "replace",
+      "ipa": "/ɹipleɪs/",
+      "meaning": "thay thế",
+      "example": "Replace the item."
+    },
+    {
+      "id": "problems_complaints-030",
+      "word": "refund me",
+      "ipa": "",
+      "meaning": "hoàn tiền cho tôi",
+      "example": "Refund me."
+    },
+    {
+      "id": "problems_complaints-031",
+      "word": "not working",
+      "ipa": "",
+      "meaning": "không hoạt động",
+      "example": "It’s not working."
+    },
+    {
+      "id": "problems_complaints-032",
+      "word": "too loud",
+      "ipa": "",
+      "meaning": "quá ồn",
+      "example": "It’s too loud."
+    },
+    {
+      "id": "problems_complaints-033",
+      "word": "too hot",
+      "ipa": "",
+      "meaning": "quá nóng",
+      "example": "It’s too hot."
+    },
+    {
+      "id": "problems_complaints-034",
+      "word": "too cold",
+      "ipa": "",
+      "meaning": "quá lạnh",
+      "example": "It’s too cold."
+    },
+    {
+      "id": "problems_complaints-035",
+      "word": "wrong order",
+      "ipa": "",
+      "meaning": "sai đơn",
+      "example": "This is the wrong order."
+    },
+    {
+      "id": "problems_complaints-036",
+      "word": "late delivery",
+      "ipa": "",
+      "meaning": "giao trễ",
+      "example": "Late delivery."
+    },
+    {
+      "id": "problems_complaints-037",
+      "word": "poor service",
+      "ipa": "",
+      "meaning": "dịch vụ kém",
+      "example": "Poor service."
+    },
+    {
+      "id": "problems_complaints-038",
+      "word": "manager",
+      "ipa": "/mænʌdʒɝ/",
+      "meaning": "quản lý",
+      "example": "Call the manager."
+    }
+  ]
+}

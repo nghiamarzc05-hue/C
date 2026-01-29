@@ -1,0 +1,286 @@
+{
+  "id": "vegetables",
+  "name": "Rau củ",
+  "cards": [
+    {
+      "id": "vegetables-001",
+      "word": "carrot",
+      "ipa": "/kæɹʌt/",
+      "meaning": "cà rốt",
+      "example": "I add carrots to my soup."
+    },
+    {
+      "id": "vegetables-002",
+      "word": "potato",
+      "ipa": "/pʌteɪtoʊ/",
+      "meaning": "khoai tây",
+      "example": "I like baked potatoes."
+    },
+    {
+      "id": "vegetables-003",
+      "word": "tomato",
+      "ipa": "/tʌmeɪtoʊ/",
+      "meaning": "cà chua",
+      "example": "She bought fresh tomatoes."
+    },
+    {
+      "id": "vegetables-004",
+      "word": "onion",
+      "ipa": "/ʌnjʌn/",
+      "meaning": "hành",
+      "example": "Chop the onion."
+    },
+    {
+      "id": "vegetables-005",
+      "word": "garlic",
+      "ipa": "/ɡɑɹlɪk/",
+      "meaning": "tỏi",
+      "example": "Add some garlic."
+    },
+    {
+      "id": "vegetables-006",
+      "word": "cabbage",
+      "ipa": "/kæbʌdʒ/",
+      "meaning": "bắp cải",
+      "example": "Cabbage is cheap."
+    },
+    {
+      "id": "vegetables-007",
+      "word": "lettuce",
+      "ipa": "/lɛtʌs/",
+      "meaning": "xà lách",
+      "example": "Put lettuce in the sandwich."
+    },
+    {
+      "id": "vegetables-008",
+      "word": "spinach",
+      "ipa": "/spɪnʌtʃ/",
+      "meaning": "rau bina",
+      "example": "Spinach is healthy."
+    },
+    {
+      "id": "vegetables-009",
+      "word": "broccoli",
+      "ipa": "/bɹɑkʌli/",
+      "meaning": "bông cải xanh",
+      "example": "Broccoli is very healthy."
+    },
+    {
+      "id": "vegetables-010",
+      "word": "cauliflower",
+      "ipa": "/kɑlʌflaʊɝ/",
+      "meaning": "bông cải trắng",
+      "example": "Roasted cauliflower is good."
+    },
+    {
+      "id": "vegetables-011",
+      "word": "cucumber",
+      "ipa": "/kjukʌmbɝ/",
+      "meaning": "dưa leo",
+      "example": "I sliced cucumber."
+    },
+    {
+      "id": "vegetables-012",
+      "word": "pumpkin",
+      "ipa": "/pʌmpkɪn/",
+      "meaning": "bí đỏ",
+      "example": "Pumpkin soup is tasty."
+    },
+    {
+      "id": "vegetables-013",
+      "word": "sweet potato",
+      "ipa": "",
+      "meaning": "khoai lang",
+      "example": "Sweet potatoes are sweet."
+    },
+    {
+      "id": "vegetables-014",
+      "word": "corn",
+      "ipa": "/kɔɹn/",
+      "meaning": "bắp",
+      "example": "Corn is in season."
+    },
+    {
+      "id": "vegetables-015",
+      "word": "peas",
+      "ipa": "/piz/",
+      "meaning": "đậu Hà Lan",
+      "example": "I like peas."
+    },
+    {
+      "id": "vegetables-016",
+      "word": "beans",
+      "ipa": "/binz/",
+      "meaning": "đậu",
+      "example": "Beans are high in protein."
+    },
+    {
+      "id": "vegetables-017",
+      "word": "eggplant",
+      "ipa": "/ɛɡplænt/",
+      "meaning": "cà tím",
+      "example": "Eggplant absorbs oil."
+    },
+    {
+      "id": "vegetables-018",
+      "word": "zucchini",
+      "ipa": "/zukini/",
+      "meaning": "bí ngòi",
+      "example": "Zucchini cooks fast."
+    },
+    {
+      "id": "vegetables-019",
+      "word": "bell pepper",
+      "ipa": "",
+      "meaning": "ớt chuông",
+      "example": "Bell peppers are crunchy."
+    },
+    {
+      "id": "vegetables-020",
+      "word": "chili",
+      "ipa": "/tʃɪli/",
+      "meaning": "ớt",
+      "example": "This chili is spicy."
+    },
+    {
+      "id": "vegetables-021",
+      "word": "ginger",
+      "ipa": "/dʒɪndʒɝ/",
+      "meaning": "gừng",
+      "example": "Ginger tea helps."
+    },
+    {
+      "id": "vegetables-022",
+      "word": "mushroom",
+      "ipa": "/mʌʃɹum/",
+      "meaning": "nấm",
+      "example": "Add mushrooms to the pasta."
+    },
+    {
+      "id": "vegetables-023",
+      "word": "radish",
+      "ipa": "/ɹædɪʃ/",
+      "meaning": "củ cải",
+      "example": "Radish is crunchy."
+    },
+    {
+      "id": "vegetables-024",
+      "word": "beet",
+      "ipa": "/bit/",
+      "meaning": "củ dền",
+      "example": "Beets turn everything red."
+    },
+    {
+      "id": "vegetables-025",
+      "word": "celery",
+      "ipa": "/sɛlɝi/",
+      "meaning": "cần tây",
+      "example": "Celery is low-calorie."
+    },
+    {
+      "id": "vegetables-026",
+      "word": "asparagus",
+      "ipa": "/ʌspɛɹʌɡʌs/",
+      "meaning": "măng tây",
+      "example": "Asparagus is pricey."
+    },
+    {
+      "id": "vegetables-027",
+      "word": "okra",
+      "ipa": "/oʊkɹʌ/",
+      "meaning": "đậu bắp",
+      "example": "Okra is slimy."
+    },
+    {
+      "id": "vegetables-028",
+      "word": "bamboo shoots",
+      "ipa": "",
+      "meaning": "măng",
+      "example": "I like bamboo shoots."
+    },
+    {
+      "id": "vegetables-029",
+      "word": "leek",
+      "ipa": "/lik/",
+      "meaning": "tỏi tây",
+      "example": "Leeks taste mild."
+    },
+    {
+      "id": "vegetables-030",
+      "word": "spring onion",
+      "ipa": "",
+      "meaning": "hành lá",
+      "example": "Top it with spring onion."
+    },
+    {
+      "id": "vegetables-031",
+      "word": "kale",
+      "ipa": "/keɪl/",
+      "meaning": "cải xoăn",
+      "example": "Kale is trendy."
+    },
+    {
+      "id": "vegetables-032",
+      "word": "bok choy",
+      "ipa": "",
+      "meaning": "cải thìa",
+      "example": "Bok choy is common in soups."
+    },
+    {
+      "id": "vegetables-033",
+      "word": "turnip",
+      "ipa": "/tɝnʌp/",
+      "meaning": "củ cải trắng",
+      "example": "Turnips are earthy."
+    },
+    {
+      "id": "vegetables-034",
+      "word": "yam",
+      "ipa": "/jæm/",
+      "meaning": "khoai mỡ",
+      "example": "Yams are sweet."
+    },
+    {
+      "id": "vegetables-035",
+      "word": "artichoke",
+      "ipa": "/ɑɹtʌtʃoʊk/",
+      "meaning": "atiso",
+      "example": "Artichokes take time to cook."
+    },
+    {
+      "id": "vegetables-036",
+      "word": "cilantro",
+      "ipa": "/sɪlæntɹoʊ/",
+      "meaning": "rau mùi",
+      "example": "Cilantro smells strong."
+    },
+    {
+      "id": "vegetables-037",
+      "word": "parsley",
+      "ipa": "/pɑɹsli/",
+      "meaning": "rau mùi tây",
+      "example": "Add parsley on top."
+    },
+    {
+      "id": "vegetables-038",
+      "word": "dill",
+      "ipa": "/dɪl/",
+      "meaning": "thì là",
+      "example": "Dill goes well with fish."
+    },
+    {
+      "id": "vegetables-039",
+      "word": "mint",
+      "ipa": "/mɪnt/",
+      "meaning": "bạc hà",
+      "example": "Mint is refreshing."
+    },
+    {
+      "id": "vegetables-040",
+      "word": "vegetable",
+      "ipa": "/vɛdʒtʌbʌl/",
+      "meaning": "rau",
+      "example": "Eat more vegetables."
+    }
+  ]
+}

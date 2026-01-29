@@ -1,0 +1,286 @@
+{
+  "id": "school_study",
+  "name": "Trường học & Học tập",
+  "cards": [
+    {
+      "id": "school_study-001",
+      "word": "I’m a student.",
+      "ipa": "",
+      "meaning": "Tôi là học sinh/sinh viên.",
+      "example": "I’m a student."
+    },
+    {
+      "id": "school_study-002",
+      "word": "I have a class today.",
+      "ipa": "",
+      "meaning": "Hôm nay tôi có lớp.",
+      "example": "I have a class today."
+    },
+    {
+      "id": "school_study-003",
+      "word": "The class starts at 9.",
+      "ipa": "",
+      "meaning": "Lớp bắt đầu lúc 9.",
+      "example": "The class starts at 9."
+    },
+    {
+      "id": "school_study-004",
+      "word": "I have homework.",
+      "ipa": "",
+      "meaning": "Tôi có bài tập về nhà.",
+      "example": "I have homework."
+    },
+    {
+      "id": "school_study-005",
+      "word": "I need to study.",
+      "ipa": "",
+      "meaning": "Tôi cần học.",
+      "example": "I need to study."
+    },
+    {
+      "id": "school_study-006",
+      "word": "Can you explain again?",
+      "ipa": "",
+      "meaning": "Bạn giải thích lại được không?",
+      "example": "Can you explain again?"
+    },
+    {
+      "id": "school_study-007",
+      "word": "I don’t understand.",
+      "ipa": "",
+      "meaning": "Tôi không hiểu.",
+      "example": "I don’t understand."
+    },
+    {
+      "id": "school_study-008",
+      "word": "Can I borrow your notes?",
+      "ipa": "",
+      "meaning": "Tôi mượn vở ghi của bạn được không?",
+      "example": "Can I borrow your notes?"
+    },
+    {
+      "id": "school_study-009",
+      "word": "I have an exam tomorrow.",
+      "ipa": "",
+      "meaning": "Ngày mai tôi có kỳ thi.",
+      "example": "I have an exam tomorrow."
+    },
+    {
+      "id": "school_study-010",
+      "word": "Good luck on your exam!",
+      "ipa": "",
+      "meaning": "Chúc may mắn trong kỳ thi!",
+      "example": "Good luck on your exam!"
+    },
+    {
+      "id": "school_study-011",
+      "word": "school",
+      "ipa": "",
+      "meaning": "trường học",
+      "example": "My school is big."
+    },
+    {
+      "id": "school_study-012",
+      "word": "university",
+      "ipa": "",
+      "meaning": "đại học",
+      "example": "I study at a university."
+    },
+    {
+      "id": "school_study-013",
+      "word": "class",
+      "ipa": "",
+      "meaning": "lớp học",
+      "example": "The class is interesting."
+    },
+    {
+      "id": "school_study-014",
+      "word": "teacher",
+      "ipa": "",
+      "meaning": "giáo viên",
+      "example": "The teacher is kind."
+    },
+    {
+      "id": "school_study-015",
+      "word": "professor",
+      "ipa": "",
+      "meaning": "giảng viên",
+      "example": "The professor is strict."
+    },
+    {
+      "id": "school_study-016",
+      "word": "student",
+      "ipa": "",
+      "meaning": "học sinh/sinh viên",
+      "example": "She is a good student."
+    },
+    {
+      "id": "school_study-017",
+      "word": "lesson",
+      "ipa": "",
+      "meaning": "bài học",
+      "example": "Today’s lesson is easy."
+    },
+    {
+      "id": "school_study-018",
+      "word": "homework",
+      "ipa": "",
+      "meaning": "bài tập",
+      "example": "Finish your homework."
+    },
+    {
+      "id": "school_study-019",
+      "word": "assignment",
+      "ipa": "",
+      "meaning": "bài tập lớn",
+      "example": "I submitted my assignment."
+    },
+    {
+      "id": "school_study-020",
+      "word": "exam",
+      "ipa": "",
+      "meaning": "kỳ thi",
+      "example": "The exam is difficult."
+    },
+    {
+      "id": "school_study-021",
+      "word": "test",
+      "ipa": "",
+      "meaning": "bài kiểm tra",
+      "example": "We have a test today."
+    },
+    {
+      "id": "school_study-022",
+      "word": "quiz",
+      "ipa": "",
+      "meaning": "bài kiểm tra ngắn",
+      "example": "There is a quiz."
+    },
+    {
+      "id": "school_study-023",
+      "word": "grade",
+      "ipa": "",
+      "meaning": "điểm số",
+      "example": "I got a good grade."
+    },
+    {
+      "id": "school_study-024",
+      "word": "score",
+      "ipa": "",
+      "meaning": "điểm",
+      "example": "My score is high."
+    },
+    {
+      "id": "school_study-025",
+      "word": "subject",
+      "ipa": "",
+      "meaning": "môn học",
+      "example": "Math is my favorite subject."
+    },
+    {
+      "id": "school_study-026",
+      "word": "math",
+      "ipa": "",
+      "meaning": "toán",
+      "example": "I’m good at math."
+    },
+    {
+      "id": "school_study-027",
+      "word": "english",
+      "ipa": "",
+      "meaning": "tiếng Anh",
+      "example": "I study English."
+    },
+    {
+      "id": "school_study-028",
+      "word": "science",
+      "ipa": "",
+      "meaning": "khoa học",
+      "example": "Science is fun."
+    },
+    {
+      "id": "school_study-029",
+      "word": "library",
+      "ipa": "",
+      "meaning": "thư viện",
+      "example": "I study in the library."
+    },
+    {
+      "id": "school_study-030",
+      "word": "notebook",
+      "ipa": "",
+      "meaning": "vở ghi",
+      "example": "Write in your notebook."
+    },
+    {
+      "id": "school_study-031",
+      "word": "study",
+      "ipa": "",
+      "meaning": "học",
+      "example": "I study every night."
+    },
+    {
+      "id": "school_study-032",
+      "word": "learn",
+      "ipa": "",
+      "meaning": "học hỏi",
+      "example": "I want to learn English."
+    },
+    {
+      "id": "school_study-033",
+      "word": "read",
+      "ipa": "",
+      "meaning": "đọc",
+      "example": "I read textbooks."
+    },
+    {
+      "id": "school_study-034",
+      "word": "write",
+      "ipa": "",
+      "meaning": "viết",
+      "example": "Write your answer."
+    },
+    {
+      "id": "school_study-035",
+      "word": "listen",
+      "ipa": "",
+      "meaning": "nghe",
+      "example": "Listen carefully."
+    },
+    {
+      "id": "school_study-036",
+      "word": "practice",
+      "ipa": "",
+      "meaning": "luyện tập",
+      "example": "Practice every day."
+    },
+    {
+      "id": "school_study-037",
+      "word": "understand",
+      "ipa": "",
+      "meaning": "hiểu",
+      "example": "Do you understand?"
+    },
+    {
+      "id": "school_study-038",
+      "word": "review",
+      "ipa": "",
+      "meaning": "ôn tập",
+      "example": "Let’s review."
+    },
+    {
+      "id": "school_study-039",
+      "word": "pass",
+      "ipa": "",
+      "meaning": "đậu",
+      "example": "I passed the exam."
+    },
+    {
+      "id": "school_study-040",
+      "word": "fail",
+      "ipa": "",
+      "meaning": "rớt",
+      "example": "He failed the test."
+    }
+  ]
+}

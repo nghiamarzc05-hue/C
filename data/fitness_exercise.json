@@ -1,0 +1,286 @@
+{
+  "id": "fitness_exercise",
+  "name": "Thể dục & Gym",
+  "cards": [
+    {
+      "id": "fitness_exercise-001",
+      "word": "I go to the gym.",
+      "ipa": "",
+      "meaning": "Tôi đi phòng gym.",
+      "example": "I go to the gym."
+    },
+    {
+      "id": "fitness_exercise-002",
+      "word": "Let’s work out.",
+      "ipa": "",
+      "meaning": "Tập luyện thôi.",
+      "example": "Let’s work out."
+    },
+    {
+      "id": "fitness_exercise-003",
+      "word": "I need to lose weight.",
+      "ipa": "",
+      "meaning": "Tôi cần giảm cân.",
+      "example": "I need to lose weight."
+    },
+    {
+      "id": "fitness_exercise-004",
+      "word": "I want to build muscle.",
+      "ipa": "",
+      "meaning": "Tôi muốn tăng cơ.",
+      "example": "I want to build muscle."
+    },
+    {
+      "id": "fitness_exercise-005",
+      "word": "I do cardio.",
+      "ipa": "",
+      "meaning": "Tôi tập cardio.",
+      "example": "I do cardio."
+    },
+    {
+      "id": "fitness_exercise-006",
+      "word": "I lift weights.",
+      "ipa": "",
+      "meaning": "Tôi nâng tạ.",
+      "example": "I lift weights."
+    },
+    {
+      "id": "fitness_exercise-007",
+      "word": "I’m tired.",
+      "ipa": "",
+      "meaning": "Tôi mệt.",
+      "example": "I’m tired."
+    },
+    {
+      "id": "fitness_exercise-008",
+      "word": "Take a rest.",
+      "ipa": "",
+      "meaning": "Nghỉ một chút.",
+      "example": "Take a rest."
+    },
+    {
+      "id": "fitness_exercise-009",
+      "word": "Drink water.",
+      "ipa": "",
+      "meaning": "Uống nước.",
+      "example": "Drink water."
+    },
+    {
+      "id": "fitness_exercise-010",
+      "word": "Good workout!",
+      "ipa": "",
+      "meaning": "Buổi tập tốt!",
+      "example": "Good workout!"
+    },
+    {
+      "id": "fitness_exercise-011",
+      "word": "gym",
+      "ipa": "/dʒɪm/",
+      "meaning": "phòng gym",
+      "example": "The gym is crowded."
+    },
+    {
+      "id": "fitness_exercise-012",
+      "word": "workout",
+      "ipa": "/wɝkaʊt/",
+      "meaning": "buổi tập",
+      "example": "That was a good workout."
+    },
+    {
+      "id": "fitness_exercise-013",
+      "word": "exercise",
+      "ipa": "/ɛksɝsaɪz/",
+      "meaning": "bài tập",
+      "example": "Exercise is healthy."
+    },
+    {
+      "id": "fitness_exercise-014",
+      "word": "training",
+      "ipa": "/tɹeɪnɪŋ/",
+      "meaning": "tập luyện",
+      "example": "Daily training."
+    },
+    {
+      "id": "fitness_exercise-015",
+      "word": "muscle",
+      "ipa": "/mʌsʌl/",
+      "meaning": "cơ bắp",
+      "example": "Build muscle."
+    },
+    {
+      "id": "fitness_exercise-016",
+      "word": "weight",
+      "ipa": "/weɪt/",
+      "meaning": "cân nặng",
+      "example": "I lost weight."
+    },
+    {
+      "id": "fitness_exercise-017",
+      "word": "dumbbell",
+      "ipa": "/dʌmbɛl/",
+      "meaning": "tạ tay",
+      "example": "Lift the dumbbell."
+    },
+    {
+      "id": "fitness_exercise-018",
+      "word": "barbell",
+      "ipa": "/bɑɹbɛl/",
+      "meaning": "tạ đòn",
+      "example": "Use the barbell."
+    },
+    {
+      "id": "fitness_exercise-019",
+      "word": "treadmill",
+      "ipa": "/tɹɛdmɪl/",
+      "meaning": "máy chạy",
+      "example": "Run on the treadmill."
+    },
+    {
+      "id": "fitness_exercise-020",
+      "word": "yoga",
+      "ipa": "/joʊɡʌ/",
+      "meaning": "yoga",
+      "example": "I do yoga."
+    },
+    {
+      "id": "fitness_exercise-021",
+      "word": "stretch",
+      "ipa": "/stɹɛtʃ/",
+      "meaning": "giãn cơ",
+      "example": "Stretch your body."
+    },
+    {
+      "id": "fitness_exercise-022",
+      "word": "push-up",
+      "ipa": "/pʊʃʌp/",
+      "meaning": "hít đất",
+      "example": "Do push-ups."
+    },
+    {
+      "id": "fitness_exercise-023",
+      "word": "sit-up",
+      "ipa": "",
+      "meaning": "gập bụng",
+      "example": "Do sit-ups."
+    },
+    {
+      "id": "fitness_exercise-024",
+      "word": "plank",
+      "ipa": "/plæŋk/",
+      "meaning": "plank",
+      "example": "Hold a plank."
+    },
+    {
+      "id": "fitness_exercise-025",
+      "word": "protein",
+      "ipa": "/pɹoʊtin/",
+      "meaning": "đạm",
+      "example": "Eat protein."
+    },
+    {
+      "id": "fitness_exercise-026",
+      "word": "energy",
+      "ipa": "/ɛnɝdʒi/",
+      "meaning": "năng lượng",
+      "example": "I need energy."
+    },
+    {
+      "id": "fitness_exercise-027",
+      "word": "trainer",
+      "ipa": "/tɹeɪnɝ/",
+      "meaning": "huấn luyện viên",
+      "example": "The trainer helps me."
+    },
+    {
+      "id": "fitness_exercise-028",
+      "word": "membership",
+      "ipa": "/mɛmbɝʃɪp/",
+      "meaning": "thẻ thành viên",
+      "example": "Gym membership."
+    },
+    {
+      "id": "fitness_exercise-029",
+      "word": "locker",
+      "ipa": "/lɑkɝ/",
+      "meaning": "tủ khóa",
+      "example": "Put your bag in the locker."
+    },
+    {
+      "id": "fitness_exercise-030",
+      "word": "shower",
+      "ipa": "/ʃaʊɝ/",
+      "meaning": "phòng tắm",
+      "example": "Take a shower."
+    },
+    {
+      "id": "fitness_exercise-031",
+      "word": "strong",
+      "ipa": "/stɹɔŋ/",
+      "meaning": "mạnh",
+      "example": "I feel strong."
+    },
+    {
+      "id": "fitness_exercise-032",
+      "word": "healthy",
+      "ipa": "/hɛlθi/",
+      "meaning": "khỏe mạnh",
+      "example": "Stay healthy."
+    },
+    {
+      "id": "fitness_exercise-033",
+      "word": "fit",
+      "ipa": "/fɪt/",
+      "meaning": "thể lực tốt",
+      "example": "I want to be fit."
+    },
+    {
+      "id": "fitness_exercise-034",
+      "word": "weak",
+      "ipa": "/wik/",
+      "meaning": "yếu",
+      "example": "I feel weak."
+    },
+    {
+      "id": "fitness_exercise-035",
+      "word": "sore",
+      "ipa": "/sɔɹ/",
+      "meaning": "đau cơ",
+      "example": "My muscles are sore."
+    },
+    {
+      "id": "fitness_exercise-036",
+      "word": "heavy",
+      "ipa": "/hɛvi/",
+      "meaning": "nặng",
+      "example": "This weight is heavy."
+    },
+    {
+      "id": "fitness_exercise-037",
+      "word": "light",
+      "ipa": "/laɪt/",
+      "meaning": "nhẹ",
+      "example": "Use lighter weights."
+    },
+    {
+      "id": "fitness_exercise-038",
+      "word": "fast",
+      "ipa": "/fæst/",
+      "meaning": "nhanh",
+      "example": "Run fast."
+    },
+    {
+      "id": "fitness_exercise-039",
+      "word": "slow",
+      "ipa": "/sloʊ/",
+      "meaning": "chậm",
+      "example": "Go slow."
+    },
+    {
+      "id": "fitness_exercise-040",
+      "word": "ready",
+      "ipa": "/ɹɛdi/",
+      "meaning": "sẵn sàng",
+      "example": "I’m ready."
+    }
+  ]
+}

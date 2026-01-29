@@ -1,0 +1,279 @@
+{
+  "id": "drinks",
+  "name": "Đồ uống",
+  "cards": [
+    {
+      "id": "drinks-001",
+      "word": "water",
+      "ipa": "/wɔtɝ/",
+      "meaning": "nước",
+      "example": "I drink water every day."
+    },
+    {
+      "id": "drinks-002",
+      "word": "coffee",
+      "ipa": "/kɑfi/",
+      "meaning": "cà phê",
+      "example": "I need a cup of coffee."
+    },
+    {
+      "id": "drinks-003",
+      "word": "tea",
+      "ipa": "/ti/",
+      "meaning": "trà",
+      "example": "She prefers tea."
+    },
+    {
+      "id": "drinks-004",
+      "word": "milk",
+      "ipa": "/mɪlk/",
+      "meaning": "sữa",
+      "example": "Kids drink milk."
+    },
+    {
+      "id": "drinks-005",
+      "word": "juice",
+      "ipa": "/dʒus/",
+      "meaning": "nước ép",
+      "example": "He ordered orange juice."
+    },
+    {
+      "id": "drinks-006",
+      "word": "soda",
+      "ipa": "/soʊdʌ/",
+      "meaning": "nước ngọt",
+      "example": "She drinks soda."
+    },
+    {
+      "id": "drinks-007",
+      "word": "beer",
+      "ipa": "/bɪɹ/",
+      "meaning": "bia",
+      "example": "They had a beer."
+    },
+    {
+      "id": "drinks-008",
+      "word": "wine",
+      "ipa": "/waɪn/",
+      "meaning": "rượu vang",
+      "example": "He bought wine."
+    },
+    {
+      "id": "drinks-009",
+      "word": "cocktail",
+      "ipa": "/kɑkteɪl/",
+      "meaning": "cocktail",
+      "example": "She ordered a cocktail."
+    },
+    {
+      "id": "drinks-010",
+      "word": "smoothie",
+      "ipa": "",
+      "meaning": "sinh tố",
+      "example": "I made a smoothie."
+    },
+    {
+      "id": "drinks-011",
+      "word": "lemonade",
+      "ipa": "/lɛmʌneɪd/",
+      "meaning": "nước chanh",
+      "example": "She drank lemonade."
+    },
+    {
+      "id": "drinks-012",
+      "word": "hot chocolate",
+      "ipa": "",
+      "meaning": "sô cô la nóng",
+      "example": "I like hot chocolate."
+    },
+    {
+      "id": "drinks-013",
+      "word": "green tea",
+      "ipa": "",
+      "meaning": "trà xanh",
+      "example": "Green tea is healthy."
+    },
+    {
+      "id": "drinks-014",
+      "word": "black tea",
+      "ipa": "",
+      "meaning": "trà đen",
+      "example": "He drinks black tea."
+    },
+    {
+      "id": "drinks-015",
+      "word": "herbal tea",
+      "ipa": "",
+      "meaning": "trà thảo mộc",
+      "example": "Herbal tea relaxes me."
+    },
+    {
+      "id": "drinks-016",
+      "word": "milkshake",
+      "ipa": "/mɪlkʃeɪk/",
+      "meaning": "sữa lắc",
+      "example": "We shared a milkshake."
+    },
+    {
+      "id": "drinks-017",
+      "word": "energy drink",
+      "ipa": "",
+      "meaning": "nước tăng lực",
+      "example": "He bought an energy drink."
+    },
+    {
+      "id": "drinks-018",
+      "word": "sparkling water",
+      "ipa": "",
+      "meaning": "nước có ga",
+      "example": "I prefer sparkling water."
+    },
+    {
+      "id": "drinks-019",
+      "word": "iced coffee",
+      "ipa": "",
+      "meaning": "cà phê đá",
+      "example": "She ordered iced coffee."
+    },
+    {
+      "id": "drinks-020",
+      "word": "coconut water",
+      "ipa": "",
+      "meaning": "nước dừa",
+      "example": "Coconut water is refreshing."
+    },
+    {
+      "id": "drinks-021",
+      "word": "latte",
+      "ipa": "/lɑteɪ/",
+      "meaning": "latte",
+      "example": "I ordered a latte."
+    },
+    {
+      "id": "drinks-022",
+      "word": "espresso",
+      "ipa": "/ɛspɹɛsoʊ/",
+      "meaning": "espresso",
+      "example": "He drinks espresso."
+    },
+    {
+      "id": "drinks-023",
+      "word": "americano",
+      "ipa": "/ʌmɛɹɪkɑnoʊ/",
+      "meaning": "americano",
+      "example": "I like Americano."
+    },
+    {
+      "id": "drinks-024",
+      "word": "mocha",
+      "ipa": "/moʊkʌ/",
+      "meaning": "mocha",
+      "example": "Mocha is sweet."
+    },
+    {
+      "id": "drinks-025",
+      "word": "bubble tea",
+      "ipa": "",
+      "meaning": "trà sữa",
+      "example": "Bubble tea is popular."
+    },
+    {
+      "id": "drinks-026",
+      "word": "cold brew",
+      "ipa": "",
+      "meaning": "cà phê ủ lạnh",
+      "example": "Cold brew tastes smooth."
+    },
+    {
+      "id": "drinks-027",
+      "word": "tap water",
+      "ipa": "",
+      "meaning": "nước máy",
+      "example": "Tap water is safe."
+    },
+    {
+      "id": "drinks-028",
+      "word": "bottled water",
+      "ipa": "",
+      "meaning": "nước đóng chai",
+      "example": "I bought bottled water."
+    },
+    {
+      "id": "drinks-029",
+      "word": "fruit tea",
+      "ipa": "",
+      "meaning": "trà trái cây",
+      "example": "She likes fruit tea."
+    },
+    {
+      "id": "drinks-030",
+      "word": "yogurt drink",
+      "ipa": "",
+      "meaning": "sữa chua uống",
+      "example": "Yogurt drink is healthy."
+    },
+    {
+      "id": "drinks-031",
+      "word": "drink",
+      "ipa": "/dɹɪŋk/",
+      "meaning": "đồ uống",
+      "example": "What drink do you want?"
+    },
+    {
+      "id": "drinks-032",
+      "word": "pour",
+      "ipa": "/pɔɹ/",
+      "meaning": "rót",
+      "example": "Pour me some tea."
+    },
+    {
+      "id": "drinks-033",
+      "word": "sip",
+      "ipa": "/sɪp/",
+      "meaning": "nhấp",
+      "example": "He sipped his coffee."
+    },
+    {
+      "id": "drinks-034",
+      "word": "cheers",
+      "ipa": "/tʃɪɹz/",
+      "meaning": "cụng ly",
+      "example": "Cheers!"
+    },
+    {
+      "id": "drinks-035",
+      "word": "refill",
+      "ipa": "/ɹifɪl/",
+      "meaning": "đổ thêm",
+      "example": "Can I get a refill?"
+    },
+    {
+      "id": "drinks-036",
+      "word": "ice",
+      "ipa": "/aɪs/",
+      "meaning": "đá",
+      "example": "Add some ice."
+    },
+    {
+      "id": "drinks-037",
+      "word": "hot",
+      "ipa": "/hɑt/",
+      "meaning": "nóng",
+      "example": "This tea is hot."
+    },
+    {
+      "id": "drinks-038",
+      "word": "cold",
+      "ipa": "/koʊld/",
+      "meaning": "lạnh",
+      "example": "I want a cold drink."
+    },
+    {
+      "id": "drinks-039",
+      "word": "refreshing",
+      "ipa": "/ɹɪfɹɛʃɪŋ/",
+      "meaning": "sảng khoái",
+      "example": "This drink is refreshing."
+    }
+  ]
+}

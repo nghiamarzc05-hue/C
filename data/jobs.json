@@ -1,0 +1,286 @@
+{
+  "id": "jobs",
+  "name": "Nghề nghiệp",
+  "cards": [
+    {
+      "id": "jobs-001",
+      "word": "teacher",
+      "ipa": "/titʃɝ/",
+      "meaning": "giáo viên",
+      "example": "She works as a teacher."
+    },
+    {
+      "id": "jobs-002",
+      "word": "doctor",
+      "ipa": "/dɑktɝ/",
+      "meaning": "bác sĩ",
+      "example": "I need to see a doctor."
+    },
+    {
+      "id": "jobs-003",
+      "word": "nurse",
+      "ipa": "/nɝs/",
+      "meaning": "y tá",
+      "example": "The nurse was very kind."
+    },
+    {
+      "id": "jobs-004",
+      "word": "engineer",
+      "ipa": "/ɛndʒʌnɪɹ/",
+      "meaning": "kỹ sư",
+      "example": "My brother is an engineer."
+    },
+    {
+      "id": "jobs-005",
+      "word": "software developer",
+      "ipa": "",
+      "meaning": "lập trình viên",
+      "example": "He’s a software developer."
+    },
+    {
+      "id": "jobs-006",
+      "word": "designer",
+      "ipa": "/dɪzaɪnɝ/",
+      "meaning": "nhà thiết kế",
+      "example": "She’s a graphic designer."
+    },
+    {
+      "id": "jobs-007",
+      "word": "accountant",
+      "ipa": "/ʌkaʊntʌnt/",
+      "meaning": "kế toán",
+      "example": "My aunt is an accountant."
+    },
+    {
+      "id": "jobs-008",
+      "word": "chef",
+      "ipa": "/ʃɛf/",
+      "meaning": "đầu bếp",
+      "example": "The chef cooked a great meal."
+    },
+    {
+      "id": "jobs-009",
+      "word": "waiter",
+      "ipa": "/weɪtɝ/",
+      "meaning": "bồi bàn (nam)",
+      "example": "The waiter brought our food."
+    },
+    {
+      "id": "jobs-010",
+      "word": "waitress",
+      "ipa": "/weɪtɹʌs/",
+      "meaning": "bồi bàn (nữ)",
+      "example": "The waitress was friendly."
+    },
+    {
+      "id": "jobs-011",
+      "word": "cashier",
+      "ipa": "/kæʃɪɹ/",
+      "meaning": "thu ngân",
+      "example": "The cashier helped me."
+    },
+    {
+      "id": "jobs-012",
+      "word": "salesperson",
+      "ipa": "/seɪlzpɝsʌn/",
+      "meaning": "nhân viên bán hàng",
+      "example": "Ask a salesperson for help."
+    },
+    {
+      "id": "jobs-013",
+      "word": "driver",
+      "ipa": "/dɹaɪvɝ/",
+      "meaning": "tài xế",
+      "example": "He works as a driver."
+    },
+    {
+      "id": "jobs-014",
+      "word": "pilot",
+      "ipa": "/paɪlʌt/",
+      "meaning": "phi công",
+      "example": "The pilot announced the delay."
+    },
+    {
+      "id": "jobs-015",
+      "word": "flight attendant",
+      "ipa": "",
+      "meaning": "tiếp viên hàng không",
+      "example": "The flight attendant was helpful."
+    },
+    {
+      "id": "jobs-016",
+      "word": "police officer",
+      "ipa": "",
+      "meaning": "cảnh sát",
+      "example": "A police officer guided traffic."
+    },
+    {
+      "id": "jobs-017",
+      "word": "firefighter",
+      "ipa": "/faɪɹfaɪtɝ/",
+      "meaning": "lính cứu hỏa",
+      "example": "Firefighters arrived quickly."
+    },
+    {
+      "id": "jobs-018",
+      "word": "dentist",
+      "ipa": "/dɛntʌst/",
+      "meaning": "nha sĩ",
+      "example": "I have a dentist appointment."
+    },
+    {
+      "id": "jobs-019",
+      "word": "pharmacist",
+      "ipa": "/fɑɹmʌsɪst/",
+      "meaning": "dược sĩ",
+      "example": "Talk to the pharmacist."
+    },
+    {
+      "id": "jobs-020",
+      "word": "lawyer",
+      "ipa": "/lɔjɝ/",
+      "meaning": "luật sư",
+      "example": "She hired a lawyer."
+    },
+    {
+      "id": "jobs-021",
+      "word": "judge",
+      "ipa": "/dʒʌdʒ/",
+      "meaning": "thẩm phán",
+      "example": "The judge made a decision."
+    },
+    {
+      "id": "jobs-022",
+      "word": "manager",
+      "ipa": "/mænʌdʒɝ/",
+      "meaning": "quản lý",
+      "example": "My manager is supportive."
+    },
+    {
+      "id": "jobs-023",
+      "word": "boss",
+      "ipa": "/bɑs/",
+      "meaning": "sếp",
+      "example": "I’ll ask my boss."
+    },
+    {
+      "id": "jobs-024",
+      "word": "barista",
+      "ipa": "/bɑɹistʌ/",
+      "meaning": "nhân viên pha cà phê",
+      "example": "The barista made my latte."
+    },
+    {
+      "id": "jobs-025",
+      "word": "mechanic",
+      "ipa": "/mʌkænɪk/",
+      "meaning": "thợ sửa xe",
+      "example": "The mechanic fixed my car."
+    },
+    {
+      "id": "jobs-026",
+      "word": "electrician",
+      "ipa": "/ɪlɛktɹɪʃʌn/",
+      "meaning": "thợ điện",
+      "example": "We called an electrician."
+    },
+    {
+      "id": "jobs-027",
+      "word": "plumber",
+      "ipa": "/plʌmɝ/",
+      "meaning": "thợ sửa ống nước",
+      "example": "A plumber can fix it."
+    },
+    {
+      "id": "jobs-028",
+      "word": "construction worker",
+      "ipa": "",
+      "meaning": "công nhân xây dựng",
+      "example": "Construction workers start early."
+    },
+    {
+      "id": "jobs-029",
+      "word": "architect",
+      "ipa": "/ɑɹkʌtɛkt/",
+      "meaning": "kiến trúc sư",
+      "example": "The architect designed the house."
+    },
+    {
+      "id": "jobs-030",
+      "word": "scientist",
+      "ipa": "/saɪʌntɪst/",
+      "meaning": "nhà khoa học",
+      "example": "Scientists study diseases."
+    },
+    {
+      "id": "jobs-031",
+      "word": "researcher",
+      "ipa": "/ɹisɝtʃɝ/",
+      "meaning": "nhà nghiên cứu",
+      "example": "She is a researcher."
+    },
+    {
+      "id": "jobs-032",
+      "word": "professor",
+      "ipa": "/pɹʌfɛsɝ/",
+      "meaning": "giáo sư",
+      "example": "The professor gave a lecture."
+    },
+    {
+      "id": "jobs-033",
+      "word": "student",
+      "ipa": "/studʌnt/",
+      "meaning": "học sinh/sinh viên",
+      "example": "I’m a student."
+    },
+    {
+      "id": "jobs-034",
+      "word": "translator",
+      "ipa": "/tɹænsleɪtɝ/",
+      "meaning": "phiên dịch",
+      "example": "He works as a translator."
+    },
+    {
+      "id": "jobs-035",
+      "word": "photographer",
+      "ipa": "/fʌtɑɡɹʌfɝ/",
+      "meaning": "nhiếp ảnh gia",
+      "example": "The photographer took pictures."
+    },
+    {
+      "id": "jobs-036",
+      "word": "musician",
+      "ipa": "/mjuzɪʃʌn/",
+      "meaning": "nhạc sĩ",
+      "example": "She’s a musician."
+    },
+    {
+      "id": "jobs-037",
+      "word": "actor",
+      "ipa": "/æktɝ/",
+      "meaning": "diễn viên",
+      "example": "He’s an actor."
+    },
+    {
+      "id": "jobs-038",
+      "word": "athlete",
+      "ipa": "/æθlit/",
+      "meaning": "vận động viên",
+      "example": "She’s a professional athlete."
+    },
+    {
+      "id": "jobs-039",
+      "word": "office worker",
+      "ipa": "",
+      "meaning": "nhân viên văn phòng",
+      "example": "He’s an office worker."
+    },
+    {
+      "id": "jobs-040",
+      "word": "entrepreneur",
+      "ipa": "/ɑntɹʌpɹʌnɝ/",
+      "meaning": "doanh nhân",
+      "example": "She’s an entrepreneur."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "work_office",
+  "name": "Công việc & Văn phòng",
+  "cards": [
+    {
+      "id": "work_office-001",
+      "word": "What do you do for work?",
+      "ipa": "",
+      "meaning": "Bạn làm nghề gì?",
+      "example": "What do you do for work?"
+    },
+    {
+      "id": "work_office-002",
+      "word": "I work in an office.",
+      "ipa": "",
+      "meaning": "Tôi làm việc ở văn phòng.",
+      "example": "I work in an office."
+    },
+    {
+      "id": "work_office-003",
+      "word": "I have a meeting.",
+      "ipa": "",
+      "meaning": "Tôi có cuộc họp.",
+      "example": "I have a meeting."
+    },
+    {
+      "id": "work_office-004",
+      "word": "Let’s start the meeting.",
+      "ipa": "",
+      "meaning": "Bắt đầu cuộc họp thôi.",
+      "example": "Let’s start the meeting."
+    },
+    {
+      "id": "work_office-005",
+      "word": "Please send me the file.",
+      "ipa": "",
+      "meaning": "Gửi file cho tôi nhé.",
+      "example": "Please send me the file."
+    },
+    {
+      "id": "work_office-006",
+      "word": "I’ll finish it today.",
+      "ipa": "",
+      "meaning": "Tôi sẽ xong hôm nay.",
+      "example": "I’ll finish it today."
+    },
+    {
+      "id": "work_office-007",
+      "word": "The deadline is tomorrow.",
+      "ipa": "",
+      "meaning": "Hạn chót là ngày mai.",
+      "example": "The deadline is tomorrow."
+    },
+    {
+      "id": "work_office-008",
+      "word": "Can you help me?",
+      "ipa": "",
+      "meaning": "Bạn giúp tôi được không?",
+      "example": "Can you help me?"
+    },
+    {
+      "id": "work_office-009",
+      "word": "Good job!",
+      "ipa": "",
+      "meaning": "Làm tốt lắm!",
+      "example": "Good job!"
+    },
+    {
+      "id": "work_office-010",
+      "word": "Let’s take a break.",
+      "ipa": "",
+      "meaning": "Nghỉ giải lao thôi.",
+      "example": "Let’s take a break."
+    },
+    {
+      "id": "work_office-011",
+      "word": "office",
+      "ipa": "",
+      "meaning": "văn phòng",
+      "example": "The office is quiet."
+    },
+    {
+      "id": "work_office-012",
+      "word": "company",
+      "ipa": "",
+      "meaning": "công ty",
+      "example": "I work for a company."
+    },
+    {
+      "id": "work_office-013",
+      "word": "boss",
+      "ipa": "",
+      "meaning": "sếp",
+      "example": "My boss is friendly."
+    },
+    {
+      "id": "work_office-014",
+      "word": "manager",
+      "ipa": "",
+      "meaning": "quản lý",
+      "example": "The manager called me."
+    },
+    {
+      "id": "work_office-015",
+      "word": "coworker",
+      "ipa": "",
+      "meaning": "đồng nghiệp",
+      "example": "My coworker helped me."
+    },
+    {
+      "id": "work_office-016",
+      "word": "employee",
+      "ipa": "",
+      "meaning": "nhân viên",
+      "example": "He is an employee."
+    },
+    {
+      "id": "work_office-017",
+      "word": "meeting",
+      "ipa": "",
+      "meaning": "cuộc họp",
+      "example": "The meeting starts at 9."
+    },
+    {
+      "id": "work_office-018",
+      "word": "project",
+      "ipa": "",
+      "meaning": "dự án",
+      "example": "This project is important."
+    },
+    {
+      "id": "work_office-019",
+      "word": "task",
+      "ipa": "",
+      "meaning": "nhiệm vụ",
+      "example": "I finished my task."
+    },
+    {
+      "id": "work_office-020",
+      "word": "deadline",
+      "ipa": "",
+      "meaning": "hạn chót",
+      "example": "We must meet the deadline."
+    },
+    {
+      "id": "work_office-021",
+      "word": "report",
+      "ipa": "",
+      "meaning": "báo cáo",
+      "example": "Write a report."
+    },
+    {
+      "id": "work_office-022",
+      "word": "email",
+      "ipa": "",
+      "meaning": "email",
+      "example": "Send me an email."
+    },
+    {
+      "id": "work_office-023",
+      "word": "file",
+      "ipa": "",
+      "meaning": "tài liệu",
+      "example": "Open the file."
+    },
+    {
+      "id": "work_office-024",
+      "word": "document",
+      "ipa": "",
+      "meaning": "tài liệu",
+      "example": "This document is ready."
+    },
+    {
+      "id": "work_office-025",
+      "word": "presentation",
+      "ipa": "",
+      "meaning": "bài thuyết trình",
+      "example": "The presentation went well."
+    },
+    {
+      "id": "work_office-026",
+      "word": "computer",
+      "ipa": "",
+      "meaning": "máy tính",
+      "example": "My computer is slow."
+    },
+    {
+      "id": "work_office-027",
+      "word": "printer",
+      "ipa": "",
+      "meaning": "máy in",
+      "example": "The printer is out of ink."
+    },
+    {
+      "id": "work_office-028",
+      "word": "desk",
+      "ipa": "",
+      "meaning": "bàn làm việc",
+      "example": "My desk is messy."
+    },
+    {
+      "id": "work_office-029",
+      "word": "chair",
+      "ipa": "",
+      "meaning": "ghế",
+      "example": "Sit on the chair."
+    },
+    {
+      "id": "work_office-030",
+      "word": "salary",
+      "ipa": "",
+      "meaning": "lương",
+      "example": "My salary is good."
+    },
+    {
+      "id": "work_office-031",
+      "word": "busy",
+      "ipa": "",
+      "meaning": "bận",
+      "example": "I’m busy right now."
+    },
+    {
+      "id": "work_office-032",
+      "word": "free",
+      "ipa": "",
+      "meaning": "rảnh",
+      "example": "Are you free this afternoon?"
+    },
+    {
+      "id": "work_office-033",
+      "word": "tired",
+      "ipa": "",
+      "meaning": "mệt",
+      "example": "I feel tired after work."
+    },
+    {
+      "id": "work_office-034",
+      "word": "productive",
+      "ipa": "",
+      "meaning": "hiệu quả",
+      "example": "Today was productive."
+    },
+    {
+      "id": "work_office-035",
+      "word": "professional",
+      "ipa": "",
+      "meaning": "chuyên nghiệp",
+      "example": "He is very professional."
+    },
+    {
+      "id": "work_office-036",
+      "word": "hire",
+      "ipa": "",
+      "meaning": "tuyển dụng",
+      "example": "The company will hire staff."
+    },
+    {
+      "id": "work_office-037",
+      "word": "fire",
+      "ipa": "",
+      "meaning": "sa thải",
+      "example": "He got fired."
+    },
+    {
+      "id": "work_office-038",
+      "word": "promote",
+      "ipa": "",
+      "meaning": "thăng chức",
+      "example": "She was promoted."
+    },
+    {
+      "id": "work_office-039",
+      "word": "work overtime",
+      "ipa": "",
+      "meaning": "làm thêm giờ",
+      "example": "I work overtime."
+    },
+    {
+      "id": "work_office-040",
+      "word": "take a day off",
+      "ipa": "",
+      "meaning": "nghỉ một ngày",
+      "example": "I’ll take a day off tomorrow."
+    }
+  ]
+}

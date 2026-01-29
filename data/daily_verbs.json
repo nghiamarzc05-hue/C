@@ -1,0 +1,286 @@
+{
+  "id": "daily_verbs",
+  "name": "Động từ thường nhật",
+  "cards": [
+    {
+      "id": "daily_verbs-001",
+      "word": "wake",
+      "ipa": "/weɪk/",
+      "meaning": "thức dậy",
+      "example": "I wake up at 7."
+    },
+    {
+      "id": "daily_verbs-002",
+      "word": "sleep",
+      "ipa": "/slip/",
+      "meaning": "ngủ",
+      "example": "I sleep about eight hours."
+    },
+    {
+      "id": "daily_verbs-003",
+      "word": "eat",
+      "ipa": "/it/",
+      "meaning": "ăn",
+      "example": "I eat breakfast at home."
+    },
+    {
+      "id": "daily_verbs-004",
+      "word": "drink",
+      "ipa": "/dɹɪŋk/",
+      "meaning": "uống",
+      "example": "Drink more water."
+    },
+    {
+      "id": "daily_verbs-005",
+      "word": "cook",
+      "ipa": "/kʊk/",
+      "meaning": "nấu ăn",
+      "example": "I cook dinner sometimes."
+    },
+    {
+      "id": "daily_verbs-006",
+      "word": "work",
+      "ipa": "/wɝk/",
+      "meaning": "làm việc",
+      "example": "I work from Monday to Friday."
+    },
+    {
+      "id": "daily_verbs-007",
+      "word": "study",
+      "ipa": "/stʌdi/",
+      "meaning": "học",
+      "example": "She studies English every evening."
+    },
+    {
+      "id": "daily_verbs-008",
+      "word": "read",
+      "ipa": "/ɹɛd/",
+      "meaning": "đọc",
+      "example": "I read before bed."
+    },
+    {
+      "id": "daily_verbs-009",
+      "word": "write",
+      "ipa": "/ɹaɪt/",
+      "meaning": "viết",
+      "example": "He writes emails all day."
+    },
+    {
+      "id": "daily_verbs-010",
+      "word": "listen",
+      "ipa": "/lɪsʌn/",
+      "meaning": "nghe",
+      "example": "I listen to podcasts."
+    },
+    {
+      "id": "daily_verbs-011",
+      "word": "watch",
+      "ipa": "/wɑtʃ/",
+      "meaning": "xem",
+      "example": "We watch movies on weekends."
+    },
+    {
+      "id": "daily_verbs-012",
+      "word": "go",
+      "ipa": "/ɡoʊ/",
+      "meaning": "đi",
+      "example": "I go to school by train."
+    },
+    {
+      "id": "daily_verbs-013",
+      "word": "come",
+      "ipa": "/kʌm/",
+      "meaning": "đến",
+      "example": "Come here for a second."
+    },
+    {
+      "id": "daily_verbs-014",
+      "word": "leave",
+      "ipa": "/liv/",
+      "meaning": "rời đi",
+      "example": "I have to leave now."
+    },
+    {
+      "id": "daily_verbs-015",
+      "word": "arrive",
+      "ipa": "/ɝaɪv/",
+      "meaning": "đến nơi",
+      "example": "We arrived early."
+    },
+    {
+      "id": "daily_verbs-016",
+      "word": "buy",
+      "ipa": "/baɪ/",
+      "meaning": "mua",
+      "example": "I bought groceries."
+    },
+    {
+      "id": "daily_verbs-017",
+      "word": "sell",
+      "ipa": "/sɛl/",
+      "meaning": "bán",
+      "example": "They sell coffee."
+    },
+    {
+      "id": "daily_verbs-018",
+      "word": "pay",
+      "ipa": "/peɪ/",
+      "meaning": "trả tiền",
+      "example": "I’ll pay by card."
+    },
+    {
+      "id": "daily_verbs-019",
+      "word": "meet",
+      "ipa": "/mit/",
+      "meaning": "gặp",
+      "example": "Let’s meet at 6."
+    },
+    {
+      "id": "daily_verbs-020",
+      "word": "call",
+      "ipa": "/kɔl/",
+      "meaning": "gọi",
+      "example": "Call me later."
+    },
+    {
+      "id": "daily_verbs-021",
+      "word": "text",
+      "ipa": "/tɛkst/",
+      "meaning": "nhắn tin",
+      "example": "Text me when you arrive."
+    },
+    {
+      "id": "daily_verbs-022",
+      "word": "clean",
+      "ipa": "/klin/",
+      "meaning": "dọn dẹp",
+      "example": "I cleaned my room."
+    },
+    {
+      "id": "daily_verbs-023",
+      "word": "wash",
+      "ipa": "/wɑʃ/",
+      "meaning": "rửa/giặt",
+      "example": "I washed the dishes."
+    },
+    {
+      "id": "daily_verbs-024",
+      "word": "shower",
+      "ipa": "/ʃaʊɝ/",
+      "meaning": "tắm",
+      "example": "I shower in the morning."
+    },
+    {
+      "id": "daily_verbs-025",
+      "word": "brush",
+      "ipa": "/bɹʌʃ/",
+      "meaning": "chải",
+      "example": "Brush your teeth."
+    },
+    {
+      "id": "daily_verbs-026",
+      "word": "drive",
+      "ipa": "/dɹaɪv/",
+      "meaning": "lái xe",
+      "example": "He drives to work."
+    },
+    {
+      "id": "daily_verbs-027",
+      "word": "ride",
+      "ipa": "/ɹaɪd/",
+      "meaning": "đi (xe/đạp)",
+      "example": "I ride my bike."
+    },
+    {
+      "id": "daily_verbs-028",
+      "word": "walk",
+      "ipa": "/wɔk/",
+      "meaning": "đi bộ",
+      "example": "Let’s walk home."
+    },
+    {
+      "id": "daily_verbs-029",
+      "word": "run",
+      "ipa": "/ɹʌn/",
+      "meaning": "chạy",
+      "example": "I run in the park."
+    },
+    {
+      "id": "daily_verbs-030",
+      "word": "exercise",
+      "ipa": "/ɛksɝsaɪz/",
+      "meaning": "tập thể dục",
+      "example": "I exercise three times a week."
+    },
+    {
+      "id": "daily_verbs-031",
+      "word": "stretch",
+      "ipa": "/stɹɛtʃ/",
+      "meaning": "giãn cơ",
+      "example": "Stretch before you run."
+    },
+    {
+      "id": "daily_verbs-032",
+      "word": "shop",
+      "ipa": "/ʃɑp/",
+      "meaning": "mua sắm",
+      "example": "I shop online."
+    },
+    {
+      "id": "daily_verbs-033",
+      "word": "cook",
+      "ipa": "/kʊk/",
+      "meaning": "nấu",
+      "example": "I cook rice every day."
+    },
+    {
+      "id": "daily_verbs-034",
+      "word": "practice",
+      "ipa": "/pɹæktʌs/",
+      "meaning": "luyện tập",
+      "example": "I practice speaking daily."
+    },
+    {
+      "id": "daily_verbs-035",
+      "word": "plan",
+      "ipa": "/plæn/",
+      "meaning": "lên kế hoạch",
+      "example": "Let’s plan the trip."
+    },
+    {
+      "id": "daily_verbs-036",
+      "word": "check",
+      "ipa": "/tʃɛk/",
+      "meaning": "kiểm tra",
+      "example": "Check your schedule."
+    },
+    {
+      "id": "daily_verbs-037",
+      "word": "wait",
+      "ipa": "/weɪt/",
+      "meaning": "đợi",
+      "example": "Wait a minute."
+    },
+    {
+      "id": "daily_verbs-038",
+      "word": "help",
+      "ipa": "/hɛlp/",
+      "meaning": "giúp",
+      "example": "Can you help me?"
+    },
+    {
+      "id": "daily_verbs-039",
+      "word": "fix",
+      "ipa": "/fɪks/",
+      "meaning": "sửa",
+      "example": "He fixed the laptop."
+    },
+    {
+      "id": "daily_verbs-040",
+      "word": "relax",
+      "ipa": "/ɹɪlæks/",
+      "meaning": "thư giãn",
+      "example": "I relax after work."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "technology_internet",
+  "name": "Công nghệ & Internet",
+  "cards": [
+    {
+      "id": "technology_internet-001",
+      "word": "What’s the Wi-Fi password?",
+      "ipa": "",
+      "meaning": "Mật khẩu Wi-Fi là gì?",
+      "example": "What’s the Wi-Fi password?"
+    },
+    {
+      "id": "technology_internet-002",
+      "word": "My internet is slow",
+      "ipa": "",
+      "meaning": "Mạng của tôi chậm",
+      "example": "My internet is slow."
+    },
+    {
+      "id": "technology_internet-003",
+      "word": "The Wi-Fi is down",
+      "ipa": "",
+      "meaning": "Wi-Fi bị lỗi",
+      "example": "The Wi-Fi is down."
+    },
+    {
+      "id": "technology_internet-004",
+      "word": "Can you send me the link?",
+      "ipa": "",
+      "meaning": "Gửi link cho tôi",
+      "example": "Can you send me the link?"
+    },
+    {
+      "id": "technology_internet-005",
+      "word": "Download the file",
+      "ipa": "",
+      "meaning": "Tải file",
+      "example": "Download the file."
+    },
+    {
+      "id": "technology_internet-006",
+      "word": "Upload the document",
+      "ipa": "",
+      "meaning": "Tải tài liệu lên",
+      "example": "Upload the document."
+    },
+    {
+      "id": "technology_internet-007",
+      "word": "Click here",
+      "ipa": "",
+      "meaning": "Nhấn vào đây",
+      "example": "Click here."
+    },
+    {
+      "id": "technology_internet-008",
+      "word": "Open the website",
+      "ipa": "",
+      "meaning": "Mở website",
+      "example": "Open the website."
+    },
+    {
+      "id": "technology_internet-009",
+      "word": "The app crashed",
+      "ipa": "",
+      "meaning": "Ứng dụng bị sập",
+      "example": "The app crashed."
+    },
+    {
+      "id": "technology_internet-010",
+      "word": "Restart the device",
+      "ipa": "",
+      "meaning": "Khởi động lại",
+      "example": "Restart the device."
+    },
+    {
+      "id": "technology_internet-011",
+      "word": "computer",
+      "ipa": "/kʌmpjutɝ/",
+      "meaning": "máy tính",
+      "example": "My computer is slow."
+    },
+    {
+      "id": "technology_internet-012",
+      "word": "laptop",
+      "ipa": "/læptɑp/",
+      "meaning": "máy tính xách tay",
+      "example": "I use a laptop."
+    },
+    {
+      "id": "technology_internet-013",
+      "word": "phone",
+      "ipa": "/foʊn/",
+      "meaning": "điện thoại",
+      "example": "My phone is new."
+    },
+    {
+      "id": "technology_internet-014",
+      "word": "internet",
+      "ipa": "/ɪntɝnɛt/",
+      "meaning": "mạng",
+      "example": "The internet is fast."
+    },
+    {
+      "id": "technology_internet-015",
+      "word": "Wi-Fi",
+      "ipa": "/waɪfaɪ/",
+      "meaning": "Wi-Fi",
+      "example": "Connect to Wi-Fi."
+    },
+    {
+      "id": "technology_internet-016",
+      "word": "password",
+      "ipa": "/pæswɝd/",
+      "meaning": "mật khẩu",
+      "example": "Enter the password."
+    },
+    {
+      "id": "technology_internet-017",
+      "word": "link",
+      "ipa": "/lɪŋk/",
+      "meaning": "đường link",
+      "example": "Send me the link."
+    },
+    {
+      "id": "technology_internet-018",
+      "word": "file",
+      "ipa": "/faɪl/",
+      "meaning": "tệp",
+      "example": "Open the file."
+    },
+    {
+      "id": "technology_internet-019",
+      "word": "app",
+      "ipa": "/æp/",
+      "meaning": "ứng dụng",
+      "example": "Download the app."
+    },
+    {
+      "id": "technology_internet-020",
+      "word": "website",
+      "ipa": "/wɛbsaɪt/",
+      "meaning": "trang web",
+      "example": "Visit the website."
+    },
+    {
+      "id": "technology_internet-021",
+      "word": "browser",
+      "ipa": "/bɹaʊzɝ/",
+      "meaning": "trình duyệt",
+      "example": "Open the browser."
+    },
+    {
+      "id": "technology_internet-022",
+      "word": "download",
+      "ipa": "/daʊnloʊd/",
+      "meaning": "tải xuống",
+      "example": "Start the download."
+    },
+    {
+      "id": "technology_internet-023",
+      "word": "upload",
+      "ipa": "/ʌploʊd/",
+      "meaning": "tải lên",
+      "example": "Finish the upload."
+    },
+    {
+      "id": "technology_internet-024",
+      "word": "server",
+      "ipa": "/sɝvɝ/",
+      "meaning": "máy chủ",
+      "example": "The server is down."
+    },
+    {
+      "id": "technology_internet-025",
+      "word": "data",
+      "ipa": "/deɪtʌ/",
+      "meaning": "dữ liệu",
+      "example": "Save your data."
+    },
+    {
+      "id": "technology_internet-026",
+      "word": "storage",
+      "ipa": "/stɔɹʌdʒ/",
+      "meaning": "bộ nhớ",
+      "example": "Storage is full."
+    },
+    {
+      "id": "technology_internet-027",
+      "word": "battery",
+      "ipa": "/bætɝi/",
+      "meaning": "pin",
+      "example": "Battery is low."
+    },
+    {
+      "id": "technology_internet-028",
+      "word": "screen",
+      "ipa": "/skɹin/",
+      "meaning": "màn hình",
+      "example": "The screen is cracked."
+    },
+    {
+      "id": "technology_internet-029",
+      "word": "keyboard",
+      "ipa": "/kibɔɹd/",
+      "meaning": "bàn phím",
+      "example": "The keyboard works."
+    },
+    {
+      "id": "technology_internet-030",
+      "word": "mouse",
+      "ipa": "/maʊs/",
+      "meaning": "chuột",
+      "example": "Use the mouse."
+    },
+    {
+      "id": "technology_internet-031",
+      "word": "slow",
+      "ipa": "/sloʊ/",
+      "meaning": "chậm",
+      "example": "It’s slow."
+    },
+    {
+      "id": "technology_internet-032",
+      "word": "fast",
+      "ipa": "/fæst/",
+      "meaning": "nhanh",
+      "example": "Fast connection."
+    },
+    {
+      "id": "technology_internet-033",
+      "word": "online",
+      "ipa": "/ɔnlaɪn/",
+      "meaning": "trực tuyến",
+      "example": "I’m online."
+    },
+    {
+      "id": "technology_internet-034",
+      "word": "offline",
+      "ipa": "/ɔflaɪn/",
+      "meaning": "ngoại tuyến",
+      "example": "I’m offline."
+    },
+    {
+      "id": "technology_internet-035",
+      "word": "crash",
+      "ipa": "/kɹæʃ/",
+      "meaning": "sập",
+      "example": "The system crashed."
+    },
+    {
+      "id": "technology_internet-036",
+      "word": "restart",
+      "ipa": "/ɹistɑɹt/",
+      "meaning": "khởi động lại",
+      "example": "Restart the system."
+    },
+    {
+      "id": "technology_internet-037",
+      "word": "install",
+      "ipa": "/ɪnstɔl/",
+      "meaning": "cài đặt",
+      "example": "Install the software."
+    },
+    {
+      "id": "technology_internet-038",
+      "word": "update",
+      "ipa": "/ʌpdeɪt/",
+      "meaning": "cập nhật",
+      "example": "Update the app."
+    },
+    {
+      "id": "technology_internet-039",
+      "word": "connect",
+      "ipa": "/kʌnɛkt/",
+      "meaning": "kết nối",
+      "example": "Connect to Wi-Fi."
+    }
+  ]
+}

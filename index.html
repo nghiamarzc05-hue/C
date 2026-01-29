@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Đệ Nhị Web — meta 2.4.4</title>
+  <meta name="theme-color" content="#0ea5e9" />
+  <link rel="stylesheet" href="./styles.2.4.4.css">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon-192.png">
+</head>
+<body data-theme="light">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brandMark">EN</div>
+      <div class="brandText">
+        <div class="brandName">Đệ Nhị Web</div>
+        <div class="brandSub">English Flashcards</div>
+      </div>
+    </div>
+    <div class="topTìm">
+      <span class="searchIcon">🔎</span>
+      <input id="globalTìm" placeholder="Tìm từ / deck..." autocomplete="off" />
+    </div>
+    <div class="topActions">
+      <button class="iconBtn" id="btnOpenSettings" title="Cài đặt">⚙️</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <!-- Desktop sidebar -->
+    <aside class="sidebar" aria-label="Decks">
+      <button class="btnAddDeck" id="btnAddDeck" type="button">＋ Thêm deck</button>
+      <div class="sideTìm">
+        <span class="searchIcon">🔎</span>
+        <input id="deckTìm" placeholder="Tìm deck..." autocomplete="off" />
+      </div>
+
+      <div class="sideGroup">
+        <button class="sideItem active" data-deck="__all">
+          <span class="ico">📚</span><span class="txt">All Flashcards</span><span class="num" id="countAll">0</span>
+        </button>
+        <button class="sideItem" data-deck="__fav">
+          <span class="ico">❤️</span><span class="txt">Favorites</span><span class="num" id="countFav">0</span>
+        </button>
+      </div>
+
+      <div class="sideDivider"></div>
+      <div class="sideList" id="deckList"></div>
+    </aside>
+
+    <!-- Content -->
+    <section class="content">
+      <!-- HOME -->
+      <section class="view" id="viewHome">
+        <div class="homeWrap">
+          <h1 class="homeH1">Welcome Back!</h1>
+          <div class="homeSub">Ready to continue learning?</div>
+
+          <div class="homeCard">
+            <div class="homeCardHead">
+              <div class="homeCardTitle">Tiếp tục học</div>
+            </div>
+            <div class="homeCardBody">
+              <div class="homeDeckBanner">
+                <div class="homeDeckName" id="homeDeckName">English Vocabulary</div>
+                <div class="homeDeckMeta" id="homeDeckMeta">Manual Mode • 0 cards left</div>
+              </div>
+              <button class="homeContinue" id="btnContinue">Continue</button>
+            </div>
+          </div>
+
+          <div class="sectionTitle">Quick Start</div>
+          <div class="quickGrid">
+            <button class="quickCard blue" id="btnQuickManual" type="button">
+              <div class="qcTitle">Học thủ công</div>
+              <div class="qcSub">Flashcards</div>
+            </button>
+            <button class="quickCard teal" id="btnQuickAuto" type="button">
+              <div class="qcTitle">Học tự động</div>
+              <div class="qcSub">Auto mode</div>
+            </button>
+          </div>
+
+          <div class="sectionTitle">Today's Focus</div>
+          <div class="focusGrid">
+            <button class="focusCard" id="btnLearnNew" type="button">
+              <div class="fIco">⭐</div>
+              <div>
+                <div class="fTitle">Học từ mới</div>
+                <div class="fSub" id="focusNewCount">0 từ</div>
+              </div>
+            </button>
+            <button class="focusCard" id="btnReview" type="button">
+              <div class="fIco">✅</div>
+              <div>
+                <div class="fTitle">Ôn tập</div>
+                <div class="fSub" id="focusReviewCount">0 cần ôn</div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- LEARN -->
+      <section class="view hidden" id="viewLearn">
+        <div class="learnTop">
+          <div class="learnTopLeft">
+            <div class="learnDeckTitle" id="learnDeckTitle">Common Vocabulary</div>
+            <div class="learnDeckMeta">
+              <span id="learnPos">0 / 0</span>
+              <span class="dot">•</span>
+              <span id="learnMode">Manual</span>
+            </div>
+          </div>
+
+          <div class="learnTopRight">
+            <label class="toggleRow">
+              <span>Auto</span>
+              <input id="toggleAuto" type="checkbox" />
+            </label>
+            <label class="toggleRow">
+              <span>Random</span>
+              <input id="toggleRandom" type="checkbox" />
+            </label>
+          </div>
+        </div>
+
+        <div class="learnGrid">
+          <!-- card stage -->
+          <div class="stage">
+            <div class="cardShell">
+              <div class="flipCard" id="flipCard" role="button" tabindex="0" aria-label="Flashcard">
+                <div class="flipInner" id="flipInner">
+                  <div class="face front">
+                    <div class="word" id="word">—</div>
+                    <div class="phonetic" id="phonetic">—</div>
+                    <div class="meaningHint" id="meaningHint">Tap card to reveal meaning</div>
+                    <div class="divider"></div>
+                    <div class="accentRow">
+                      <button class="accentBtn" id="btnSpeakUK" type="button"><span class="flag">🇬🇧</span> UK <span class="spk">🔊</span></button>
+                      <button class="accentBtn" id="btnSpeakUS" type="button"><span class="flag">🇺🇸</span> US <span class="spk">🔊</span></button>
+                    </div>
+                  </div>
+                  <div class="face back">
+                    <div class="word" id="wordBack">—</div>
+                    <div class="phonetic" id="phoneticBack">—</div>
+                    <div class="meaning" id="meaning">—</div>
+                    <div class="divider"></div>
+                    <div class="example" id="example">—</div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="controlBar">
+                <button class="ctrl" id="btnPrev" type="button" title="Prev">⟵</button>
+                <button class="ctrl" id="btnShuffle" type="button" title="Shuffle">🔀</button>
+                <button class="ctrl play" id="btnPlay" type="button" title="Play/Pause Auto">▶</button>
+                <button class="ctrl" id="btnNext" type="button" title="Next">⟶</button>
+                <button class="ctrl" id="btnFlip" type="button" title="Flip">↻</button>
+                <button class="ctrl" id="btnStar" type="button" title="Favorite">☆</button>
+              </div>
+              <div class="progressText" id="progressText">0 / 0</div>
+            </div>
+          </div>
+
+          <!-- right panel -->
+          <aside class="rightPanel">
+            <div class="panel">
+              <div class="panelTitle"><span class="folder">📁</span> <span id="panelDeckName">Common Vocabulary</span></div>
+              <div class="panelTopRow">
+                <div class="panelMini">
+                  <div class="miniTitle" id="panelDeckName">Common Vocabulary</div>
+                  <div class="miniLine"><span id="statWords">0 / 0</span> <span class="mutedSmall">Từ vựng</span></div>
+                  <div class="miniLine"><span id="statAvg">—</span> <span class="mutedSmall">Avg Time/Card</span></div>
+                </div>
+                <div class="ringWrap" aria-label="Progress">
+                  <svg class="ring" viewBox="0 0 36 36">
+                    <path class="ringBg" d="M18 2.0845
+                      a 15.9155 15.9155 0 0 1 0 31.831
+                      a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                    <path class="ringFg" id="ringFg" stroke-dasharray="0, 100" d="M18 2.0845
+                      a 15.9155 15.9155 0 0 1 0 31.831
+                      a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  </svg>
+                  <div class="ringText"><span id="statPct">0</span>%</div>
+                  <div class="ringLabel">Progress</div>
+                </div>
+              </div>
+              <button class="btnWide" id="btnReshuffle" type="button">RESHUFFLE</button>
+            </div>
+
+            <div class="panel">
+              <div class="panelTitle">SETTINGS</div>
+
+              <div class="settingRow">
+                <div>Auto Timing</div>
+                <div class="pill" id="autoSecLabel">Front 4s • Back 6s</div>
+              </div>
+
+              <div class="rangeRow">
+                <div class="rangeLbl">Front</div>
+                <input id="autoFront" type="range" min="2" max="10" step="1" />
+                <div class="rangeVal" id="autoFrontLabel">4 s</div>
+              </div>
+
+              <div class="rangeRow">
+                <div class="rangeLbl">Back</div>
+                <input id="autoBack" type="range" min="2" max="10" step="1" />
+                <div class="rangeVal" id="autoBackLabel">6 s</div>
+              </div>
+
+              <div class="settingRow">
+                <div>Voice</div>
+                <div class="seg">
+                  <button class="segBtn" id="voiceUK" type="button">UK</button>
+                  <button class="segBtn" id="voiceUS" type="button">US</button>
+                </div>
+              </div>
+
+              <div class="settingRow" style="margin-top:14px;">
+                <div>Speak Content</div>
+              </div>
+              <label class="radioLine"><input type="radio" name="speakMode" value="word" checked /> Word only</label>
+              <label class="radioLine"><input type="radio" name="speakMode" value="word_example" /> Word + example</label>
+
+              <button class="btnWide green" id="btnSaveLearnSettings" type="button">LƯU</button>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <!-- REVIEW -->
+      <section class="view hidden" id="viewReview">
+        <div class="learnTop">
+          <div class="learnTopLeft">
+            <div class="learnDeckTitle">Ôn tập</div>
+            <div class="learnDeckMeta">
+              <span id="reviewDueText">Đến hạn: 0</span>
+              <span class="dot">•</span>
+              <span id="reviewPosText">0 / 0</span>
+            </div>
+          </div>
+
+          <div class="learnTopRight">
+            <button class="chip" id="btnToggleSrsInfo" type="button" title="Thông tin SM-2">ℹ</button>
+            <button class="chip" id="btnGoLearnFromReview" type="button">Qua Học</button>
+          </div>
+        </div>
+
+        <div class="learnGrid">
+          <div class="stage">
+            <div class="cardShell">
+              <div class="flipCard" id="rFlipCard" role="button" tabindex="0" aria-label="Review card">
+                <div class="flipInner" id="rFlipInner">
+                  <div class="face front">
+                    <div class="word" id="rWord">—</div>
+                    <div class="phonetic" id="rPhonetic">—</div>
+                    <div class="meaningHint" id="rHint">Tap card to reveal meaning</div>
+                    <div class="divider"></div>
+                    <div class="accentRow">
+                      <button class="accentBtn" id="rSpeakUK" type="button"><span class="flag">🇬🇧</span> UK <span class="spk">🔊</span></button>
+                      <button class="accentBtn" id="rSpeakUS" type="button"><span class="flag">🇺🇸</span> US <span class="spk">🔊</span></button>
+                    </div>
+                  </div>
+                  <div class="face back">
+                    <div class="word" id="rWordBack">—</div>
+                    <div class="phonetic" id="rPhoneticBack">—</div>
+                    <div class="meaning" id="rMeaning">—</div>
+                    <div class="divider"></div>
+                    <div class="example" id="rExample">—</div>
+                    <div class="srsMeta hidden" id="rSrsMeta"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="reviewActions">
+                <button class="chip danger" id="btnReviewForget" type="button">Quên</button>
+                <button class="chip" id="btnReviewHard" type="button">Khó</button>
+                <button class="chip" id="btnReviewGood" type="button">Tốt</button>
+                <button class="chip" id="btnReviewEasy" type="button">Dễ</button>
+                <button class="chip" id="btnReviewFlip" type="button">Lật</button>
+              </div>
+            </div>
+          </div>
+
+          <aside class="rightPanel">
+            <div class="panel">
+              <div class="panelTitle">Gợi ý</div>
+              <div class="smallNote">Ôn tập chỉ hiện thẻ đến hạn (due ≤ hôm nay). Bấm “Quên/Khó/Tốt/Dễ” để lên lịch ôn tiếp theo.</div>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <!-- LIBRARY -->
+      <section class="view hidden" id="viewLibrary">
+        <div class="simplePage">
+          <div class="libHeader">
+            <h1>Thư viện</h1>
+            <div class="libActions">
+              <button class="chip" id="btnAddDeckLib" type="button">＋ Thêm deck</button>
+              <button class="chip" id="btnExportAllDecks" type="button">Xuất tất cả</button>
+              <label class="chip fileChip">
+                Nhập deck (JSON)
+                <input id="importDeckFile" type="file" accept="application/json" />
+              </label>
+              <label class="chip fileChip">
+                Nhập nhiều deck (JSON)
+                <input id="importDecksAllFile" type="file" accept="application/json" />
+              </label>
+            </div>
+          </div>
+
+          <div class="panel" style="margin-top:12px;">
+            <div class="panelTitle">Tìm</div>
+            <div class="sideTìm" style="margin-top:10px;">
+              <span class="searchIcon">🔎</span>
+              <input id="libTìm" placeholder="Tìm deck..." autocomplete="off" />
+            </div>
+            <p class="muted" style="margin-top:10px;">Rule: <b>1 file = 1 deck</b>. JSON format: <code>[{ "word": "...", "ipa": "...", "meaning": "...", "example": "..." }]</code></p>
+          </div>
+
+          <div class="libGrid" id="deckGrid"></div>
+        </div>
+
+        <div class="deckDetail hidden" id="deckDetail">
+          <div class="deckDetailTop">
+            <button class="chip" id="btnBackToLibrary" type="button">← Quay lại</button>
+            <div class="deckDetailTitle">
+              <div class="ddName" id="ddName">Deck</div>
+              <div class="ddMeta"><span id="ddCount">0</span> từ</div>
+            </div>
+            <div class="deckDetailActions">
+              <button class="chip" id="btnRenameDeck" type="button">Đổi tên</button>
+              <button class="chip" id="btnExportDeck" type="button">Xuất</button>
+              <button class="chip danger" id="btnDeleteDeck" type="button">Xoá</button>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="panelTitle">Từ vựng</div>
+            <div class="ddControls">
+              <div class="sideTìm" style="margin:0;">
+                <span class="searchIcon">🔎</span>
+                <input id="ddTìm" placeholder="Tìm từ / nghĩa..." autocomplete="off" />
+              </div>
+              <button class="chip" id="btnAddWord" type="button">＋ Thêm từ</button>
+            </div>
+
+            <div class="ddTableWrap">
+              <div class="ddPager" id="ddPager">
+                <button class="chip" id="ddPrevPage" type="button">← Trước</button>
+                <div class="ddPageInfo"><span id="ddPageText">1 / 1</span></div>
+                <button class="chip" id="ddNextPage" type="button">Sau →</button>
+              </div>
+
+              <table class="ddTable">
+                <thead>
+                  <tr>
+                    <th>Từ</th>
+                    <th>IPA</th>
+                    <th>Nghĩa</th>
+                    <th>Ví dụ</th>
+                    <th style="width:140px;">Thao tác</th>
+                  </tr>
+                </thead>
+                <tbody id="ddTbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal hidden" id="wordModal" role="dialog" aria-modal="true">
+          <div class="modalCard">
+            <div class="modalHead">
+              <div class="modalTitle" id="wmTitle">Thêm từ</div>
+              <button class="iconBtn" id="wmClose" type="button">✕</button>
+            </div>
+
+            <div class="formGrid">
+              <label class="field">
+                <div class="lbl">Từ *</div>
+                <input id="wmWord" placeholder="abundant" />
+              </label>
+              <label class="field">
+                <div class="lbl">IPA</div>
+                <input id="wmIpa" placeholder="/əˈbʌndənt/" />
+              </label>
+              <label class="field" style="grid-column:1/-1;">
+                <div class="lbl">Nghĩa</div>
+                <input id="wmMeaning" placeholder="dồi dào, phong phú" />
+              </label>
+              <label class="field" style="grid-column:1/-1;">
+                <div class="lbl">Ví dụ</div>
+                <textarea id="wmExample" rows="3" placeholder="The forest is abundant with wildlife."></textarea>
+              </label>
+            </div>
+
+            <div class="modalFoot">
+              <button class="chip" id="wmCancel" type="button">Cancel</button>
+              <button class="homeContinue" id="wmSave" type="button" style="width:auto; margin:0;">Save</button>
+            </div>
+            <div class="muted" id="wmError" style="margin-top:10px; display:none;"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SETTINGS -->
+      <section class="view hidden" id="viewSettings">
+        <div class="simplePage">
+          <h1>Cài đặt</h1>
+
+          <div class="panel">
+            <div class="panelTitle">Theme</div>
+            <div class="themeGrid">
+              <button class="themeCard" id="themeLight" type="button" aria-label="Light Mode">
+                <div class="themeShot light"></div>
+                <div class="themeName">Light Mode</div>
+              </button>
+              <button class="themeCard" id="themeDark" type="button" aria-label="Dark Mode">
+                <div class="themeShot dark"></div>
+                <div class="themeName">Dark Mode</div>
+              </button>
+            </div>
+            <button class="homeContinue" id="btnSaveTheme" type="button" style="margin-top:14px; width:100%;">LƯU</button>
+          </div>
+
+          <div class="panel">
+            <div class="panelTitle">Data</div>
+            <p class="muted">Dữ liệu deck lưu trong <b>IndexedDB</b>. Nhập deck: <b>1 file JSON = 1 deck</b> (ở Thư viện). Tiến độ (yêu thích/đã xem) và sao lưu tổng có thể nhập/xuất ở đây.</p>
+            <button class="btnWide" id="btnExportProgress" type="button">Xuất tiến độ (JSON)</button>
+            <label class="fileBtn">
+              Nhập tiến độ (JSON)
+              <input id="importProgress" type="file" accept="application/json" />
+            </label>
+          </div>
+
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <!-- Mobile bottom nav -->
+  <nav class="bottomNav" aria-label="Navigation">
+    <button class="navItem active" data-view="home"><span class="ni">🏠</span><span>Trang chủ</span></button>
+    <button class="navItem" data-view="learn"><span class="ni">📖</span><span>Học</span></button>
+    <button class="navItem" data-view="review"><span class="ni">🕒</span><span>Ôn tập</span></button>
+    <button class="navItem" data-view="library"><span class="ni">📚</span><span>Thư viện</span></button>
+    <button class="navItem" data-view="settings"><span class="ni">⚙️</span><span>Cài đặt</span></button>
+  </nav>
+
+  <script src="./app.2.4.4.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,286 @@
+{
+  "id": "fruits",
+  "name": "Trái cây",
+  "cards": [
+    {
+      "id": "fruits-001",
+      "word": "apple",
+      "ipa": "/æpʌl/",
+      "meaning": "táo",
+      "example": "I eat an apple every day."
+    },
+    {
+      "id": "fruits-002",
+      "word": "banana",
+      "ipa": "/bʌnænʌ/",
+      "meaning": "chuối",
+      "example": "She likes bananas for breakfast."
+    },
+    {
+      "id": "fruits-003",
+      "word": "orange",
+      "ipa": "/ɔɹʌndʒ/",
+      "meaning": "cam",
+      "example": "Would you like an orange?"
+    },
+    {
+      "id": "fruits-004",
+      "word": "mango",
+      "ipa": "/mæŋɡoʊ/",
+      "meaning": "xoài",
+      "example": "This mango is very sweet."
+    },
+    {
+      "id": "fruits-005",
+      "word": "grape",
+      "ipa": "/ɡɹeɪp/",
+      "meaning": "nho",
+      "example": "Grapes are easy to snack on."
+    },
+    {
+      "id": "fruits-006",
+      "word": "strawberry",
+      "ipa": "/stɹɔbɛɹi/",
+      "meaning": "dâu tây",
+      "example": "These strawberries are fresh."
+    },
+    {
+      "id": "fruits-007",
+      "word": "blueberry",
+      "ipa": "/blubɛɹi/",
+      "meaning": "việt quất",
+      "example": "I add blueberries to yogurt."
+    },
+    {
+      "id": "fruits-008",
+      "word": "raspberry",
+      "ipa": "/ɹæzbɛɹi/",
+      "meaning": "mâm xôi đỏ",
+      "example": "Raspberries spoil quickly."
+    },
+    {
+      "id": "fruits-009",
+      "word": "watermelon",
+      "ipa": "/wɔtɝmɛlʌn/",
+      "meaning": "dưa hấu",
+      "example": "Watermelon is perfect in summer."
+    },
+    {
+      "id": "fruits-010",
+      "word": "pineapple",
+      "ipa": "/paɪnæpʌl/",
+      "meaning": "dứa",
+      "example": "Pineapple goes well on pizza."
+    },
+    {
+      "id": "fruits-011",
+      "word": "pear",
+      "ipa": "/pɛɹ/",
+      "meaning": "lê",
+      "example": "This pear is ripe."
+    },
+    {
+      "id": "fruits-012",
+      "word": "peach",
+      "ipa": "/pitʃ/",
+      "meaning": "đào",
+      "example": "Peaches smell amazing."
+    },
+    {
+      "id": "fruits-013",
+      "word": "plum",
+      "ipa": "/plʌm/",
+      "meaning": "mận",
+      "example": "I bought some plums."
+    },
+    {
+      "id": "fruits-014",
+      "word": "cherry",
+      "ipa": "/tʃɛɹi/",
+      "meaning": "anh đào",
+      "example": "Cherries are expensive here."
+    },
+    {
+      "id": "fruits-015",
+      "word": "kiwi",
+      "ipa": "/kiwi/",
+      "meaning": "kiwi",
+      "example": "I peeled a kiwi."
+    },
+    {
+      "id": "fruits-016",
+      "word": "lemon",
+      "ipa": "/lɛmʌn/",
+      "meaning": "chanh vàng",
+      "example": "Add lemon to the tea."
+    },
+    {
+      "id": "fruits-017",
+      "word": "lime",
+      "ipa": "/laɪm/",
+      "meaning": "chanh xanh",
+      "example": "Squeeze some lime on it."
+    },
+    {
+      "id": "fruits-018",
+      "word": "coconut",
+      "ipa": "/koʊkʌnʌt/",
+      "meaning": "dừa",
+      "example": "I drank coconut water."
+    },
+    {
+      "id": "fruits-019",
+      "word": "avocado",
+      "ipa": "/ævʌkɑdoʊ/",
+      "meaning": "bơ",
+      "example": "Avocado toast is popular."
+    },
+    {
+      "id": "fruits-020",
+      "word": "papaya",
+      "ipa": "/pʌpaɪʌ/",
+      "meaning": "đu đủ",
+      "example": "Papaya is good for digestion."
+    },
+    {
+      "id": "fruits-021",
+      "word": "dragon fruit",
+      "ipa": "",
+      "meaning": "thanh long",
+      "example": "Dragon fruit looks cool."
+    },
+    {
+      "id": "fruits-022",
+      "word": "guava",
+      "ipa": "/ɡwɑvʌ/",
+      "meaning": "ổi",
+      "example": "Guava smells strong."
+    },
+    {
+      "id": "fruits-023",
+      "word": "pomegranate",
+      "ipa": "/pɑmʌɡɹænʌt/",
+      "meaning": "lựu",
+      "example": "Pomegranate seeds are tasty."
+    },
+    {
+      "id": "fruits-024",
+      "word": "fig",
+      "ipa": "/fɪɡ/",
+      "meaning": "sung",
+      "example": "Figs are sweet."
+    },
+    {
+      "id": "fruits-025",
+      "word": "apricot",
+      "ipa": "/eɪpɹʌkɑt/",
+      "meaning": "mơ",
+      "example": "Apricots are in season."
+    },
+    {
+      "id": "fruits-026",
+      "word": "blackberry",
+      "ipa": "/blækbɛɹi/",
+      "meaning": "mâm xôi đen",
+      "example": "Blackberries stain easily."
+    },
+    {
+      "id": "fruits-027",
+      "word": "cantaloupe",
+      "ipa": "/kæntʌloʊp/",
+      "meaning": "dưa lưới",
+      "example": "Cantaloupe is sweet."
+    },
+    {
+      "id": "fruits-028",
+      "word": "honeydew",
+      "ipa": "/hʌnidu/",
+      "meaning": "dưa gang",
+      "example": "Honeydew is refreshing."
+    },
+    {
+      "id": "fruits-029",
+      "word": "tangerine",
+      "ipa": "/tændʒɝin/",
+      "meaning": "quýt",
+      "example": "I bought tangerines."
+    },
+    {
+      "id": "fruits-030",
+      "word": "grapefruit",
+      "ipa": "/ɡɹeɪpfɹut/",
+      "meaning": "bưởi chùm",
+      "example": "Grapefruit can be bitter."
+    },
+    {
+      "id": "fruits-031",
+      "word": "passion fruit",
+      "ipa": "",
+      "meaning": "chanh dây",
+      "example": "Passion fruit tastes tart."
+    },
+    {
+      "id": "fruits-032",
+      "word": "lychee",
+      "ipa": "",
+      "meaning": "vải",
+      "example": "Lychee is my favorite."
+    },
+    {
+      "id": "fruits-033",
+      "word": "durian",
+      "ipa": "",
+      "meaning": "sầu riêng",
+      "example": "Durian has a strong smell."
+    },
+    {
+      "id": "fruits-034",
+      "word": "jackfruit",
+      "ipa": "",
+      "meaning": "mít",
+      "example": "Jackfruit is huge."
+    },
+    {
+      "id": "fruits-035",
+      "word": "starfruit",
+      "ipa": "",
+      "meaning": "khế",
+      "example": "Starfruit is crunchy."
+    },
+    {
+      "id": "fruits-036",
+      "word": "cranberry",
+      "ipa": "/kɹænbɛɹi/",
+      "meaning": "nam việt quất",
+      "example": "Cranberry juice is tart."
+    },
+    {
+      "id": "fruits-037",
+      "word": "date",
+      "ipa": "/deɪt/",
+      "meaning": "chà là",
+      "example": "Dates are very sweet."
+    },
+    {
+      "id": "fruits-038",
+      "word": "prune",
+      "ipa": "/pɹun/",
+      "meaning": "mận khô",
+      "example": "Prunes help digestion."
+    },
+    {
+      "id": "fruits-039",
+      "word": "raisins",
+      "ipa": "/ɹeɪzʌnz/",
+      "meaning": "nho khô",
+      "example": "I put raisins in oatmeal."
+    },
+    {
+      "id": "fruits-040",
+      "word": "fruit salad",
+      "ipa": "",
+      "meaning": "salad trái cây",
+      "example": "We made a fruit salad."
+    }
+  ]
+}

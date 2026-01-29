@@ -1,0 +1,286 @@
+{
+  "id": "pets",
+  "name": "Động vật nuôi",
+  "cards": [
+    {
+      "id": "pets-001",
+      "word": "dog",
+      "ipa": "/dɔɡ/",
+      "meaning": "chó",
+      "example": "My dog loves to play in the park."
+    },
+    {
+      "id": "pets-002",
+      "word": "cat",
+      "ipa": "/kæt/",
+      "meaning": "mèo",
+      "example": "The cat is sleeping on the sofa."
+    },
+    {
+      "id": "pets-003",
+      "word": "rabbit",
+      "ipa": "/ɹæbʌt/",
+      "meaning": "thỏ",
+      "example": "She keeps a rabbit as a pet."
+    },
+    {
+      "id": "pets-004",
+      "word": "hamster",
+      "ipa": "/hæmstɝ/",
+      "meaning": "chuột hamster",
+      "example": "My hamster runs on a wheel."
+    },
+    {
+      "id": "pets-005",
+      "word": "guinea pig",
+      "ipa": "",
+      "meaning": "chuột lang",
+      "example": "Guinea pigs are gentle."
+    },
+    {
+      "id": "pets-006",
+      "word": "parrot",
+      "ipa": "/pɛɹʌt/",
+      "meaning": "vẹt",
+      "example": "The parrot can mimic sounds."
+    },
+    {
+      "id": "pets-007",
+      "word": "goldfish",
+      "ipa": "/ɡoʊldfɪʃ/",
+      "meaning": "cá vàng",
+      "example": "I have two goldfish in a tank."
+    },
+    {
+      "id": "pets-008",
+      "word": "turtle",
+      "ipa": "/tɝtʌl/",
+      "meaning": "rùa",
+      "example": "The turtle moves slowly."
+    },
+    {
+      "id": "pets-009",
+      "word": "lizard",
+      "ipa": "/lɪzɝd/",
+      "meaning": "thằn lằn",
+      "example": "He has a pet lizard."
+    },
+    {
+      "id": "pets-010",
+      "word": "snake",
+      "ipa": "/sneɪk/",
+      "meaning": "rắn",
+      "example": "Some people keep snakes."
+    },
+    {
+      "id": "pets-011",
+      "word": "ferret",
+      "ipa": "/fɛɹʌt/",
+      "meaning": "chồn sương",
+      "example": "Ferrets are playful."
+    },
+    {
+      "id": "pets-012",
+      "word": "hedgehog",
+      "ipa": "/hɛdʒhɑɡ/",
+      "meaning": "nhím",
+      "example": "A hedgehog curls up."
+    },
+    {
+      "id": "pets-013",
+      "word": "chinchilla",
+      "ipa": "/tʃɪntʃɪlʌ/",
+      "meaning": "chinchilla",
+      "example": "Chinchillas have soft fur."
+    },
+    {
+      "id": "pets-014",
+      "word": "frog",
+      "ipa": "/fɹɑɡ/",
+      "meaning": "ếch",
+      "example": "The frog jumped."
+    },
+    {
+      "id": "pets-015",
+      "word": "bird",
+      "ipa": "/bɝd/",
+      "meaning": "chim",
+      "example": "A small bird is singing."
+    },
+    {
+      "id": "pets-016",
+      "word": "puppy",
+      "ipa": "/pʌpi/",
+      "meaning": "chó con",
+      "example": "The puppy is adorable."
+    },
+    {
+      "id": "pets-017",
+      "word": "kitten",
+      "ipa": "/kɪtʌn/",
+      "meaning": "mèo con",
+      "example": "The kitten is tiny."
+    },
+    {
+      "id": "pets-018",
+      "word": "pet",
+      "ipa": "/pɛt/",
+      "meaning": "thú cưng",
+      "example": "Do you have a pet?"
+    },
+    {
+      "id": "pets-019",
+      "word": "vet",
+      "ipa": "/vɛt/",
+      "meaning": "bác sĩ thú y",
+      "example": "We took our dog to the vet."
+    },
+    {
+      "id": "pets-020",
+      "word": "pet food",
+      "ipa": "",
+      "meaning": "thức ăn thú cưng",
+      "example": "Buy some pet food."
+    },
+    {
+      "id": "pets-021",
+      "word": "leash",
+      "ipa": "/liʃ/",
+      "meaning": "dây dắt",
+      "example": "Put the leash on."
+    },
+    {
+      "id": "pets-022",
+      "word": "collar",
+      "ipa": "/kɑlɝ/",
+      "meaning": "vòng cổ",
+      "example": "The collar is too tight."
+    },
+    {
+      "id": "pets-023",
+      "word": "cage",
+      "ipa": "/keɪdʒ/",
+      "meaning": "lồng",
+      "example": "The cage needs cleaning."
+    },
+    {
+      "id": "pets-024",
+      "word": "aquarium",
+      "ipa": "/ʌkwɛɹiʌm/",
+      "meaning": "bể cá",
+      "example": "The aquarium looks great."
+    },
+    {
+      "id": "pets-025",
+      "word": "litter box",
+      "ipa": "",
+      "meaning": "khay cát mèo",
+      "example": "Clean the litter box daily."
+    },
+    {
+      "id": "pets-026",
+      "word": "scratch post",
+      "ipa": "",
+      "meaning": "cột cào",
+      "example": "The cat uses the scratch post."
+    },
+    {
+      "id": "pets-027",
+      "word": "toy",
+      "ipa": "/tɔɪ/",
+      "meaning": "đồ chơi",
+      "example": "He bought a new toy."
+    },
+    {
+      "id": "pets-028",
+      "word": "treat",
+      "ipa": "/tɹit/",
+      "meaning": "đồ ăn thưởng",
+      "example": "Give the dog a treat."
+    },
+    {
+      "id": "pets-029",
+      "word": "walk",
+      "ipa": "/wɔk/",
+      "meaning": "dắt đi dạo",
+      "example": "I walk my dog every evening."
+    },
+    {
+      "id": "pets-030",
+      "word": "feed",
+      "ipa": "/fid/",
+      "meaning": "cho ăn",
+      "example": "Don’t forget to feed the cat."
+    },
+    {
+      "id": "pets-031",
+      "word": "groom",
+      "ipa": "/ɡɹum/",
+      "meaning": "chải lông",
+      "example": "I groom my dog weekly."
+    },
+    {
+      "id": "pets-032",
+      "word": "bath",
+      "ipa": "/bæθ/",
+      "meaning": "tắm",
+      "example": "It’s bath time."
+    },
+    {
+      "id": "pets-033",
+      "word": "bark",
+      "ipa": "/bɑɹk/",
+      "meaning": "sủa",
+      "example": "Dogs bark at strangers."
+    },
+    {
+      "id": "pets-034",
+      "word": "meow",
+      "ipa": "/miaʊ/",
+      "meaning": "kêu meo",
+      "example": "Cats meow for food."
+    },
+    {
+      "id": "pets-035",
+      "word": "bite",
+      "ipa": "/baɪt/",
+      "meaning": "cắn",
+      "example": "Be careful—it might bite."
+    },
+    {
+      "id": "pets-036",
+      "word": "friendly",
+      "ipa": "/fɹɛndli/",
+      "meaning": "thân thiện",
+      "example": "This dog is friendly."
+    },
+    {
+      "id": "pets-037",
+      "word": "cute",
+      "ipa": "/kjut/",
+      "meaning": "dễ thương",
+      "example": "That kitten is so cute."
+    },
+    {
+      "id": "pets-038",
+      "word": "wild",
+      "ipa": "/waɪld/",
+      "meaning": "hoang dã",
+      "example": "Wild animals aren’t pets."
+    },
+    {
+      "id": "pets-039",
+      "word": "adopt",
+      "ipa": "/ʌdɑpt/",
+      "meaning": "nhận nuôi",
+      "example": "We want to adopt a dog."
+    },
+    {
+      "id": "pets-040",
+      "word": "vaccination",
+      "ipa": "/væksʌneɪʃʌn/",
+      "meaning": "tiêm phòng",
+      "example": "Keep vaccinations up to date."
+    }
+  ]
+}

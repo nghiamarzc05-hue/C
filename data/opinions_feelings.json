@@ -1,0 +1,265 @@
+{
+  "id": "opinions_feelings",
+  "name": "Ý kiến & Cảm xúc",
+  "cards": [
+    {
+      "id": "opinions_feelings-001",
+      "word": "I think...",
+      "ipa": "",
+      "meaning": "Tôi nghĩ...",
+      "example": "I think it’s good."
+    },
+    {
+      "id": "opinions_feelings-002",
+      "word": "In my opinion...",
+      "ipa": "",
+      "meaning": "Theo ý tôi...",
+      "example": "In my opinion, it’s fine."
+    },
+    {
+      "id": "opinions_feelings-003",
+      "word": "I believe...",
+      "ipa": "",
+      "meaning": "Tôi tin...",
+      "example": "I believe you."
+    },
+    {
+      "id": "opinions_feelings-004",
+      "word": "I feel...",
+      "ipa": "",
+      "meaning": "Tôi cảm thấy...",
+      "example": "I feel happy."
+    },
+    {
+      "id": "opinions_feelings-005",
+      "word": "I like...",
+      "ipa": "",
+      "meaning": "Tôi thích...",
+      "example": "I like coffee."
+    },
+    {
+      "id": "opinions_feelings-006",
+      "word": "I love...",
+      "ipa": "",
+      "meaning": "Tôi yêu...",
+      "example": "I love music."
+    },
+    {
+      "id": "opinions_feelings-007",
+      "word": "I hate...",
+      "ipa": "",
+      "meaning": "Tôi ghét...",
+      "example": "I hate waiting."
+    },
+    {
+      "id": "opinions_feelings-008",
+      "word": "I agree",
+      "ipa": "",
+      "meaning": "Tôi đồng ý",
+      "example": "I agree."
+    },
+    {
+      "id": "opinions_feelings-009",
+      "word": "I disagree",
+      "ipa": "",
+      "meaning": "Tôi không đồng ý",
+      "example": "I disagree."
+    },
+    {
+      "id": "opinions_feelings-010",
+      "word": "That’s true",
+      "ipa": "",
+      "meaning": "Đúng vậy",
+      "example": "That’s true."
+    },
+    {
+      "id": "opinions_feelings-011",
+      "word": "That’s wrong",
+      "ipa": "",
+      "meaning": "Sai rồi",
+      "example": "That’s wrong."
+    },
+    {
+      "id": "opinions_feelings-012",
+      "word": "I’m happy",
+      "ipa": "",
+      "meaning": "Tôi vui",
+      "example": "I’m happy."
+    },
+    {
+      "id": "opinions_feelings-013",
+      "word": "I’m sad",
+      "ipa": "",
+      "meaning": "Tôi buồn",
+      "example": "I’m sad."
+    },
+    {
+      "id": "opinions_feelings-014",
+      "word": "I’m excited",
+      "ipa": "",
+      "meaning": "Tôi hào hứng",
+      "example": "I’m excited."
+    },
+    {
+      "id": "opinions_feelings-015",
+      "word": "I’m worried",
+      "ipa": "",
+      "meaning": "Tôi lo",
+      "example": "I’m worried."
+    },
+    {
+      "id": "opinions_feelings-016",
+      "word": "I’m angry",
+      "ipa": "",
+      "meaning": "Tôi giận",
+      "example": "I’m angry."
+    },
+    {
+      "id": "opinions_feelings-017",
+      "word": "I’m nervous",
+      "ipa": "",
+      "meaning": "Tôi hồi hộp",
+      "example": "I’m nervous."
+    },
+    {
+      "id": "opinions_feelings-018",
+      "word": "I’m surprised",
+      "ipa": "",
+      "meaning": "Tôi ngạc nhiên",
+      "example": "I’m surprised."
+    },
+    {
+      "id": "opinions_feelings-019",
+      "word": "feelings",
+      "ipa": "/filɪŋz/",
+      "meaning": "cảm xúc",
+      "example": "My feelings."
+    },
+    {
+      "id": "opinions_feelings-020",
+      "word": "opinion",
+      "ipa": "/ʌpɪnjʌn/",
+      "meaning": "ý kiến",
+      "example": "My opinion."
+    },
+    {
+      "id": "opinions_feelings-021",
+      "word": "idea",
+      "ipa": "/aɪdiʌ/",
+      "meaning": "ý tưởng",
+      "example": "That’s a good idea."
+    },
+    {
+      "id": "opinions_feelings-022",
+      "word": "thought",
+      "ipa": "/θɔt/",
+      "meaning": "suy nghĩ",
+      "example": "My thought."
+    },
+    {
+      "id": "opinions_feelings-023",
+      "word": "happy",
+      "ipa": "/hæpi/",
+      "meaning": "vui",
+      "example": "I feel happy."
+    },
+    {
+      "id": "opinions_feelings-024",
+      "word": "sad",
+      "ipa": "/sæd/",
+      "meaning": "buồn",
+      "example": "I feel sad."
+    },
+    {
+      "id": "opinions_feelings-025",
+      "word": "excited",
+      "ipa": "/ɪksaɪtʌd/",
+      "meaning": "hào hứng",
+      "example": "I’m excited."
+    },
+    {
+      "id": "opinions_feelings-026",
+      "word": "worried",
+      "ipa": "/wɝid/",
+      "meaning": "lo lắng",
+      "example": "I’m worried."
+    },
+    {
+      "id": "opinions_feelings-027",
+      "word": "angry",
+      "ipa": "/æŋɡɹi/",
+      "meaning": "giận",
+      "example": "He’s angry."
+    },
+    {
+      "id": "opinions_feelings-028",
+      "word": "nervous",
+      "ipa": "/nɝvʌs/",
+      "meaning": "hồi hộp",
+      "example": "She’s nervous."
+    },
+    {
+      "id": "opinions_feelings-029",
+      "word": "surprised",
+      "ipa": "/sɝpɹaɪzd/",
+      "meaning": "ngạc nhiên",
+      "example": "I’m surprised."
+    },
+    {
+      "id": "opinions_feelings-030",
+      "word": "confident",
+      "ipa": "/kɑnfʌdʌnt/",
+      "meaning": "tự tin",
+      "example": "I’m confident."
+    },
+    {
+      "id": "opinions_feelings-031",
+      "word": "afraid",
+      "ipa": "/ʌfɹeɪd/",
+      "meaning": "sợ",
+      "example": "I’m afraid."
+    },
+    {
+      "id": "opinions_feelings-032",
+      "word": "calm",
+      "ipa": "/kɑm/",
+      "meaning": "bình tĩnh",
+      "example": "Stay calm."
+    },
+    {
+      "id": "opinions_feelings-033",
+      "word": "strong feeling",
+      "ipa": "",
+      "meaning": "cảm xúc mạnh",
+      "example": "It’s a strong feeling."
+    },
+    {
+      "id": "opinions_feelings-034",
+      "word": "express",
+      "ipa": "/ɪkspɹɛs/",
+      "meaning": "bày tỏ",
+      "example": "Express yourself."
+    },
+    {
+      "id": "opinions_feelings-035",
+      "word": "share",
+      "ipa": "/ʃɛɹ/",
+      "meaning": "chia sẻ",
+      "example": "Share your opinion."
+    },
+    {
+      "id": "opinions_feelings-036",
+      "word": "support",
+      "ipa": "/sʌpɔɹt/",
+      "meaning": "ủng hộ",
+      "example": "I support you."
+    },
+    {
+      "id": "opinions_feelings-037",
+      "word": "respect",
+      "ipa": "/ɹɪspɛkt/",
+      "meaning": "tôn trọng",
+      "example": "I respect your opinion."
+    }
+  ]
+}

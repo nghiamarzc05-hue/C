@@ -1,0 +1,286 @@
+{
+  "id": "at_the_doctor",
+  "name": "Khám bệnh",
+  "cards": [
+    {
+      "id": "at_the_doctor-001",
+      "word": "I need to see a doctor.",
+      "ipa": "",
+      "meaning": "Tôi cần gặp bác sĩ.",
+      "example": "I need to see a doctor."
+    },
+    {
+      "id": "at_the_doctor-002",
+      "word": "I have an appointment.",
+      "ipa": "",
+      "meaning": "Tôi có lịch hẹn.",
+      "example": "I have an appointment."
+    },
+    {
+      "id": "at_the_doctor-003",
+      "word": "I feel sick.",
+      "ipa": "",
+      "meaning": "Tôi cảm thấy không khỏe.",
+      "example": "I feel sick."
+    },
+    {
+      "id": "at_the_doctor-004",
+      "word": "I have a fever.",
+      "ipa": "",
+      "meaning": "Tôi bị sốt.",
+      "example": "I have a fever."
+    },
+    {
+      "id": "at_the_doctor-005",
+      "word": "I have a headache.",
+      "ipa": "",
+      "meaning": "Tôi bị đau đầu.",
+      "example": "I have a headache."
+    },
+    {
+      "id": "at_the_doctor-006",
+      "word": "I have a stomachache.",
+      "ipa": "",
+      "meaning": "Tôi bị đau bụng.",
+      "example": "I have a stomachache."
+    },
+    {
+      "id": "at_the_doctor-007",
+      "word": "I have a sore throat.",
+      "ipa": "",
+      "meaning": "Tôi bị đau họng.",
+      "example": "I have a sore throat."
+    },
+    {
+      "id": "at_the_doctor-008",
+      "word": "I have a cough.",
+      "ipa": "",
+      "meaning": "Tôi bị ho.",
+      "example": "I have a cough."
+    },
+    {
+      "id": "at_the_doctor-009",
+      "word": "I feel dizzy.",
+      "ipa": "",
+      "meaning": "Tôi thấy chóng mặt.",
+      "example": "I feel dizzy."
+    },
+    {
+      "id": "at_the_doctor-010",
+      "word": "I’m allergic to...",
+      "ipa": "",
+      "meaning": "Tôi bị dị ứng với...",
+      "example": "I’m allergic to seafood."
+    },
+    {
+      "id": "at_the_doctor-011",
+      "word": "doctor",
+      "ipa": "",
+      "meaning": "bác sĩ",
+      "example": "The doctor is kind."
+    },
+    {
+      "id": "at_the_doctor-012",
+      "word": "nurse",
+      "ipa": "",
+      "meaning": "y tá",
+      "example": "The nurse will help you."
+    },
+    {
+      "id": "at_the_doctor-013",
+      "word": "hospital",
+      "ipa": "",
+      "meaning": "bệnh viện",
+      "example": "Go to the hospital."
+    },
+    {
+      "id": "at_the_doctor-014",
+      "word": "clinic",
+      "ipa": "",
+      "meaning": "phòng khám",
+      "example": "This clinic is open."
+    },
+    {
+      "id": "at_the_doctor-015",
+      "word": "appointment",
+      "ipa": "",
+      "meaning": "lịch hẹn",
+      "example": "I booked an appointment."
+    },
+    {
+      "id": "at_the_doctor-016",
+      "word": "medicine",
+      "ipa": "",
+      "meaning": "thuốc",
+      "example": "Take this medicine."
+    },
+    {
+      "id": "at_the_doctor-017",
+      "word": "pill",
+      "ipa": "",
+      "meaning": "viên thuốc",
+      "example": "Swallow the pill."
+    },
+    {
+      "id": "at_the_doctor-018",
+      "word": "prescription",
+      "ipa": "",
+      "meaning": "đơn thuốc",
+      "example": "Here is your prescription."
+    },
+    {
+      "id": "at_the_doctor-019",
+      "word": "symptom",
+      "ipa": "",
+      "meaning": "triệu chứng",
+      "example": "What are your symptoms?"
+    },
+    {
+      "id": "at_the_doctor-020",
+      "word": "pain",
+      "ipa": "",
+      "meaning": "đau",
+      "example": "I feel pain in my back."
+    },
+    {
+      "id": "at_the_doctor-021",
+      "word": "fever",
+      "ipa": "",
+      "meaning": "sốt",
+      "example": "She has a high fever."
+    },
+    {
+      "id": "at_the_doctor-022",
+      "word": "cough",
+      "ipa": "",
+      "meaning": "ho",
+      "example": "The cough won’t stop."
+    },
+    {
+      "id": "at_the_doctor-023",
+      "word": "cold",
+      "ipa": "",
+      "meaning": "cảm lạnh",
+      "example": "I caught a cold."
+    },
+    {
+      "id": "at_the_doctor-024",
+      "word": "flu",
+      "ipa": "",
+      "meaning": "cúm",
+      "example": "He has the flu."
+    },
+    {
+      "id": "at_the_doctor-025",
+      "word": "allergy",
+      "ipa": "",
+      "meaning": "dị ứng",
+      "example": "I have an allergy."
+    },
+    {
+      "id": "at_the_doctor-026",
+      "word": "injury",
+      "ipa": "",
+      "meaning": "chấn thương",
+      "example": "It’s a minor injury."
+    },
+    {
+      "id": "at_the_doctor-027",
+      "word": "blood pressure",
+      "ipa": "",
+      "meaning": "huyết áp",
+      "example": "Check your blood pressure."
+    },
+    {
+      "id": "at_the_doctor-028",
+      "word": "temperature",
+      "ipa": "",
+      "meaning": "nhiệt độ",
+      "example": "Your temperature is normal."
+    },
+    {
+      "id": "at_the_doctor-029",
+      "word": "checkup",
+      "ipa": "",
+      "meaning": "khám tổng quát",
+      "example": "I’m here for a checkup."
+    },
+    {
+      "id": "at_the_doctor-030",
+      "word": "emergency",
+      "ipa": "",
+      "meaning": "cấp cứu",
+      "example": "This is an emergency."
+    },
+    {
+      "id": "at_the_doctor-031",
+      "word": "healthy",
+      "ipa": "",
+      "meaning": "khỏe mạnh",
+      "example": "I want to stay healthy."
+    },
+    {
+      "id": "at_the_doctor-032",
+      "word": "sick",
+      "ipa": "",
+      "meaning": "ốm",
+      "example": "He is sick."
+    },
+    {
+      "id": "at_the_doctor-033",
+      "word": "tired",
+      "ipa": "",
+      "meaning": "mệt",
+      "example": "I feel tired."
+    },
+    {
+      "id": "at_the_doctor-034",
+      "word": "painful",
+      "ipa": "",
+      "meaning": "đau",
+      "example": "It’s painful."
+    },
+    {
+      "id": "at_the_doctor-035",
+      "word": "serious",
+      "ipa": "",
+      "meaning": "nghiêm trọng",
+      "example": "This is serious."
+    },
+    {
+      "id": "at_the_doctor-036",
+      "word": "recover",
+      "ipa": "",
+      "meaning": "hồi phục",
+      "example": "You will recover soon."
+    },
+    {
+      "id": "at_the_doctor-037",
+      "word": "rest",
+      "ipa": "",
+      "meaning": "nghỉ ngơi",
+      "example": "You need to rest."
+    },
+    {
+      "id": "at_the_doctor-038",
+      "word": "take medicine",
+      "ipa": "",
+      "meaning": "uống thuốc",
+      "example": "Take medicine twice a day."
+    },
+    {
+      "id": "at_the_doctor-039",
+      "word": "follow instructions",
+      "ipa": "",
+      "meaning": "làm theo hướng dẫn",
+      "example": "Follow the doctor’s instructions."
+    },
+    {
+      "id": "at_the_doctor-040",
+      "word": "feel better",
+      "ipa": "",
+      "meaning": "khỏe hơn",
+      "example": "I feel better now."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "city_buildings",
+  "name": "Tòa nhà trong thành phố",
+  "cards": [
+    {
+      "id": "city_buildings-001",
+      "word": "hospital",
+      "ipa": "/hɑspɪtʌl/",
+      "meaning": "bệnh viện",
+      "example": "The hospital is near my house."
+    },
+    {
+      "id": "city_buildings-002",
+      "word": "clinic",
+      "ipa": "/klɪnɪk/",
+      "meaning": "phòng khám",
+      "example": "The clinic opens at 9."
+    },
+    {
+      "id": "city_buildings-003",
+      "word": "pharmacy",
+      "ipa": "/fɑɹmʌsi/",
+      "meaning": "nhà thuốc",
+      "example": "The pharmacy is across the street."
+    },
+    {
+      "id": "city_buildings-004",
+      "word": "school",
+      "ipa": "/skul/",
+      "meaning": "trường học",
+      "example": "My sister goes to this school."
+    },
+    {
+      "id": "city_buildings-005",
+      "word": "university",
+      "ipa": "/junʌvɝsʌti/",
+      "meaning": "đại học",
+      "example": "He studies at the university."
+    },
+    {
+      "id": "city_buildings-006",
+      "word": "library",
+      "ipa": "/laɪbɹɛɹi/",
+      "meaning": "thư viện",
+      "example": "I’m going to the library."
+    },
+    {
+      "id": "city_buildings-007",
+      "word": "bookstore",
+      "ipa": "/bʊkstɔɹ/",
+      "meaning": "hiệu sách",
+      "example": "We stopped by a bookstore."
+    },
+    {
+      "id": "city_buildings-008",
+      "word": "museum",
+      "ipa": "/mjuziʌm/",
+      "meaning": "bảo tàng",
+      "example": "The museum is downtown."
+    },
+    {
+      "id": "city_buildings-009",
+      "word": "art gallery",
+      "ipa": "",
+      "meaning": "phòng trưng bày nghệ thuật",
+      "example": "We visited an art gallery."
+    },
+    {
+      "id": "city_buildings-010",
+      "word": "movie theater",
+      "ipa": "",
+      "meaning": "rạp phim",
+      "example": "Let’s go to the movie theater."
+    },
+    {
+      "id": "city_buildings-011",
+      "word": "shopping mall",
+      "ipa": "",
+      "meaning": "trung tâm thương mại",
+      "example": "Let’s meet at the shopping mall."
+    },
+    {
+      "id": "city_buildings-012",
+      "word": "supermarket",
+      "ipa": "/supɝmɑɹkɪt/",
+      "meaning": "siêu thị",
+      "example": "I’m at the supermarket."
+    },
+    {
+      "id": "city_buildings-013",
+      "word": "convenience store",
+      "ipa": "",
+      "meaning": "cửa hàng tiện lợi",
+      "example": "There’s a convenience store nearby."
+    },
+    {
+      "id": "city_buildings-014",
+      "word": "restaurant",
+      "ipa": "/ɹɛstɝɑnt/",
+      "meaning": "nhà hàng",
+      "example": "This restaurant is popular."
+    },
+    {
+      "id": "city_buildings-015",
+      "word": "cafe",
+      "ipa": "/kʌfeɪ/",
+      "meaning": "quán cà phê",
+      "example": "Let’s grab coffee at a cafe."
+    },
+    {
+      "id": "city_buildings-016",
+      "word": "bakery",
+      "ipa": "/beɪkɝi/",
+      "meaning": "tiệm bánh",
+      "example": "The bakery smells great."
+    },
+    {
+      "id": "city_buildings-017",
+      "word": "bank",
+      "ipa": "/bæŋk/",
+      "meaning": "ngân hàng",
+      "example": "The bank is on the corner."
+    },
+    {
+      "id": "city_buildings-018",
+      "word": "ATM",
+      "ipa": "/eɪtiɛm/",
+      "meaning": "cây ATM",
+      "example": "The ATM is inside the bank."
+    },
+    {
+      "id": "city_buildings-019",
+      "word": "post office",
+      "ipa": "",
+      "meaning": "bưu điện",
+      "example": "I need to go to the post office."
+    },
+    {
+      "id": "city_buildings-020",
+      "word": "police station",
+      "ipa": "",
+      "meaning": "đồn cảnh sát",
+      "example": "The police station is close."
+    },
+    {
+      "id": "city_buildings-021",
+      "word": "fire station",
+      "ipa": "",
+      "meaning": "trạm cứu hỏa",
+      "example": "The fire station is nearby."
+    },
+    {
+      "id": "city_buildings-022",
+      "word": "city hall",
+      "ipa": "",
+      "meaning": "tòa thị chính",
+      "example": "City hall is downtown."
+    },
+    {
+      "id": "city_buildings-023",
+      "word": "courthouse",
+      "ipa": "/kɔɹthaʊs/",
+      "meaning": "tòa án",
+      "example": "The courthouse is huge."
+    },
+    {
+      "id": "city_buildings-024",
+      "word": "office building",
+      "ipa": "",
+      "meaning": "tòa nhà văn phòng",
+      "example": "He works in an office building."
+    },
+    {
+      "id": "city_buildings-025",
+      "word": "apartment building",
+      "ipa": "",
+      "meaning": "chung cư",
+      "example": "She lives in an apartment building."
+    },
+    {
+      "id": "city_buildings-026",
+      "word": "hotel",
+      "ipa": "/hoʊtɛl/",
+      "meaning": "khách sạn",
+      "example": "We stayed at a hotel."
+    },
+    {
+      "id": "city_buildings-027",
+      "word": "bus station",
+      "ipa": "",
+      "meaning": "bến xe buýt",
+      "example": "The bus station is crowded."
+    },
+    {
+      "id": "city_buildings-028",
+      "word": "train station",
+      "ipa": "",
+      "meaning": "ga tàu hỏa",
+      "example": "The train station is far."
+    },
+    {
+      "id": "city_buildings-029",
+      "word": "subway station",
+      "ipa": "",
+      "meaning": "ga tàu điện ngầm",
+      "example": "The subway station is nearby."
+    },
+    {
+      "id": "city_buildings-030",
+      "word": "airport",
+      "ipa": "/ɛɹpɔɹt/",
+      "meaning": "sân bay",
+      "example": "The airport is 30 minutes away."
+    },
+    {
+      "id": "city_buildings-031",
+      "word": "park",
+      "ipa": "/pɑɹk/",
+      "meaning": "công viên",
+      "example": "Let’s walk in the park."
+    },
+    {
+      "id": "city_buildings-032",
+      "word": "playground",
+      "ipa": "/pleɪɡɹaʊnd/",
+      "meaning": "sân chơi",
+      "example": "Kids are at the playground."
+    },
+    {
+      "id": "city_buildings-033",
+      "word": "stadium",
+      "ipa": "/steɪdiʌm/",
+      "meaning": "sân vận động",
+      "example": "The stadium is packed."
+    },
+    {
+      "id": "city_buildings-034",
+      "word": "gym",
+      "ipa": "/dʒɪm/",
+      "meaning": "phòng gym",
+      "example": "I go to the gym after work."
+    },
+    {
+      "id": "city_buildings-035",
+      "word": "church",
+      "ipa": "/tʃɝtʃ/",
+      "meaning": "nhà thờ",
+      "example": "The church is old."
+    },
+    {
+      "id": "city_buildings-036",
+      "word": "temple",
+      "ipa": "/tɛmpʌl/",
+      "meaning": "đền/chùa",
+      "example": "The temple is beautiful."
+    },
+    {
+      "id": "city_buildings-037",
+      "word": "bridge",
+      "ipa": "/bɹɪdʒ/",
+      "meaning": "cầu",
+      "example": "Cross the bridge."
+    },
+    {
+      "id": "city_buildings-038",
+      "word": "parking garage",
+      "ipa": "",
+      "meaning": "bãi đỗ xe nhiều tầng",
+      "example": "Park in the parking garage."
+    },
+    {
+      "id": "city_buildings-039",
+      "word": "gas station",
+      "ipa": "",
+      "meaning": "trạm xăng",
+      "example": "Stop at the gas station."
+    },
+    {
+      "id": "city_buildings-040",
+      "word": "barbershop",
+      "ipa": "/bɑɹbɝʃɑp/",
+      "meaning": "tiệm cắt tóc nam",
+      "example": "He went to the barbershop."
+    }
+  ]
+}

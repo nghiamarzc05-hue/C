@@ -1,0 +1,272 @@
+{
+  "id": "making_plans",
+  "name": "Lên kế hoạch",
+  "cards": [
+    {
+      "id": "making_plans-001",
+      "word": "Are you free tonight?",
+      "ipa": "",
+      "meaning": "Tối nay bạn rảnh không?",
+      "example": "Are you free tonight?"
+    },
+    {
+      "id": "making_plans-002",
+      "word": "Let’s meet",
+      "ipa": "",
+      "meaning": "Hẹn gặp nhé",
+      "example": "Let’s meet."
+    },
+    {
+      "id": "making_plans-003",
+      "word": "What time works for you?",
+      "ipa": "",
+      "meaning": "Giờ nào hợp với bạn?",
+      "example": "What time works for you?"
+    },
+    {
+      "id": "making_plans-004",
+      "word": "See you later",
+      "ipa": "",
+      "meaning": "Gặp bạn sau",
+      "example": "See you later."
+    },
+    {
+      "id": "making_plans-005",
+      "word": "See you tomorrow",
+      "ipa": "",
+      "meaning": "Gặp ngày mai",
+      "example": "See you tomorrow."
+    },
+    {
+      "id": "making_plans-006",
+      "word": "Let’s go out",
+      "ipa": "",
+      "meaning": "Đi chơi nhé",
+      "example": "Let’s go out."
+    },
+    {
+      "id": "making_plans-007",
+      "word": "Make a plan",
+      "ipa": "",
+      "meaning": "Lập kế hoạch",
+      "example": "Make a plan."
+    },
+    {
+      "id": "making_plans-008",
+      "word": "Set a time",
+      "ipa": "",
+      "meaning": "Chọn giờ",
+      "example": "Set a time."
+    },
+    {
+      "id": "making_plans-009",
+      "word": "I’ll be there",
+      "ipa": "",
+      "meaning": "Tôi sẽ đến",
+      "example": "I’ll be there."
+    },
+    {
+      "id": "making_plans-010",
+      "word": "Don’t be late",
+      "ipa": "",
+      "meaning": "Đừng trễ",
+      "example": "Don’t be late."
+    },
+    {
+      "id": "making_plans-011",
+      "word": "plan",
+      "ipa": "/plæn/",
+      "meaning": "kế hoạch",
+      "example": "My plan."
+    },
+    {
+      "id": "making_plans-012",
+      "word": "schedule",
+      "ipa": "/skɛdʒʊl/",
+      "meaning": "lịch",
+      "example": "Check my schedule."
+    },
+    {
+      "id": "making_plans-013",
+      "word": "appointment",
+      "ipa": "/ʌpɔɪntmʌnt/",
+      "meaning": "cuộc hẹn",
+      "example": "I have an appointment."
+    },
+    {
+      "id": "making_plans-014",
+      "word": "meeting",
+      "ipa": "/mitɪŋ/",
+      "meaning": "cuộc gặp",
+      "example": "We have a meeting."
+    },
+    {
+      "id": "making_plans-015",
+      "word": "time",
+      "ipa": "/taɪm/",
+      "meaning": "thời gian",
+      "example": "What time?"
+    },
+    {
+      "id": "making_plans-016",
+      "word": "date",
+      "ipa": "/deɪt/",
+      "meaning": "ngày",
+      "example": "Pick a date."
+    },
+    {
+      "id": "making_plans-017",
+      "word": "place",
+      "ipa": "/pleɪs/",
+      "meaning": "địa điểm",
+      "example": "Choose a place."
+    },
+    {
+      "id": "making_plans-018",
+      "word": "location",
+      "ipa": "/loʊkeɪʃʌn/",
+      "meaning": "vị trí",
+      "example": "Send me the location."
+    },
+    {
+      "id": "making_plans-019",
+      "word": "invite",
+      "ipa": "/ɪnvaɪt/",
+      "meaning": "mời",
+      "example": "Invite your friends."
+    },
+    {
+      "id": "making_plans-020",
+      "word": "confirm",
+      "ipa": "/kʌnfɝm/",
+      "meaning": "xác nhận",
+      "example": "Confirm the plan."
+    },
+    {
+      "id": "making_plans-021",
+      "word": "cancel",
+      "ipa": "/kænsʌl/",
+      "meaning": "hủy",
+      "example": "Cancel the plan."
+    },
+    {
+      "id": "making_plans-022",
+      "word": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "meaning": "đổi",
+      "example": "Change the time."
+    },
+    {
+      "id": "making_plans-023",
+      "word": "available",
+      "ipa": "/ʌveɪlʌbʌl/",
+      "meaning": "rảnh",
+      "example": "I’m available."
+    },
+    {
+      "id": "making_plans-024",
+      "word": "busy",
+      "ipa": "/bɪzi/",
+      "meaning": "bận",
+      "example": "I’m busy."
+    },
+    {
+      "id": "making_plans-025",
+      "word": "tomorrow",
+      "ipa": "/tʌmɑɹoʊ/",
+      "meaning": "ngày mai",
+      "example": "See you tomorrow."
+    },
+    {
+      "id": "making_plans-026",
+      "word": "tonight",
+      "ipa": "/tʌnaɪt/",
+      "meaning": "tối nay",
+      "example": "Tonight is good."
+    },
+    {
+      "id": "making_plans-027",
+      "word": "weekend",
+      "ipa": "/wikɛnd/",
+      "meaning": "cuối tuần",
+      "example": "This weekend."
+    },
+    {
+      "id": "making_plans-028",
+      "word": "next week",
+      "ipa": "",
+      "meaning": "tuần sau",
+      "example": "Next week works."
+    },
+    {
+      "id": "making_plans-029",
+      "word": "later",
+      "ipa": "/leɪtɝ/",
+      "meaning": "sau",
+      "example": "Talk later."
+    },
+    {
+      "id": "making_plans-030",
+      "word": "soon",
+      "ipa": "/sun/",
+      "meaning": "sớm",
+      "example": "See you soon."
+    },
+    {
+      "id": "making_plans-031",
+      "word": "set up",
+      "ipa": "",
+      "meaning": "sắp xếp",
+      "example": "Set up a meeting."
+    },
+    {
+      "id": "making_plans-032",
+      "word": "join",
+      "ipa": "/dʒɔɪn/",
+      "meaning": "tham gia",
+      "example": "Join us."
+    },
+    {
+      "id": "making_plans-033",
+      "word": "come",
+      "ipa": "/kʌm/",
+      "meaning": "đến",
+      "example": "Come with me."
+    },
+    {
+      "id": "making_plans-034",
+      "word": "go",
+      "ipa": "/ɡoʊ/",
+      "meaning": "đi",
+      "example": "Let’s go."
+    },
+    {
+      "id": "making_plans-035",
+      "word": "remind",
+      "ipa": "/ɹimaɪnd/",
+      "meaning": "nhắc",
+      "example": "Remind me."
+    },
+    {
+      "id": "making_plans-036",
+      "word": "message",
+      "ipa": "/mɛsʌdʒ/",
+      "meaning": "nhắn",
+      "example": "Message me."
+    },
+    {
+      "id": "making_plans-037",
+      "word": "plan ahead",
+      "ipa": "",
+      "meaning": "lên kế hoạch trước",
+      "example": "Plan ahead."
+    },
+    {
+      "id": "making_plans-038",
+      "word": "make time",
+      "ipa": "",
+      "meaning": "sắp xếp thời gian",
+      "example": "Make time."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "clothes",
+  "name": "Quần áo",
+  "cards": [
+    {
+      "id": "clothes-001",
+      "word": "shirt",
+      "ipa": "/ʃɝt/",
+      "meaning": "áo sơ mi",
+      "example": "He is wearing a blue shirt."
+    },
+    {
+      "id": "clothes-002",
+      "word": "t-shirt",
+      "ipa": "/tiʃɝt/",
+      "meaning": "áo thun",
+      "example": "I bought a new T-shirt."
+    },
+    {
+      "id": "clothes-003",
+      "word": "pants",
+      "ipa": "/pænts/",
+      "meaning": "quần dài",
+      "example": "These pants are too long."
+    },
+    {
+      "id": "clothes-004",
+      "word": "jeans",
+      "ipa": "/dʒinz/",
+      "meaning": "quần jean",
+      "example": "She wears jeans every day."
+    },
+    {
+      "id": "clothes-005",
+      "word": "shorts",
+      "ipa": "/ʃɔɹts/",
+      "meaning": "quần short",
+      "example": "I wear shorts in summer."
+    },
+    {
+      "id": "clothes-006",
+      "word": "skirt",
+      "ipa": "/skɝt/",
+      "meaning": "váy ngắn",
+      "example": "She is wearing a red skirt."
+    },
+    {
+      "id": "clothes-007",
+      "word": "dress",
+      "ipa": "/dɹɛs/",
+      "meaning": "đầm",
+      "example": "That dress looks beautiful."
+    },
+    {
+      "id": "clothes-008",
+      "word": "jacket",
+      "ipa": "/dʒækʌt/",
+      "meaning": "áo khoác",
+      "example": "Take a jacket, it’s cold outside."
+    },
+    {
+      "id": "clothes-009",
+      "word": "coat",
+      "ipa": "/koʊt/",
+      "meaning": "áo choàng",
+      "example": "He put on his coat."
+    },
+    {
+      "id": "clothes-010",
+      "word": "hoodie",
+      "ipa": "",
+      "meaning": "áo hoodie",
+      "example": "I love my black hoodie."
+    },
+    {
+      "id": "clothes-011",
+      "word": "sweater",
+      "ipa": "/swɛtɝ/",
+      "meaning": "áo len",
+      "example": "This sweater is warm."
+    },
+    {
+      "id": "clothes-012",
+      "word": "suit",
+      "ipa": "/sut/",
+      "meaning": "bộ vest",
+      "example": "He wore a suit."
+    },
+    {
+      "id": "clothes-013",
+      "word": "tie",
+      "ipa": "/taɪ/",
+      "meaning": "cà vạt",
+      "example": "He tightened his tie."
+    },
+    {
+      "id": "clothes-014",
+      "word": "hat",
+      "ipa": "/hæt/",
+      "meaning": "mũ",
+      "example": "She is wearing a hat."
+    },
+    {
+      "id": "clothes-015",
+      "word": "cap",
+      "ipa": "/kæp/",
+      "meaning": "nón lưỡi trai",
+      "example": "He wears a cap."
+    },
+    {
+      "id": "clothes-016",
+      "word": "shoes",
+      "ipa": "/ʃuz/",
+      "meaning": "giày",
+      "example": "My shoes are dirty."
+    },
+    {
+      "id": "clothes-017",
+      "word": "sneakers",
+      "ipa": "/snikɝz/",
+      "meaning": "giày thể thao",
+      "example": "These sneakers are comfortable."
+    },
+    {
+      "id": "clothes-018",
+      "word": "boots",
+      "ipa": "/buts/",
+      "meaning": "ủng",
+      "example": "She bought new boots."
+    },
+    {
+      "id": "clothes-019",
+      "word": "sandals",
+      "ipa": "/sændʌlz/",
+      "meaning": "dép",
+      "example": "I wear sandals at the beach."
+    },
+    {
+      "id": "clothes-020",
+      "word": "socks",
+      "ipa": "/sɑks/",
+      "meaning": "vớ",
+      "example": "Where are my socks?"
+    },
+    {
+      "id": "clothes-021",
+      "word": "underwear",
+      "ipa": "/ʌndɝwɛɹ/",
+      "meaning": "đồ lót",
+      "example": "Buy clean underwear."
+    },
+    {
+      "id": "clothes-022",
+      "word": "bra",
+      "ipa": "/bɹɑ/",
+      "meaning": "áo ngực",
+      "example": "She bought a new bra."
+    },
+    {
+      "id": "clothes-023",
+      "word": "pajamas",
+      "ipa": "/pʌdʒɑmʌz/",
+      "meaning": "đồ ngủ",
+      "example": "I changed into my pajamas."
+    },
+    {
+      "id": "clothes-024",
+      "word": "belt",
+      "ipa": "/bɛlt/",
+      "meaning": "thắt lưng",
+      "example": "His belt is brown."
+    },
+    {
+      "id": "clothes-025",
+      "word": "scarf",
+      "ipa": "/skɑɹf/",
+      "meaning": "khăn choàng",
+      "example": "She wrapped a scarf."
+    },
+    {
+      "id": "clothes-026",
+      "word": "gloves",
+      "ipa": "/ɡlʌvz/",
+      "meaning": "găng tay",
+      "example": "Wear gloves in winter."
+    },
+    {
+      "id": "clothes-027",
+      "word": "watch",
+      "ipa": "/wɑtʃ/",
+      "meaning": "đồng hồ",
+      "example": "His watch is expensive."
+    },
+    {
+      "id": "clothes-028",
+      "word": "ring",
+      "ipa": "/ɹɪŋ/",
+      "meaning": "nhẫn",
+      "example": "She wears a gold ring."
+    },
+    {
+      "id": "clothes-029",
+      "word": "necklace",
+      "ipa": "/nɛklʌs/",
+      "meaning": "vòng cổ",
+      "example": "That necklace is pretty."
+    },
+    {
+      "id": "clothes-030",
+      "word": "bracelet",
+      "ipa": "/bɹeɪslʌt/",
+      "meaning": "vòng tay",
+      "example": "He gave her a bracelet."
+    },
+    {
+      "id": "clothes-031",
+      "word": "bag",
+      "ipa": "/bæɡ/",
+      "meaning": "túi xách",
+      "example": "She carried a small bag."
+    },
+    {
+      "id": "clothes-032",
+      "word": "backpack",
+      "ipa": "/bækpæk/",
+      "meaning": "ba lô",
+      "example": "My backpack is heavy."
+    },
+    {
+      "id": "clothes-033",
+      "word": "wallet",
+      "ipa": "/wɔlʌt/",
+      "meaning": "ví",
+      "example": "He lost his wallet."
+    },
+    {
+      "id": "clothes-034",
+      "word": "glasses",
+      "ipa": "/ɡlæsʌz/",
+      "meaning": "kính",
+      "example": "I can’t see without glasses."
+    },
+    {
+      "id": "clothes-035",
+      "word": "sunglasses",
+      "ipa": "/sʌnɡlæsɪz/",
+      "meaning": "kính râm",
+      "example": "Wear sunglasses."
+    },
+    {
+      "id": "clothes-036",
+      "word": "uniform",
+      "ipa": "/junʌfɔɹm/",
+      "meaning": "đồng phục",
+      "example": "Students wear uniforms."
+    },
+    {
+      "id": "clothes-037",
+      "word": "raincoat",
+      "ipa": "/ɹeɪnkoʊt/",
+      "meaning": "áo mưa",
+      "example": "Take a raincoat."
+    },
+    {
+      "id": "clothes-038",
+      "word": "slippers",
+      "ipa": "/slɪpɝz/",
+      "meaning": "dép trong nhà",
+      "example": "I wear slippers at home."
+    }
+  ]
+}

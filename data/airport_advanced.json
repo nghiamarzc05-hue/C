@@ -1,0 +1,279 @@
+{
+  "id": "airport_advanced",
+  "name": "Sân bay nâng cao",
+  "cards": [
+    {
+      "id": "airport_advanced-001",
+      "word": "Where is the check-in counter?",
+      "ipa": "",
+      "meaning": "Quầy check-in ở đâu?",
+      "example": "Where is the check-in counter?"
+    },
+    {
+      "id": "airport_advanced-002",
+      "word": "Which gate is my flight?",
+      "ipa": "",
+      "meaning": "Cổng lên máy bay của tôi ở đâu?",
+      "example": "Which gate is my flight?"
+    },
+    {
+      "id": "airport_advanced-003",
+      "word": "My flight is delayed.",
+      "ipa": "",
+      "meaning": "Chuyến bay của tôi bị trễ.",
+      "example": "My flight is delayed."
+    },
+    {
+      "id": "airport_advanced-004",
+      "word": "Where is baggage claim?",
+      "ipa": "",
+      "meaning": "Khu nhận hành lý ở đâu?",
+      "example": "Where is baggage claim?"
+    },
+    {
+      "id": "airport_advanced-005",
+      "word": "I lost my luggage.",
+      "ipa": "",
+      "meaning": "Tôi bị mất hành lý.",
+      "example": "I lost my luggage."
+    },
+    {
+      "id": "airport_advanced-006",
+      "word": "Do I need to show my passport?",
+      "ipa": "",
+      "meaning": "Tôi có cần xuất trình hộ chiếu không?",
+      "example": "Do I need to show my passport?"
+    },
+    {
+      "id": "airport_advanced-007",
+      "word": "How long is the security line?",
+      "ipa": "",
+      "meaning": "Hàng kiểm tra an ninh dài bao lâu?",
+      "example": "How long is the security line?"
+    },
+    {
+      "id": "airport_advanced-008",
+      "word": "Boarding has started.",
+      "ipa": "",
+      "meaning": "Đã bắt đầu lên máy bay.",
+      "example": "Boarding has started."
+    },
+    {
+      "id": "airport_advanced-009",
+      "word": "The gate has changed.",
+      "ipa": "",
+      "meaning": "Cổng lên máy bay đã đổi.",
+      "example": "The gate has changed."
+    },
+    {
+      "id": "airport_advanced-010",
+      "word": "Is this seat available?",
+      "ipa": "",
+      "meaning": "Ghế này còn trống không?",
+      "example": "Is this seat available?"
+    },
+    {
+      "id": "airport_advanced-011",
+      "word": "airport",
+      "ipa": "",
+      "meaning": "sân bay",
+      "example": "The airport is busy."
+    },
+    {
+      "id": "airport_advanced-012",
+      "word": "check-in counter",
+      "ipa": "",
+      "meaning": "quầy check-in",
+      "example": "Go to the check-in counter."
+    },
+    {
+      "id": "airport_advanced-013",
+      "word": "boarding gate",
+      "ipa": "",
+      "meaning": "cổng lên máy bay",
+      "example": "Your boarding gate is A12."
+    },
+    {
+      "id": "airport_advanced-014",
+      "word": "security check",
+      "ipa": "",
+      "meaning": "kiểm tra an ninh",
+      "example": "Proceed to security check."
+    },
+    {
+      "id": "airport_advanced-015",
+      "word": "passport control",
+      "ipa": "",
+      "meaning": "kiểm soát hộ chiếu",
+      "example": "Go through passport control."
+    },
+    {
+      "id": "airport_advanced-016",
+      "word": "customs",
+      "ipa": "",
+      "meaning": "hải quan",
+      "example": "Pass through customs."
+    },
+    {
+      "id": "airport_advanced-017",
+      "word": "baggage claim",
+      "ipa": "",
+      "meaning": "khu nhận hành lý",
+      "example": "Baggage claim is downstairs."
+    },
+    {
+      "id": "airport_advanced-018",
+      "word": "luggage",
+      "ipa": "",
+      "meaning": "hành lý",
+      "example": "My luggage is heavy."
+    },
+    {
+      "id": "airport_advanced-019",
+      "word": "suitcase",
+      "ipa": "",
+      "meaning": "vali",
+      "example": "I packed my suitcase."
+    },
+    {
+      "id": "airport_advanced-020",
+      "word": "carry-on",
+      "ipa": "",
+      "meaning": "hành lý xách tay",
+      "example": "This is my carry-on."
+    },
+    {
+      "id": "airport_advanced-021",
+      "word": "flight",
+      "ipa": "",
+      "meaning": "chuyến bay",
+      "example": "My flight is on time."
+    },
+    {
+      "id": "airport_advanced-022",
+      "word": "delay",
+      "ipa": "",
+      "meaning": "trễ chuyến",
+      "example": "The delay is one hour."
+    },
+    {
+      "id": "airport_advanced-023",
+      "word": "cancellation",
+      "ipa": "",
+      "meaning": "hủy chuyến",
+      "example": "The flight was canceled."
+    },
+    {
+      "id": "airport_advanced-024",
+      "word": "boarding pass",
+      "ipa": "",
+      "meaning": "thẻ lên máy bay",
+      "example": "Show your boarding pass."
+    },
+    {
+      "id": "airport_advanced-025",
+      "word": "seat",
+      "ipa": "",
+      "meaning": "ghế",
+      "example": "My seat is 12A."
+    },
+    {
+      "id": "airport_advanced-026",
+      "word": "aisle",
+      "ipa": "",
+      "meaning": "lối đi",
+      "example": "I prefer an aisle seat."
+    },
+    {
+      "id": "airport_advanced-027",
+      "word": "window seat",
+      "ipa": "",
+      "meaning": "ghế cửa sổ",
+      "example": "I booked a window seat."
+    },
+    {
+      "id": "airport_advanced-028",
+      "word": "announcement",
+      "ipa": "",
+      "meaning": "thông báo",
+      "example": "Listen to the announcement."
+    },
+    {
+      "id": "airport_advanced-029",
+      "word": "terminal",
+      "ipa": "",
+      "meaning": "nhà ga",
+      "example": "Terminal 2 is international."
+    },
+    {
+      "id": "airport_advanced-030",
+      "word": "departure",
+      "ipa": "",
+      "meaning": "khởi hành",
+      "example": "Departure time is 8 PM."
+    },
+    {
+      "id": "airport_advanced-031",
+      "word": "arrival",
+      "ipa": "",
+      "meaning": "đến nơi",
+      "example": "Arrival is at 10 PM."
+    },
+    {
+      "id": "airport_advanced-032",
+      "word": "gate",
+      "ipa": "",
+      "meaning": "cổng",
+      "example": "Your gate is B5."
+    },
+    {
+      "id": "airport_advanced-033",
+      "word": "transfer",
+      "ipa": "",
+      "meaning": "chuyển chuyến",
+      "example": "I have a transfer in Seoul."
+    },
+    {
+      "id": "airport_advanced-034",
+      "word": "layover",
+      "ipa": "",
+      "meaning": "quá cảnh",
+      "example": "I have a long layover."
+    },
+    {
+      "id": "airport_advanced-035",
+      "word": "boarding",
+      "ipa": "",
+      "meaning": "lên máy bay",
+      "example": "Boarding is starting."
+    },
+    {
+      "id": "airport_advanced-036",
+      "word": "immigration",
+      "ipa": "",
+      "meaning": "nhập cảnh",
+      "example": "Go to immigration."
+    },
+    {
+      "id": "airport_advanced-037",
+      "word": "metal detector",
+      "ipa": "",
+      "meaning": "máy dò kim loại",
+      "example": "Walk through the metal detector."
+    },
+    {
+      "id": "airport_advanced-038",
+      "word": "scanner",
+      "ipa": "",
+      "meaning": "máy quét",
+      "example": "Put your bag on the scanner."
+    },
+    {
+      "id": "airport_advanced-039",
+      "word": "security officer",
+      "ipa": "",
+      "meaning": "nhân viên an ninh",
+      "example": "Follow the security officer."
+    }
+  ]
+}

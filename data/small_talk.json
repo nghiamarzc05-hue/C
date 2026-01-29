@@ -1,0 +1,286 @@
+{
+  "id": "small_talk",
+  "name": "Small Talk",
+  "cards": [
+    {
+      "id": "small_talk-001",
+      "word": "How’s it going?",
+      "ipa": "",
+      "meaning": "Dạo này sao rồi?",
+      "example": "How’s it going?"
+    },
+    {
+      "id": "small_talk-002",
+      "word": "What’s up?",
+      "ipa": "",
+      "meaning": "Có gì mới không?",
+      "example": "What’s up?"
+    },
+    {
+      "id": "small_talk-003",
+      "word": "Nice weather today.",
+      "ipa": "",
+      "meaning": "Hôm nay thời tiết đẹp.",
+      "example": "Nice weather today."
+    },
+    {
+      "id": "small_talk-004",
+      "word": "How was your day?",
+      "ipa": "",
+      "meaning": "Hôm nay của bạn thế nào?",
+      "example": "How was your day?"
+    },
+    {
+      "id": "small_talk-005",
+      "word": "Long time no see.",
+      "ipa": "",
+      "meaning": "Lâu rồi không gặp.",
+      "example": "Long time no see."
+    },
+    {
+      "id": "small_talk-006",
+      "word": "What do you do?",
+      "ipa": "",
+      "meaning": "Bạn làm nghề gì?",
+      "example": "What do you do?"
+    },
+    {
+      "id": "small_talk-007",
+      "word": "Where are you from?",
+      "ipa": "",
+      "meaning": "Bạn đến từ đâu?",
+      "example": "Where are you from?"
+    },
+    {
+      "id": "small_talk-008",
+      "word": "Do you live nearby?",
+      "ipa": "",
+      "meaning": "Bạn sống gần đây à?",
+      "example": "Do you live nearby?"
+    },
+    {
+      "id": "small_talk-009",
+      "word": "Have you been here before?",
+      "ipa": "",
+      "meaning": "Bạn đã đến đây trước chưa?",
+      "example": "Have you been here before?"
+    },
+    {
+      "id": "small_talk-010",
+      "word": "What are your hobbies?",
+      "ipa": "",
+      "meaning": "Sở thích của bạn là gì?",
+      "example": "What are your hobbies?"
+    },
+    {
+      "id": "small_talk-011",
+      "word": "It’s nice to meet you.",
+      "ipa": "",
+      "meaning": "Rất vui được gặp bạn.",
+      "example": "It’s nice to meet you."
+    },
+    {
+      "id": "small_talk-012",
+      "word": "That sounds interesting.",
+      "ipa": "",
+      "meaning": "Nghe thú vị đó.",
+      "example": "That sounds interesting."
+    },
+    {
+      "id": "small_talk-013",
+      "word": "Really?",
+      "ipa": "",
+      "meaning": "Thật à?",
+      "example": "Really?"
+    },
+    {
+      "id": "small_talk-014",
+      "word": "I see.",
+      "ipa": "",
+      "meaning": "Tôi hiểu rồi.",
+      "example": "I see."
+    },
+    {
+      "id": "small_talk-015",
+      "word": "That’s cool.",
+      "ipa": "",
+      "meaning": "Hay thật.",
+      "example": "That’s cool."
+    },
+    {
+      "id": "small_talk-016",
+      "word": "Tell me more.",
+      "ipa": "",
+      "meaning": "Kể thêm đi.",
+      "example": "Tell me more."
+    },
+    {
+      "id": "small_talk-017",
+      "word": "What do you think?",
+      "ipa": "",
+      "meaning": "Bạn nghĩ sao?",
+      "example": "What do you think?"
+    },
+    {
+      "id": "small_talk-018",
+      "word": "I agree.",
+      "ipa": "",
+      "meaning": "Tôi đồng ý.",
+      "example": "I agree."
+    },
+    {
+      "id": "small_talk-019",
+      "word": "That makes sense.",
+      "ipa": "",
+      "meaning": "Nghe hợp lý.",
+      "example": "That makes sense."
+    },
+    {
+      "id": "small_talk-020",
+      "word": "No way!",
+      "ipa": "",
+      "meaning": "Không thể nào!",
+      "example": "No way!"
+    },
+    {
+      "id": "small_talk-021",
+      "word": "weather",
+      "ipa": "",
+      "meaning": "thời tiết",
+      "example": "The weather is nice."
+    },
+    {
+      "id": "small_talk-022",
+      "word": "weekend",
+      "ipa": "",
+      "meaning": "cuối tuần",
+      "example": "Any plans for the weekend?"
+    },
+    {
+      "id": "small_talk-023",
+      "word": "work",
+      "ipa": "",
+      "meaning": "công việc",
+      "example": "Work is busy."
+    },
+    {
+      "id": "small_talk-024",
+      "word": "job",
+      "ipa": "",
+      "meaning": "nghề nghiệp",
+      "example": "I like my job."
+    },
+    {
+      "id": "small_talk-025",
+      "word": "hobby",
+      "ipa": "",
+      "meaning": "sở thích",
+      "example": "Reading is my hobby."
+    },
+    {
+      "id": "small_talk-026",
+      "word": "movie",
+      "ipa": "",
+      "meaning": "phim",
+      "example": "I watched a movie."
+    },
+    {
+      "id": "small_talk-027",
+      "word": "music",
+      "ipa": "",
+      "meaning": "âm nhạc",
+      "example": "I love music."
+    },
+    {
+      "id": "small_talk-028",
+      "word": "sports",
+      "ipa": "",
+      "meaning": "thể thao",
+      "example": "Do you like sports?"
+    },
+    {
+      "id": "small_talk-029",
+      "word": "travel",
+      "ipa": "",
+      "meaning": "du lịch",
+      "example": "I enjoy travel."
+    },
+    {
+      "id": "small_talk-030",
+      "word": "food",
+      "ipa": "",
+      "meaning": "đồ ăn",
+      "example": "The food is great."
+    },
+    {
+      "id": "small_talk-031",
+      "word": "fun",
+      "ipa": "",
+      "meaning": "vui",
+      "example": "That sounds fun."
+    },
+    {
+      "id": "small_talk-032",
+      "word": "boring",
+      "ipa": "",
+      "meaning": "chán",
+      "example": "It was boring."
+    },
+    {
+      "id": "small_talk-033",
+      "word": "busy",
+      "ipa": "",
+      "meaning": "bận",
+      "example": "I’m busy today."
+    },
+    {
+      "id": "small_talk-034",
+      "word": "free",
+      "ipa": "",
+      "meaning": "rảnh",
+      "example": "Are you free tomorrow?"
+    },
+    {
+      "id": "small_talk-035",
+      "word": "interesting",
+      "ipa": "",
+      "meaning": "thú vị",
+      "example": "That’s interesting."
+    },
+    {
+      "id": "small_talk-036",
+      "word": "amazing",
+      "ipa": "",
+      "meaning": "tuyệt vời",
+      "example": "That’s amazing."
+    },
+    {
+      "id": "small_talk-037",
+      "word": "relax",
+      "ipa": "",
+      "meaning": "thư giãn",
+      "example": "I want to relax."
+    },
+    {
+      "id": "small_talk-038",
+      "word": "enjoy",
+      "ipa": "",
+      "meaning": "thích thú",
+      "example": "I enjoy cooking."
+    },
+    {
+      "id": "small_talk-039",
+      "word": "hang out",
+      "ipa": "",
+      "meaning": "đi chơi",
+      "example": "Let’s hang out."
+    },
+    {
+      "id": "small_talk-040",
+      "word": "chat",
+      "ipa": "",
+      "meaning": "tán gẫu",
+      "example": "Let’s chat."
+    }
+  ]
+}

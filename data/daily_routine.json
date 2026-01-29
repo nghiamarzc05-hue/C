@@ -1,0 +1,272 @@
+{
+  "id": "daily_routine",
+  "name": "Sinh hoạt hằng ngày",
+  "cards": [
+    {
+      "id": "daily_routine-001",
+      "word": "wake up",
+      "ipa": "",
+      "meaning": "thức dậy",
+      "example": "I wake up at 7."
+    },
+    {
+      "id": "daily_routine-002",
+      "word": "get up",
+      "ipa": "",
+      "meaning": "ra khỏi giường",
+      "example": "I get up quickly."
+    },
+    {
+      "id": "daily_routine-003",
+      "word": "brush my teeth",
+      "ipa": "",
+      "meaning": "đánh răng",
+      "example": "I brush my teeth."
+    },
+    {
+      "id": "daily_routine-004",
+      "word": "take a shower",
+      "ipa": "",
+      "meaning": "tắm",
+      "example": "I take a shower."
+    },
+    {
+      "id": "daily_routine-005",
+      "word": "eat breakfast",
+      "ipa": "",
+      "meaning": "ăn sáng",
+      "example": "I eat breakfast."
+    },
+    {
+      "id": "daily_routine-006",
+      "word": "go to work",
+      "ipa": "",
+      "meaning": "đi làm",
+      "example": "I go to work."
+    },
+    {
+      "id": "daily_routine-007",
+      "word": "go to school",
+      "ipa": "",
+      "meaning": "đi học",
+      "example": "I go to school."
+    },
+    {
+      "id": "daily_routine-008",
+      "word": "have lunch",
+      "ipa": "",
+      "meaning": "ăn trưa",
+      "example": "I have lunch."
+    },
+    {
+      "id": "daily_routine-009",
+      "word": "go home",
+      "ipa": "",
+      "meaning": "về nhà",
+      "example": "I go home."
+    },
+    {
+      "id": "daily_routine-010",
+      "word": "cook dinner",
+      "ipa": "",
+      "meaning": "nấu tối",
+      "example": "I cook dinner."
+    },
+    {
+      "id": "daily_routine-011",
+      "word": "eat dinner",
+      "ipa": "",
+      "meaning": "ăn tối",
+      "example": "We eat dinner."
+    },
+    {
+      "id": "daily_routine-012",
+      "word": "watch TV",
+      "ipa": "",
+      "meaning": "xem TV",
+      "example": "I watch TV."
+    },
+    {
+      "id": "daily_routine-013",
+      "word": "use my phone",
+      "ipa": "",
+      "meaning": "dùng điện thoại",
+      "example": "I use my phone."
+    },
+    {
+      "id": "daily_routine-014",
+      "word": "do homework",
+      "ipa": "",
+      "meaning": "làm bài",
+      "example": "I do homework."
+    },
+    {
+      "id": "daily_routine-015",
+      "word": "study",
+      "ipa": "/stʌdi/",
+      "meaning": "học",
+      "example": "I study English."
+    },
+    {
+      "id": "daily_routine-016",
+      "word": "relax",
+      "ipa": "/ɹɪlæks/",
+      "meaning": "thư giãn",
+      "example": "I relax."
+    },
+    {
+      "id": "daily_routine-017",
+      "word": "go to bed",
+      "ipa": "",
+      "meaning": "đi ngủ",
+      "example": "I go to bed at 11."
+    },
+    {
+      "id": "daily_routine-018",
+      "word": "sleep",
+      "ipa": "/slip/",
+      "meaning": "ngủ",
+      "example": "I sleep 8 hours."
+    },
+    {
+      "id": "daily_routine-019",
+      "word": "wake up late",
+      "ipa": "",
+      "meaning": "dậy trễ",
+      "example": "I woke up late."
+    },
+    {
+      "id": "daily_routine-020",
+      "word": "rush",
+      "ipa": "/ɹʌʃ/",
+      "meaning": "vội vàng",
+      "example": "I rushed to work."
+    },
+    {
+      "id": "daily_routine-021",
+      "word": "morning",
+      "ipa": "/mɔɹnɪŋ/",
+      "meaning": "buổi sáng",
+      "example": "Good morning."
+    },
+    {
+      "id": "daily_routine-022",
+      "word": "afternoon",
+      "ipa": "/æftɝnun/",
+      "meaning": "buổi chiều",
+      "example": "In the afternoon."
+    },
+    {
+      "id": "daily_routine-023",
+      "word": "evening",
+      "ipa": "/ivnɪŋ/",
+      "meaning": "buổi tối",
+      "example": "Good evening."
+    },
+    {
+      "id": "daily_routine-024",
+      "word": "night",
+      "ipa": "/naɪt/",
+      "meaning": "đêm",
+      "example": "Good night."
+    },
+    {
+      "id": "daily_routine-025",
+      "word": "breakfast",
+      "ipa": "/bɹɛkfʌst/",
+      "meaning": "bữa sáng",
+      "example": "Breakfast is ready."
+    },
+    {
+      "id": "daily_routine-026",
+      "word": "lunch",
+      "ipa": "/lʌntʃ/",
+      "meaning": "bữa trưa",
+      "example": "Lunch time."
+    },
+    {
+      "id": "daily_routine-027",
+      "word": "dinner",
+      "ipa": "/dɪnɝ/",
+      "meaning": "bữa tối",
+      "example": "Dinner is delicious."
+    },
+    {
+      "id": "daily_routine-028",
+      "word": "routine",
+      "ipa": "/ɹutin/",
+      "meaning": "thói quen",
+      "example": "This is my routine."
+    },
+    {
+      "id": "daily_routine-029",
+      "word": "daily",
+      "ipa": "/deɪli/",
+      "meaning": "hằng ngày",
+      "example": "Daily routine."
+    },
+    {
+      "id": "daily_routine-030",
+      "word": "busy",
+      "ipa": "/bɪzi/",
+      "meaning": "bận",
+      "example": "I’m busy."
+    },
+    {
+      "id": "daily_routine-031",
+      "word": "free",
+      "ipa": "/fɹi/",
+      "meaning": "rảnh",
+      "example": "I’m free."
+    },
+    {
+      "id": "daily_routine-032",
+      "word": "tired",
+      "ipa": "/taɪɝd/",
+      "meaning": "mệt",
+      "example": "I feel tired."
+    },
+    {
+      "id": "daily_routine-033",
+      "word": "on time",
+      "ipa": "",
+      "meaning": "đúng giờ",
+      "example": "I arrived on time."
+    },
+    {
+      "id": "daily_routine-034",
+      "word": "late",
+      "ipa": "/leɪt/",
+      "meaning": "trễ",
+      "example": "I’m late."
+    },
+    {
+      "id": "daily_routine-035",
+      "word": "early",
+      "ipa": "/ɝli/",
+      "meaning": "sớm",
+      "example": "I woke up early."
+    },
+    {
+      "id": "daily_routine-036",
+      "word": "rest",
+      "ipa": "/ɹɛst/",
+      "meaning": "nghỉ",
+      "example": "I need rest."
+    },
+    {
+      "id": "daily_routine-037",
+      "word": "nap",
+      "ipa": "/næp/",
+      "meaning": "ngủ trưa",
+      "example": "I take a nap."
+    },
+    {
+      "id": "daily_routine-038",
+      "word": "alarm",
+      "ipa": "/ʌlɑɹm/",
+      "meaning": "báo thức",
+      "example": "Set the alarm."
+    }
+  ]
+}

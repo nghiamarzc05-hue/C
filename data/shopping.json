@@ -1,0 +1,286 @@
+{
+  "id": "shopping",
+  "name": "Mua sắm",
+  "cards": [
+    {
+      "id": "shopping-001",
+      "word": "How much is this?",
+      "ipa": "",
+      "meaning": "Cái này bao nhiêu?",
+      "example": "How much is this?"
+    },
+    {
+      "id": "shopping-002",
+      "word": "How much are these?",
+      "ipa": "",
+      "meaning": "Những cái này bao nhiêu?",
+      "example": "How much are these?"
+    },
+    {
+      "id": "shopping-003",
+      "word": "Can I try it on?",
+      "ipa": "",
+      "meaning": "Tôi có thể thử không?",
+      "example": "Can I try it on?"
+    },
+    {
+      "id": "shopping-004",
+      "word": "Do you have a larger size?",
+      "ipa": "",
+      "meaning": "Có size lớn hơn không?",
+      "example": "Do you have a larger size?"
+    },
+    {
+      "id": "shopping-005",
+      "word": "Do you have another color?",
+      "ipa": "",
+      "meaning": "Có màu khác không?",
+      "example": "Do you have another color?"
+    },
+    {
+      "id": "shopping-006",
+      "word": "I’ll take it.",
+      "ipa": "",
+      "meaning": "Tôi lấy cái này.",
+      "example": "I’ll take it."
+    },
+    {
+      "id": "shopping-007",
+      "word": "That’s too expensive.",
+      "ipa": "",
+      "meaning": "Mắc quá.",
+      "example": "That’s too expensive."
+    },
+    {
+      "id": "shopping-008",
+      "word": "Can you give me a discount?",
+      "ipa": "",
+      "meaning": "Giảm giá được không?",
+      "example": "Can you give me a discount?"
+    },
+    {
+      "id": "shopping-009",
+      "word": "Where is the fitting room?",
+      "ipa": "",
+      "meaning": "Phòng thử đồ ở đâu?",
+      "example": "Where is the fitting room?"
+    },
+    {
+      "id": "shopping-010",
+      "word": "Where is the cashier?",
+      "ipa": "",
+      "meaning": "Quầy thanh toán ở đâu?",
+      "example": "Where is the cashier?"
+    },
+    {
+      "id": "shopping-011",
+      "word": "price",
+      "ipa": "/praɪs/",
+      "meaning": "giá",
+      "example": "What’s the price?"
+    },
+    {
+      "id": "shopping-012",
+      "word": "discount",
+      "ipa": "/ˈdɪs.kaʊnt/",
+      "meaning": "giảm giá",
+      "example": "Is there a discount?"
+    },
+    {
+      "id": "shopping-013",
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "meaning": "khuyến mãi",
+      "example": "This item is on sale."
+    },
+    {
+      "id": "shopping-014",
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "hóa đơn",
+      "example": "Can I get a receipt?"
+    },
+    {
+      "id": "shopping-015",
+      "word": "cash",
+      "ipa": "/kæʃ/",
+      "meaning": "tiền mặt",
+      "example": "Do you accept cash?"
+    },
+    {
+      "id": "shopping-016",
+      "word": "credit card",
+      "ipa": "",
+      "meaning": "thẻ tín dụng",
+      "example": "I’ll pay by credit card."
+    },
+    {
+      "id": "shopping-017",
+      "word": "shopping mall",
+      "ipa": "",
+      "meaning": "trung tâm mua sắm",
+      "example": "Let’s go to the shopping mall."
+    },
+    {
+      "id": "shopping-018",
+      "word": "store",
+      "ipa": "/stɔːr/",
+      "meaning": "cửa hàng",
+      "example": "This store is big."
+    },
+    {
+      "id": "shopping-019",
+      "word": "supermarket",
+      "ipa": "",
+      "meaning": "siêu thị",
+      "example": "I buy food at the supermarket."
+    },
+    {
+      "id": "shopping-020",
+      "word": "boutique",
+      "ipa": "",
+      "meaning": "cửa hàng thời trang",
+      "example": "She shops at a boutique."
+    },
+    {
+      "id": "shopping-021",
+      "word": "market",
+      "ipa": "/ˈmɑːr.kɪt/",
+      "meaning": "chợ",
+      "example": "We went to the market."
+    },
+    {
+      "id": "shopping-022",
+      "word": "try on",
+      "ipa": "",
+      "meaning": "thử đồ",
+      "example": "I want to try on this shirt."
+    },
+    {
+      "id": "shopping-023",
+      "word": "buy",
+      "ipa": "",
+      "meaning": "mua",
+      "example": "I want to buy this."
+    },
+    {
+      "id": "shopping-024",
+      "word": "pay",
+      "ipa": "",
+      "meaning": "trả tiền",
+      "example": "I’ll pay at the counter."
+    },
+    {
+      "id": "shopping-025",
+      "word": "change",
+      "ipa": "",
+      "meaning": "đổi",
+      "example": "Can I change this item?"
+    },
+    {
+      "id": "shopping-026",
+      "word": "refund",
+      "ipa": "",
+      "meaning": "hoàn tiền",
+      "example": "I want a refund."
+    },
+    {
+      "id": "shopping-027",
+      "word": "size",
+      "ipa": "",
+      "meaning": "kích cỡ",
+      "example": "What size do you need?"
+    },
+    {
+      "id": "shopping-028",
+      "word": "small",
+      "ipa": "",
+      "meaning": "size nhỏ",
+      "example": "I need a small."
+    },
+    {
+      "id": "shopping-029",
+      "word": "medium",
+      "ipa": "",
+      "meaning": "size vừa",
+      "example": "Medium is fine."
+    },
+    {
+      "id": "shopping-030",
+      "word": "large",
+      "ipa": "",
+      "meaning": "size lớn",
+      "example": "I need a large."
+    },
+    {
+      "id": "shopping-031",
+      "word": "cheap",
+      "ipa": "/tʃiːp/",
+      "meaning": "rẻ",
+      "example": "This is cheap."
+    },
+    {
+      "id": "shopping-032",
+      "word": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "meaning": "đắt",
+      "example": "That watch is expensive."
+    },
+    {
+      "id": "shopping-033",
+      "word": "open",
+      "ipa": "",
+      "meaning": "mở cửa",
+      "example": "The shop is open."
+    },
+    {
+      "id": "shopping-034",
+      "word": "closed",
+      "ipa": "",
+      "meaning": "đóng cửa",
+      "example": "The shop is closed."
+    },
+    {
+      "id": "shopping-035",
+      "word": "bag",
+      "ipa": "/bæɡ/",
+      "meaning": "túi",
+      "example": "Can I get a bag?"
+    },
+    {
+      "id": "shopping-036",
+      "word": "basket",
+      "ipa": "",
+      "meaning": "giỏ hàng",
+      "example": "Put it in the basket."
+    },
+    {
+      "id": "shopping-037",
+      "word": "checkout",
+      "ipa": "",
+      "meaning": "thanh toán",
+      "example": "Proceed to checkout."
+    },
+    {
+      "id": "shopping-038",
+      "word": "barcode",
+      "ipa": "",
+      "meaning": "mã vạch",
+      "example": "Scan the barcode."
+    },
+    {
+      "id": "shopping-039",
+      "word": "customer",
+      "ipa": "/ˈkʌs.tə.mɚ/",
+      "meaning": "khách hàng",
+      "example": "The customer is always right."
+    },
+    {
+      "id": "shopping-040",
+      "word": "shop assistant",
+      "ipa": "",
+      "meaning": "nhân viên bán hàng",
+      "example": "Ask the shop assistant."
+    }
+  ]
+}

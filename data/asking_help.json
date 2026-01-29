@@ -1,0 +1,272 @@
+{
+  "id": "asking_help",
+  "name": "Nhờ giúp đỡ",
+  "cards": [
+    {
+      "id": "asking_help-001",
+      "word": "Can you help me?",
+      "ipa": "",
+      "meaning": "Bạn giúp tôi được không?",
+      "example": "Can you help me?"
+    },
+    {
+      "id": "asking_help-002",
+      "word": "I need your help",
+      "ipa": "",
+      "meaning": "Tôi cần giúp",
+      "example": "I need your help."
+    },
+    {
+      "id": "asking_help-003",
+      "word": "Could you explain?",
+      "ipa": "",
+      "meaning": "Bạn giải thích được không?",
+      "example": "Could you explain?"
+    },
+    {
+      "id": "asking_help-004",
+      "word": "Can you show me?",
+      "ipa": "",
+      "meaning": "Bạn chỉ tôi được không?",
+      "example": "Can you show me?"
+    },
+    {
+      "id": "asking_help-005",
+      "word": "I don’t know how",
+      "ipa": "",
+      "meaning": "Tôi không biết làm sao",
+      "example": "I don’t know how."
+    },
+    {
+      "id": "asking_help-006",
+      "word": "Please help",
+      "ipa": "",
+      "meaning": "Làm ơn giúp",
+      "example": "Please help."
+    },
+    {
+      "id": "asking_help-007",
+      "word": "Thank you for your help",
+      "ipa": "",
+      "meaning": "Cảm ơn vì giúp đỡ",
+      "example": "Thank you for your help."
+    },
+    {
+      "id": "asking_help-008",
+      "word": "No problem",
+      "ipa": "",
+      "meaning": "Không sao",
+      "example": "No problem."
+    },
+    {
+      "id": "asking_help-009",
+      "word": "I got it",
+      "ipa": "",
+      "meaning": "Tôi hiểu rồi",
+      "example": "I got it."
+    },
+    {
+      "id": "asking_help-010",
+      "word": "I need support",
+      "ipa": "",
+      "meaning": "Tôi cần hỗ trợ",
+      "example": "I need support."
+    },
+    {
+      "id": "asking_help-011",
+      "word": "help",
+      "ipa": "/hɛlp/",
+      "meaning": "giúp đỡ",
+      "example": "Help me."
+    },
+    {
+      "id": "asking_help-012",
+      "word": "support",
+      "ipa": "/sʌpɔɹt/",
+      "meaning": "hỗ trợ",
+      "example": "I need support."
+    },
+    {
+      "id": "asking_help-013",
+      "word": "assistance",
+      "ipa": "/ʌsɪstʌns/",
+      "meaning": "trợ giúp",
+      "example": "Need assistance."
+    },
+    {
+      "id": "asking_help-014",
+      "word": "guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "hướng dẫn",
+      "example": "A helpful guide."
+    },
+    {
+      "id": "asking_help-015",
+      "word": "instruction",
+      "ipa": "/ɪnstɹʌkʃʌn/",
+      "meaning": "hướng dẫn",
+      "example": "Follow instructions."
+    },
+    {
+      "id": "asking_help-016",
+      "word": "advice",
+      "ipa": "/ædvaɪs/",
+      "meaning": "lời khuyên",
+      "example": "Give me advice."
+    },
+    {
+      "id": "asking_help-017",
+      "word": "favor",
+      "ipa": "/feɪvɝ/",
+      "meaning": "ân huệ",
+      "example": "Can you do me a favor?"
+    },
+    {
+      "id": "asking_help-018",
+      "word": "aid",
+      "ipa": "/eɪd/",
+      "meaning": "viện trợ",
+      "example": "First aid."
+    },
+    {
+      "id": "asking_help-019",
+      "word": "helpful",
+      "ipa": "/hɛlpfʌl/",
+      "meaning": "hữu ích",
+      "example": "That’s helpful."
+    },
+    {
+      "id": "asking_help-020",
+      "word": "kind",
+      "ipa": "/kaɪnd/",
+      "meaning": "tốt bụng",
+      "example": "You’re kind."
+    },
+    {
+      "id": "asking_help-021",
+      "word": "explain",
+      "ipa": "/ɪkspleɪn/",
+      "meaning": "giải thích",
+      "example": "Explain again."
+    },
+    {
+      "id": "asking_help-022",
+      "word": "show",
+      "ipa": "/ʃoʊ/",
+      "meaning": "chỉ",
+      "example": "Show me."
+    },
+    {
+      "id": "asking_help-023",
+      "word": "teach",
+      "ipa": "/titʃ/",
+      "meaning": "dạy",
+      "example": "Teach me."
+    },
+    {
+      "id": "asking_help-024",
+      "word": "guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "dẫn",
+      "example": "Guide me."
+    },
+    {
+      "id": "asking_help-025",
+      "word": "assist",
+      "ipa": "/ʌsɪst/",
+      "meaning": "hỗ trợ",
+      "example": "Assist me."
+    },
+    {
+      "id": "asking_help-026",
+      "word": "answer",
+      "ipa": "/ænsɝ/",
+      "meaning": "trả lời",
+      "example": "Answer my question."
+    },
+    {
+      "id": "asking_help-027",
+      "word": "question",
+      "ipa": "/kwɛstʃʌn/",
+      "meaning": "câu hỏi",
+      "example": "I have a question."
+    },
+    {
+      "id": "asking_help-028",
+      "word": "problem",
+      "ipa": "/pɹɑblʌm/",
+      "meaning": "vấn đề",
+      "example": "I have a problem."
+    },
+    {
+      "id": "asking_help-029",
+      "word": "solution",
+      "ipa": "/sʌluʃʌn/",
+      "meaning": "giải pháp",
+      "example": "Find a solution."
+    },
+    {
+      "id": "asking_help-030",
+      "word": "fix",
+      "ipa": "/fɪks/",
+      "meaning": "sửa",
+      "example": "Fix this."
+    },
+    {
+      "id": "asking_help-031",
+      "word": "understand",
+      "ipa": "/ʌndɝstænd/",
+      "meaning": "hiểu",
+      "example": "I understand now."
+    },
+    {
+      "id": "asking_help-032",
+      "word": "clarify",
+      "ipa": "/klɛɹʌfaɪ/",
+      "meaning": "làm rõ",
+      "example": "Clarify this."
+    },
+    {
+      "id": "asking_help-033",
+      "word": "thanks",
+      "ipa": "/θæŋks/",
+      "meaning": "cảm ơn",
+      "example": "Thanks a lot."
+    },
+    {
+      "id": "asking_help-034",
+      "word": "appreciate",
+      "ipa": "/ʌpɹiʃieɪt/",
+      "meaning": "đánh giá cao",
+      "example": "I appreciate it."
+    },
+    {
+      "id": "asking_help-035",
+      "word": "please",
+      "ipa": "/pliz/",
+      "meaning": "làm ơn",
+      "example": "Please help."
+    },
+    {
+      "id": "asking_help-036",
+      "word": "need",
+      "ipa": "/nid/",
+      "meaning": "cần",
+      "example": "I need help."
+    },
+    {
+      "id": "asking_help-037",
+      "word": "help me out",
+      "ipa": "",
+      "meaning": "giúp tôi",
+      "example": "Help me out."
+    },
+    {
+      "id": "asking_help-038",
+      "word": "lend a hand",
+      "ipa": "",
+      "meaning": "giúp một tay",
+      "example": "Lend a hand."
+    }
+  ]
+}

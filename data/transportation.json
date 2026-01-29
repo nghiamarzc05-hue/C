@@ -1,0 +1,286 @@
+{
+  "id": "transportation",
+  "name": "Phương tiện giao thông",
+  "cards": [
+    {
+      "id": "transportation-001",
+      "word": "car",
+      "ipa": "/kɑɹ/",
+      "meaning": "ô tô",
+      "example": "I drive my car to work."
+    },
+    {
+      "id": "transportation-002",
+      "word": "bus",
+      "ipa": "/bʌs/",
+      "meaning": "xe buýt",
+      "example": "She takes the bus every day."
+    },
+    {
+      "id": "transportation-003",
+      "word": "train",
+      "ipa": "/tɹeɪn/",
+      "meaning": "tàu hỏa",
+      "example": "We traveled by train."
+    },
+    {
+      "id": "transportation-004",
+      "word": "subway",
+      "ipa": "/sʌbweɪ/",
+      "meaning": "tàu điện ngầm",
+      "example": "The subway is very fast."
+    },
+    {
+      "id": "transportation-005",
+      "word": "tram",
+      "ipa": "/tɹæm/",
+      "meaning": "xe điện",
+      "example": "Take the tram downtown."
+    },
+    {
+      "id": "transportation-006",
+      "word": "bike",
+      "ipa": "/baɪk/",
+      "meaning": "xe đạp",
+      "example": "I ride my bike to school."
+    },
+    {
+      "id": "transportation-007",
+      "word": "bicycle",
+      "ipa": "/baɪsɪkʌl/",
+      "meaning": "xe đạp",
+      "example": "He bought a bicycle."
+    },
+    {
+      "id": "transportation-008",
+      "word": "motorcycle",
+      "ipa": "/moʊtɝsaɪkʌl/",
+      "meaning": "xe máy",
+      "example": "He rides a motorcycle."
+    },
+    {
+      "id": "transportation-009",
+      "word": "scooter",
+      "ipa": "/skutɝ/",
+      "meaning": "xe tay ga",
+      "example": "She has a scooter."
+    },
+    {
+      "id": "transportation-010",
+      "word": "taxi",
+      "ipa": "/tæksi/",
+      "meaning": "taxi",
+      "example": "Call a taxi."
+    },
+    {
+      "id": "transportation-011",
+      "word": "ride-share",
+      "ipa": "",
+      "meaning": "xe công nghệ",
+      "example": "I used a ride-share app."
+    },
+    {
+      "id": "transportation-012",
+      "word": "truck",
+      "ipa": "/tɹʌk/",
+      "meaning": "xe tải",
+      "example": "A truck blocked the road."
+    },
+    {
+      "id": "transportation-013",
+      "word": "van",
+      "ipa": "/væn/",
+      "meaning": "xe van",
+      "example": "They rented a van."
+    },
+    {
+      "id": "transportation-014",
+      "word": "pickup truck",
+      "ipa": "",
+      "meaning": "xe bán tải",
+      "example": "He drives a pickup truck."
+    },
+    {
+      "id": "transportation-015",
+      "word": "airplane",
+      "ipa": "/ɛɹpleɪn/",
+      "meaning": "máy bay",
+      "example": "My airplane leaves at noon."
+    },
+    {
+      "id": "transportation-016",
+      "word": "flight",
+      "ipa": "/flaɪt/",
+      "meaning": "chuyến bay",
+      "example": "The flight is delayed."
+    },
+    {
+      "id": "transportation-017",
+      "word": "airport",
+      "ipa": "/ɛɹpɔɹt/",
+      "meaning": "sân bay",
+      "example": "We arrived at the airport early."
+    },
+    {
+      "id": "transportation-018",
+      "word": "helicopter",
+      "ipa": "/hɛlɪkɑptɝ/",
+      "meaning": "trực thăng",
+      "example": "A helicopter flew overhead."
+    },
+    {
+      "id": "transportation-019",
+      "word": "boat",
+      "ipa": "/boʊt/",
+      "meaning": "thuyền",
+      "example": "We took a boat tour."
+    },
+    {
+      "id": "transportation-020",
+      "word": "ship",
+      "ipa": "/ʃɪp/",
+      "meaning": "tàu biển",
+      "example": "The ship left the port."
+    },
+    {
+      "id": "transportation-021",
+      "word": "ferry",
+      "ipa": "/fɛɹi/",
+      "meaning": "phà",
+      "example": "We took the ferry."
+    },
+    {
+      "id": "transportation-022",
+      "word": "station",
+      "ipa": "/steɪʃʌn/",
+      "meaning": "nhà ga",
+      "example": "Meet me at the station."
+    },
+    {
+      "id": "transportation-023",
+      "word": "platform",
+      "ipa": "/plætfɔɹm/",
+      "meaning": "sân ga",
+      "example": "The train is on platform 3."
+    },
+    {
+      "id": "transportation-024",
+      "word": "ticket",
+      "ipa": "/tɪkʌt/",
+      "meaning": "vé",
+      "example": "Keep your ticket."
+    },
+    {
+      "id": "transportation-025",
+      "word": "pass",
+      "ipa": "/pæs/",
+      "meaning": "vé tháng/thẻ",
+      "example": "I bought a monthly pass."
+    },
+    {
+      "id": "transportation-026",
+      "word": "traffic",
+      "ipa": "/tɹæfɪk/",
+      "meaning": "giao thông",
+      "example": "Traffic is heavy today."
+    },
+    {
+      "id": "transportation-027",
+      "word": "traffic jam",
+      "ipa": "",
+      "meaning": "kẹt xe",
+      "example": "We’re stuck in a traffic jam."
+    },
+    {
+      "id": "transportation-028",
+      "word": "road",
+      "ipa": "/ɹoʊd/",
+      "meaning": "đường",
+      "example": "This road is closed."
+    },
+    {
+      "id": "transportation-029",
+      "word": "highway",
+      "ipa": "/haɪweɪ/",
+      "meaning": "xa lộ",
+      "example": "Take the highway."
+    },
+    {
+      "id": "transportation-030",
+      "word": "intersection",
+      "ipa": "/ɪntɝsɛkʃʌn/",
+      "meaning": "ngã tư",
+      "example": "Turn at the intersection."
+    },
+    {
+      "id": "transportation-031",
+      "word": "crosswalk",
+      "ipa": "/kɹɑswɑk/",
+      "meaning": "vạch qua đường",
+      "example": "Use the crosswalk."
+    },
+    {
+      "id": "transportation-032",
+      "word": "parking lot",
+      "ipa": "",
+      "meaning": "bãi đỗ xe",
+      "example": "The parking lot is full."
+    },
+    {
+      "id": "transportation-033",
+      "word": "gas station",
+      "ipa": "",
+      "meaning": "trạm xăng",
+      "example": "Stop at the gas station."
+    },
+    {
+      "id": "transportation-034",
+      "word": "speed limit",
+      "ipa": "",
+      "meaning": "giới hạn tốc độ",
+      "example": "Watch the speed limit."
+    },
+    {
+      "id": "transportation-035",
+      "word": "seat belt",
+      "ipa": "",
+      "meaning": "dây an toàn",
+      "example": "Wear your seat belt."
+    },
+    {
+      "id": "transportation-036",
+      "word": "driver’s license",
+      "ipa": "",
+      "meaning": "bằng lái",
+      "example": "Do you have a driver’s license?"
+    },
+    {
+      "id": "transportation-037",
+      "word": "commute",
+      "ipa": "/kʌmjut/",
+      "meaning": "đi làm hằng ngày",
+      "example": "My commute is long."
+    },
+    {
+      "id": "transportation-038",
+      "word": "delay",
+      "ipa": "/dɪleɪ/",
+      "meaning": "trễ",
+      "example": "There’s a delay."
+    },
+    {
+      "id": "transportation-039",
+      "word": "route",
+      "ipa": "/ɹut/",
+      "meaning": "tuyến đường",
+      "example": "What route should we take?"
+    },
+    {
+      "id": "transportation-040",
+      "word": "map",
+      "ipa": "/mæp/",
+      "meaning": "bản đồ",
+      "example": "Open the map app."
+    }
+  ]
+}

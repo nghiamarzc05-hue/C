@@ -1,0 +1,286 @@
+{
+  "id": "personality",
+  "name": "Tính cách con người",
+  "cards": [
+    {
+      "id": "personality-001",
+      "word": "kind",
+      "ipa": "/kaɪnd/",
+      "meaning": "tốt bụng",
+      "example": "She is very kind to everyone."
+    },
+    {
+      "id": "personality-002",
+      "word": "nice",
+      "ipa": "/naɪs/",
+      "meaning": "dễ thương",
+      "example": "He’s a nice guy."
+    },
+    {
+      "id": "personality-003",
+      "word": "friendly",
+      "ipa": "/fɹɛndli/",
+      "meaning": "thân thiện",
+      "example": "The staff were very friendly."
+    },
+    {
+      "id": "personality-004",
+      "word": "funny",
+      "ipa": "/fʌni/",
+      "meaning": "hài hước",
+      "example": "She’s really funny."
+    },
+    {
+      "id": "personality-005",
+      "word": "serious",
+      "ipa": "/sɪɹiʌs/",
+      "meaning": "nghiêm túc",
+      "example": "He’s serious about his work."
+    },
+    {
+      "id": "personality-006",
+      "word": "honest",
+      "ipa": "/ɑnʌst/",
+      "meaning": "trung thực",
+      "example": "He is always honest with me."
+    },
+    {
+      "id": "personality-007",
+      "word": "polite",
+      "ipa": "/pʌlaɪt/",
+      "meaning": "lịch sự",
+      "example": "He’s polite to everyone."
+    },
+    {
+      "id": "personality-008",
+      "word": "rude",
+      "ipa": "/ɹud/",
+      "meaning": "thô lỗ",
+      "example": "That was rude."
+    },
+    {
+      "id": "personality-009",
+      "word": "lazy",
+      "ipa": "/leɪzi/",
+      "meaning": "lười",
+      "example": "He’s lazy on weekends."
+    },
+    {
+      "id": "personality-010",
+      "word": "hardworking",
+      "ipa": "/hɑɹdwɝkɪŋ/",
+      "meaning": "chăm chỉ",
+      "example": "She’s hardworking."
+    },
+    {
+      "id": "personality-011",
+      "word": "smart",
+      "ipa": "/smɑɹt/",
+      "meaning": "thông minh",
+      "example": "He’s really smart."
+    },
+    {
+      "id": "personality-012",
+      "word": "wise",
+      "ipa": "/waɪz/",
+      "meaning": "khôn ngoan",
+      "example": "That’s a wise choice."
+    },
+    {
+      "id": "personality-013",
+      "word": "creative",
+      "ipa": "/kɹieɪtɪv/",
+      "meaning": "sáng tạo",
+      "example": "She’s very creative."
+    },
+    {
+      "id": "personality-014",
+      "word": "shy",
+      "ipa": "/ʃaɪ/",
+      "meaning": "nhút nhát",
+      "example": "He’s shy around strangers."
+    },
+    {
+      "id": "personality-015",
+      "word": "confident",
+      "ipa": "/kɑnfʌdʌnt/",
+      "meaning": "tự tin",
+      "example": "She feels confident."
+    },
+    {
+      "id": "personality-016",
+      "word": "brave",
+      "ipa": "/bɹeɪv/",
+      "meaning": "dũng cảm",
+      "example": "You were brave."
+    },
+    {
+      "id": "personality-017",
+      "word": "patient",
+      "ipa": "/peɪʃʌnt/",
+      "meaning": "kiên nhẫn",
+      "example": "Be patient."
+    },
+    {
+      "id": "personality-018",
+      "word": "impatient",
+      "ipa": "/ɪmpeɪʃʌnt/",
+      "meaning": "thiếu kiên nhẫn",
+      "example": "He gets impatient easily."
+    },
+    {
+      "id": "personality-019",
+      "word": "optimistic",
+      "ipa": "/ɑptʌmɪstɪk/",
+      "meaning": "lạc quan",
+      "example": "I’m optimistic about it."
+    },
+    {
+      "id": "personality-020",
+      "word": "pessimistic",
+      "ipa": "/pɛsʌmɪstɪk/",
+      "meaning": "bi quan",
+      "example": "Don’t be pessimistic."
+    },
+    {
+      "id": "personality-021",
+      "word": "generous",
+      "ipa": "/dʒɛnɝʌs/",
+      "meaning": "hào phóng",
+      "example": "He’s generous with his time."
+    },
+    {
+      "id": "personality-022",
+      "word": "selfish",
+      "ipa": "/sɛlfɪʃ/",
+      "meaning": "ích kỷ",
+      "example": "That’s selfish."
+    },
+    {
+      "id": "personality-023",
+      "word": "talkative",
+      "ipa": "/tɔkʌtɪv/",
+      "meaning": "hay nói",
+      "example": "She’s talkative."
+    },
+    {
+      "id": "personality-024",
+      "word": "quiet",
+      "ipa": "/kwaɪʌt/",
+      "meaning": "ít nói",
+      "example": "He’s quiet in class."
+    },
+    {
+      "id": "personality-025",
+      "word": "curious",
+      "ipa": "/kjʊɹiʌs/",
+      "meaning": "tò mò",
+      "example": "She’s curious about everything."
+    },
+    {
+      "id": "personality-026",
+      "word": "careful",
+      "ipa": "/kɛɹfʌl/",
+      "meaning": "cẩn thận",
+      "example": "Be careful."
+    },
+    {
+      "id": "personality-027",
+      "word": "careless",
+      "ipa": "/kɛɹlʌs/",
+      "meaning": "bất cẩn",
+      "example": "That was careless."
+    },
+    {
+      "id": "personality-028",
+      "word": "loyal",
+      "ipa": "/lɔɪʌl/",
+      "meaning": "trung thành",
+      "example": "He’s loyal to his friends."
+    },
+    {
+      "id": "personality-029",
+      "word": "trustworthy",
+      "ipa": "/tɹʌstwɝði/",
+      "meaning": "đáng tin",
+      "example": "She’s trustworthy."
+    },
+    {
+      "id": "personality-030",
+      "word": "ambitious",
+      "ipa": "/æmbɪʃʌs/",
+      "meaning": "tham vọng",
+      "example": "He’s ambitious."
+    },
+    {
+      "id": "personality-031",
+      "word": "stubborn",
+      "ipa": "/stʌbɝn/",
+      "meaning": "cứng đầu",
+      "example": "He’s stubborn."
+    },
+    {
+      "id": "personality-032",
+      "word": "easygoing",
+      "ipa": "/iziɡoʊɪŋ/",
+      "meaning": "dễ tính",
+      "example": "She’s easygoing."
+    },
+    {
+      "id": "personality-033",
+      "word": "moody",
+      "ipa": "/mudi/",
+      "meaning": "thất thường",
+      "example": "He’s moody."
+    },
+    {
+      "id": "personality-034",
+      "word": "strict",
+      "ipa": "/stɹɪkt/",
+      "meaning": "nghiêm khắc",
+      "example": "My dad is strict."
+    },
+    {
+      "id": "personality-035",
+      "word": "supportive",
+      "ipa": "/sʌpɔɹtɪv/",
+      "meaning": "biết hỗ trợ",
+      "example": "She’s supportive."
+    },
+    {
+      "id": "personality-036",
+      "word": "sensitive",
+      "ipa": "/sɛnsʌtɪv/",
+      "meaning": "nhạy cảm",
+      "example": "He’s sensitive."
+    },
+    {
+      "id": "personality-037",
+      "word": "independent",
+      "ipa": "/ɪndɪpɛndʌnt/",
+      "meaning": "độc lập",
+      "example": "She’s independent."
+    },
+    {
+      "id": "personality-038",
+      "word": "responsible",
+      "ipa": "/ɹispɑnsʌbʌl/",
+      "meaning": "có trách nhiệm",
+      "example": "He’s responsible."
+    },
+    {
+      "id": "personality-039",
+      "word": "humble",
+      "ipa": "/hʌmbʌl/",
+      "meaning": "khiêm tốn",
+      "example": "He’s humble."
+    },
+    {
+      "id": "personality-040",
+      "word": "open-minded",
+      "ipa": "",
+      "meaning": "cởi mở",
+      "example": "She’s open-minded."
+    }
+  ]
+}

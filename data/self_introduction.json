@@ -1,0 +1,279 @@
+{
+  "id": "self_introduction",
+  "name": "Giới thiệu bản thân",
+  "cards": [
+    {
+      "id": "self_introduction-001",
+      "word": "My name is...",
+      "ipa": "",
+      "meaning": "Tên tôi là...",
+      "example": "My name is Alex."
+    },
+    {
+      "id": "self_introduction-002",
+      "word": "I am from...",
+      "ipa": "",
+      "meaning": "Tôi đến từ...",
+      "example": "I am from Vietnam."
+    },
+    {
+      "id": "self_introduction-003",
+      "word": "I live in...",
+      "ipa": "",
+      "meaning": "Tôi sống ở...",
+      "example": "I live in Tokyo."
+    },
+    {
+      "id": "self_introduction-004",
+      "word": "I am ... years old",
+      "ipa": "",
+      "meaning": "Tôi ... tuổi",
+      "example": "I am 20 years old."
+    },
+    {
+      "id": "self_introduction-005",
+      "word": "Nice to meet you",
+      "ipa": "",
+      "meaning": "Rất vui được gặp bạn",
+      "example": "Nice to meet you."
+    },
+    {
+      "id": "self_introduction-006",
+      "word": "I study at...",
+      "ipa": "",
+      "meaning": "Tôi học tại...",
+      "example": "I study at a university."
+    },
+    {
+      "id": "self_introduction-007",
+      "word": "I work as...",
+      "ipa": "",
+      "meaning": "Tôi làm nghề...",
+      "example": "I work as a software developer."
+    },
+    {
+      "id": "self_introduction-008",
+      "word": "My hobby is...",
+      "ipa": "",
+      "meaning": "Sở thích của tôi là...",
+      "example": "My hobby is football."
+    },
+    {
+      "id": "self_introduction-009",
+      "word": "I like...",
+      "ipa": "",
+      "meaning": "Tôi thích...",
+      "example": "I like music."
+    },
+    {
+      "id": "self_introduction-010",
+      "word": "I love...",
+      "ipa": "",
+      "meaning": "Tôi yêu thích...",
+      "example": "I love traveling."
+    },
+    {
+      "id": "self_introduction-011",
+      "word": "I can speak...",
+      "ipa": "",
+      "meaning": "Tôi có thể nói...",
+      "example": "I can speak English."
+    },
+    {
+      "id": "self_introduction-012",
+      "word": "I am learning...",
+      "ipa": "",
+      "meaning": "Tôi đang học...",
+      "example": "I am learning Japanese."
+    },
+    {
+      "id": "self_introduction-013",
+      "word": "I have...",
+      "ipa": "",
+      "meaning": "Tôi có...",
+      "example": "I have two brothers."
+    },
+    {
+      "id": "self_introduction-014",
+      "word": "I am single",
+      "ipa": "",
+      "meaning": "Tôi độc thân",
+      "example": "I am single."
+    },
+    {
+      "id": "self_introduction-015",
+      "word": "I am married",
+      "ipa": "",
+      "meaning": "Tôi đã kết hôn",
+      "example": "I am married."
+    },
+    {
+      "id": "self_introduction-016",
+      "word": "I come from a big family",
+      "ipa": "",
+      "meaning": "Tôi đến từ gia đình đông người",
+      "example": "I come from a big family."
+    },
+    {
+      "id": "self_introduction-017",
+      "word": "I’m friendly",
+      "ipa": "",
+      "meaning": "Tôi thân thiện",
+      "example": "I’m friendly."
+    },
+    {
+      "id": "self_introduction-018",
+      "word": "I’m shy",
+      "ipa": "",
+      "meaning": "Tôi nhút nhát",
+      "example": "I’m shy."
+    },
+    {
+      "id": "self_introduction-019",
+      "word": "I’m hardworking",
+      "ipa": "",
+      "meaning": "Tôi chăm chỉ",
+      "example": "I’m hardworking."
+    },
+    {
+      "id": "self_introduction-020",
+      "word": "That’s a little about me",
+      "ipa": "",
+      "meaning": "Đó là đôi chút về tôi",
+      "example": "That’s a little about me."
+    },
+    {
+      "id": "self_introduction-021",
+      "word": "Let me introduce myself",
+      "ipa": "",
+      "meaning": "Để tôi giới thiệu bản thân",
+      "example": "Let me introduce myself."
+    },
+    {
+      "id": "self_introduction-022",
+      "word": "I was born in...",
+      "ipa": "",
+      "meaning": "Tôi sinh ra ở...",
+      "example": "I was born in Hanoi."
+    },
+    {
+      "id": "self_introduction-023",
+      "word": "I grew up in...",
+      "ipa": "",
+      "meaning": "Tôi lớn lên ở...",
+      "example": "I grew up in Da Nang."
+    },
+    {
+      "id": "self_introduction-024",
+      "word": "I’m interested in...",
+      "ipa": "",
+      "meaning": "Tôi quan tâm đến...",
+      "example": "I’m interested in technology."
+    },
+    {
+      "id": "self_introduction-025",
+      "word": "I enjoy...",
+      "ipa": "",
+      "meaning": "Tôi thích...",
+      "example": "I enjoy reading."
+    },
+    {
+      "id": "self_introduction-026",
+      "word": "In my free time...",
+      "ipa": "",
+      "meaning": "Trong thời gian rảnh...",
+      "example": "In my free time, I play games."
+    },
+    {
+      "id": "self_introduction-027",
+      "word": "My favorite food is...",
+      "ipa": "",
+      "meaning": "Món ăn yêu thích của tôi",
+      "example": "My favorite food is pizza."
+    },
+    {
+      "id": "self_introduction-028",
+      "word": "My favorite color is...",
+      "ipa": "",
+      "meaning": "Màu yêu thích của tôi",
+      "example": "My favorite color is blue."
+    },
+    {
+      "id": "self_introduction-029",
+      "word": "I want to be...",
+      "ipa": "",
+      "meaning": "Tôi muốn trở thành...",
+      "example": "I want to be an engineer."
+    },
+    {
+      "id": "self_introduction-030",
+      "word": "I have a dream",
+      "ipa": "",
+      "meaning": "Tôi có một ước mơ",
+      "example": "I have a dream."
+    },
+    {
+      "id": "self_introduction-031",
+      "word": "Thank you for listening",
+      "ipa": "",
+      "meaning": "Cảm ơn vì đã lắng nghe",
+      "example": "Thank you for listening."
+    },
+    {
+      "id": "self_introduction-032",
+      "word": "I’m glad to meet you",
+      "ipa": "",
+      "meaning": "Rất vui được gặp bạn",
+      "example": "I’m glad to meet you."
+    },
+    {
+      "id": "self_introduction-033",
+      "word": "Please call me...",
+      "ipa": "",
+      "meaning": "Hãy gọi tôi là...",
+      "example": "Please call me Tom."
+    },
+    {
+      "id": "self_introduction-034",
+      "word": "I am an IT student",
+      "ipa": "",
+      "meaning": "Tôi là sinh viên IT",
+      "example": "I am an IT student."
+    },
+    {
+      "id": "self_introduction-035",
+      "word": "I’m new here",
+      "ipa": "",
+      "meaning": "Tôi mới đến đây",
+      "example": "I’m new here."
+    },
+    {
+      "id": "self_introduction-036",
+      "word": "I’m happy to join",
+      "ipa": "",
+      "meaning": "Tôi rất vui khi tham gia",
+      "example": "I’m happy to join."
+    },
+    {
+      "id": "self_introduction-037",
+      "word": "I want to make new friends",
+      "ipa": "",
+      "meaning": "Tôi muốn kết bạn mới",
+      "example": "I want to make new friends."
+    },
+    {
+      "id": "self_introduction-038",
+      "word": "Let’s keep in touch",
+      "ipa": "",
+      "meaning": "Chúng ta giữ liên lạc",
+      "example": "Let’s keep in touch."
+    },
+    {
+      "id": "self_introduction-039",
+      "word": "It’s nice talking to you",
+      "ipa": "",
+      "meaning": "Rất vui được nói chuyện",
+      "example": "It’s nice talking to you."
+    }
+  ]
+}

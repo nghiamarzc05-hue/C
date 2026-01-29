@@ -1,0 +1,293 @@
+{
+  "id": "phone_chat",
+  "name": "Điện thoại & Chat online",
+  "cards": [
+    {
+      "id": "phone_chat-001",
+      "word": "Can you hear me?",
+      "ipa": "",
+      "meaning": "Bạn nghe rõ không?",
+      "example": "Can you hear me?"
+    },
+    {
+      "id": "phone_chat-002",
+      "word": "I’ll call you back.",
+      "ipa": "",
+      "meaning": "Tôi sẽ gọi lại.",
+      "example": "I’ll call you back."
+    },
+    {
+      "id": "phone_chat-003",
+      "word": "Can I call you later?",
+      "ipa": "",
+      "meaning": "Tôi gọi bạn sau được không?",
+      "example": "Can I call you later?"
+    },
+    {
+      "id": "phone_chat-004",
+      "word": "Please leave a message.",
+      "ipa": "",
+      "meaning": "Vui lòng để lại tin nhắn.",
+      "example": "Please leave a message."
+    },
+    {
+      "id": "phone_chat-005",
+      "word": "The line is busy.",
+      "ipa": "",
+      "meaning": "Máy đang bận.",
+      "example": "The line is busy."
+    },
+    {
+      "id": "phone_chat-006",
+      "word": "I sent you a message.",
+      "ipa": "",
+      "meaning": "Tôi đã nhắn bạn.",
+      "example": "I sent you a message."
+    },
+    {
+      "id": "phone_chat-007",
+      "word": "Did you get my text?",
+      "ipa": "",
+      "meaning": "Bạn đã nhận tin nhắn chưa?",
+      "example": "Did you get my text?"
+    },
+    {
+      "id": "phone_chat-008",
+      "word": "I’ll reply soon.",
+      "ipa": "",
+      "meaning": "Tôi sẽ trả lời sớm.",
+      "example": "I’ll reply soon."
+    },
+    {
+      "id": "phone_chat-009",
+      "word": "Let’s video call.",
+      "ipa": "",
+      "meaning": "Gọi video nhé.",
+      "example": "Let’s video call."
+    },
+    {
+      "id": "phone_chat-010",
+      "word": "My internet is slow.",
+      "ipa": "",
+      "meaning": "Mạng của tôi chậm.",
+      "example": "My internet is slow."
+    },
+    {
+      "id": "phone_chat-011",
+      "word": "phone",
+      "ipa": "",
+      "meaning": "điện thoại",
+      "example": "My phone is ringing."
+    },
+    {
+      "id": "phone_chat-012",
+      "word": "smartphone",
+      "ipa": "",
+      "meaning": "điện thoại thông minh",
+      "example": "He bought a new smartphone."
+    },
+    {
+      "id": "phone_chat-013",
+      "word": "call",
+      "ipa": "",
+      "meaning": "cuộc gọi",
+      "example": "I missed your call."
+    },
+    {
+      "id": "phone_chat-014",
+      "word": "message",
+      "ipa": "",
+      "meaning": "tin nhắn",
+      "example": "Send me a message."
+    },
+    {
+      "id": "phone_chat-015",
+      "word": "text",
+      "ipa": "",
+      "meaning": "tin nhắn",
+      "example": "I got your text."
+    },
+    {
+      "id": "phone_chat-016",
+      "word": "notification",
+      "ipa": "",
+      "meaning": "thông báo",
+      "example": "Turn off notifications."
+    },
+    {
+      "id": "phone_chat-017",
+      "word": "voicemail",
+      "ipa": "",
+      "meaning": "hộp thư thoại",
+      "example": "You have a voicemail."
+    },
+    {
+      "id": "phone_chat-018",
+      "word": "contact",
+      "ipa": "",
+      "meaning": "liên hệ",
+      "example": "Save my contact."
+    },
+    {
+      "id": "phone_chat-019",
+      "word": "number",
+      "ipa": "",
+      "meaning": "số điện thoại",
+      "example": "What’s your number?"
+    },
+    {
+      "id": "phone_chat-020",
+      "word": "screen",
+      "ipa": "",
+      "meaning": "màn hình",
+      "example": "The screen is cracked."
+    },
+    {
+      "id": "phone_chat-021",
+      "word": "battery",
+      "ipa": "",
+      "meaning": "pin",
+      "example": "My battery is low."
+    },
+    {
+      "id": "phone_chat-022",
+      "word": "charger",
+      "ipa": "",
+      "meaning": "sạc",
+      "example": "Where is my charger?"
+    },
+    {
+      "id": "phone_chat-023",
+      "word": "headphones",
+      "ipa": "",
+      "meaning": "tai nghe",
+      "example": "Use headphones."
+    },
+    {
+      "id": "phone_chat-024",
+      "word": "microphone",
+      "ipa": "",
+      "meaning": "micro",
+      "example": "The microphone is broken."
+    },
+    {
+      "id": "phone_chat-025",
+      "word": "camera",
+      "ipa": "",
+      "meaning": "camera",
+      "example": "Turn on the camera."
+    },
+    {
+      "id": "phone_chat-026",
+      "word": "app",
+      "ipa": "",
+      "meaning": "ứng dụng",
+      "example": "Download the app."
+    },
+    {
+      "id": "phone_chat-027",
+      "word": "chat",
+      "ipa": "",
+      "meaning": "đoạn chat",
+      "example": "Open the chat."
+    },
+    {
+      "id": "phone_chat-028",
+      "word": "group chat",
+      "ipa": "",
+      "meaning": "nhóm chat",
+      "example": "We have a group chat."
+    },
+    {
+      "id": "phone_chat-029",
+      "word": "video call",
+      "ipa": "",
+      "meaning": "cuộc gọi video",
+      "example": "Join the video call."
+    },
+    {
+      "id": "phone_chat-030",
+      "word": "voice call",
+      "ipa": "",
+      "meaning": "cuộc gọi thoại",
+      "example": "Make a voice call."
+    },
+    {
+      "id": "phone_chat-031",
+      "word": "send",
+      "ipa": "",
+      "meaning": "gửi",
+      "example": "Send me the file."
+    },
+    {
+      "id": "phone_chat-032",
+      "word": "receive",
+      "ipa": "",
+      "meaning": "nhận",
+      "example": "I received your message."
+    },
+    {
+      "id": "phone_chat-033",
+      "word": "type",
+      "ipa": "",
+      "meaning": "gõ",
+      "example": "Type your message."
+    },
+    {
+      "id": "phone_chat-034",
+      "word": "reply",
+      "ipa": "",
+      "meaning": "trả lời",
+      "example": "Reply when you can."
+    },
+    {
+      "id": "phone_chat-035",
+      "word": "delete",
+      "ipa": "",
+      "meaning": "xóa",
+      "example": "Delete the message."
+    },
+    {
+      "id": "phone_chat-036",
+      "word": "block",
+      "ipa": "",
+      "meaning": "chặn",
+      "example": "Block this number."
+    },
+    {
+      "id": "phone_chat-037",
+      "word": "mute",
+      "ipa": "",
+      "meaning": "tắt tiếng",
+      "example": "Mute the group chat."
+    },
+    {
+      "id": "phone_chat-038",
+      "word": "online",
+      "ipa": "",
+      "meaning": "trực tuyến",
+      "example": "I’m online now."
+    },
+    {
+      "id": "phone_chat-039",
+      "word": "offline",
+      "ipa": "",
+      "meaning": "ngoại tuyến",
+      "example": "He is offline."
+    },
+    {
+      "id": "phone_chat-040",
+      "word": "connected",
+      "ipa": "",
+      "meaning": "đã kết nối",
+      "example": "We are connected."
+    },
+    {
+      "id": "phone_chat-041",
+      "word": "disconnected",
+      "ipa": "",
+      "meaning": "mất kết nối",
+      "example": "The call disconnected."
+    }
+  ]
+}

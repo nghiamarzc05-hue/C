@@ -1,0 +1,286 @@
+{
+  "id": "relationships",
+  "name": "Mối quan hệ",
+  "cards": [
+    {
+      "id": "relationships-001",
+      "word": "family",
+      "ipa": "/fæmʌli/",
+      "meaning": "gia đình",
+      "example": "I love my family."
+    },
+    {
+      "id": "relationships-002",
+      "word": "friend",
+      "ipa": "/fɹɛnd/",
+      "meaning": "bạn",
+      "example": "He is my best friend."
+    },
+    {
+      "id": "relationships-003",
+      "word": "best friend",
+      "ipa": "",
+      "meaning": "bạn thân",
+      "example": "She’s my best friend."
+    },
+    {
+      "id": "relationships-004",
+      "word": "boyfriend",
+      "ipa": "/bɔɪfɹɛnd/",
+      "meaning": "bạn trai",
+      "example": "She has a boyfriend."
+    },
+    {
+      "id": "relationships-005",
+      "word": "girlfriend",
+      "ipa": "/ɡɝlfɹɛnd/",
+      "meaning": "bạn gái",
+      "example": "He has a girlfriend."
+    },
+    {
+      "id": "relationships-006",
+      "word": "husband",
+      "ipa": "/hʌzbʌnd/",
+      "meaning": "chồng",
+      "example": "Her husband works late."
+    },
+    {
+      "id": "relationships-007",
+      "word": "wife",
+      "ipa": "/waɪf/",
+      "meaning": "vợ",
+      "example": "His wife is kind."
+    },
+    {
+      "id": "relationships-008",
+      "word": "partner",
+      "ipa": "/pɑɹtnɝ/",
+      "meaning": "người yêu/đối tác",
+      "example": "I met my partner at school."
+    },
+    {
+      "id": "relationships-009",
+      "word": "parent",
+      "ipa": "/pɛɹʌnt/",
+      "meaning": "cha mẹ",
+      "example": "My parents are supportive."
+    },
+    {
+      "id": "relationships-010",
+      "word": "father",
+      "ipa": "/fɑðɝ/",
+      "meaning": "cha",
+      "example": "My father cooks well."
+    },
+    {
+      "id": "relationships-011",
+      "word": "mother",
+      "ipa": "/mʌðɝ/",
+      "meaning": "mẹ",
+      "example": "My mother called me."
+    },
+    {
+      "id": "relationships-012",
+      "word": "child",
+      "ipa": "/tʃaɪld/",
+      "meaning": "con",
+      "example": "They have a child."
+    },
+    {
+      "id": "relationships-013",
+      "word": "son",
+      "ipa": "/sʌn/",
+      "meaning": "con trai",
+      "example": "Their son is in college."
+    },
+    {
+      "id": "relationships-014",
+      "word": "daughter",
+      "ipa": "/dɔtɝ/",
+      "meaning": "con gái",
+      "example": "Their daughter is six."
+    },
+    {
+      "id": "relationships-015",
+      "word": "brother",
+      "ipa": "/bɹʌðɝ/",
+      "meaning": "anh/em trai",
+      "example": "My brother is taller."
+    },
+    {
+      "id": "relationships-016",
+      "word": "sister",
+      "ipa": "/sɪstɝ/",
+      "meaning": "chị/em gái",
+      "example": "My sister is funny."
+    },
+    {
+      "id": "relationships-017",
+      "word": "grandfather",
+      "ipa": "/ɡɹændfɑðɝ/",
+      "meaning": "ông",
+      "example": "My grandfather is 80."
+    },
+    {
+      "id": "relationships-018",
+      "word": "grandmother",
+      "ipa": "/ɡɹændmʌðɝ/",
+      "meaning": "bà",
+      "example": "My grandmother bakes cookies."
+    },
+    {
+      "id": "relationships-019",
+      "word": "cousin",
+      "ipa": "/kʌzʌn/",
+      "meaning": "anh/chị/em họ",
+      "example": "My cousin lives in LA."
+    },
+    {
+      "id": "relationships-020",
+      "word": "uncle",
+      "ipa": "/ʌŋkʌl/",
+      "meaning": "chú/bác/cậu",
+      "example": "My uncle visits often."
+    },
+    {
+      "id": "relationships-021",
+      "word": "aunt",
+      "ipa": "/ænt/",
+      "meaning": "cô/dì/bác gái",
+      "example": "My aunt is a nurse."
+    },
+    {
+      "id": "relationships-022",
+      "word": "neighbor",
+      "ipa": "/neɪbɝ/",
+      "meaning": "hàng xóm",
+      "example": "Our neighbor is nice."
+    },
+    {
+      "id": "relationships-023",
+      "word": "classmate",
+      "ipa": "/klæsmeɪt/",
+      "meaning": "bạn cùng lớp",
+      "example": "I study with my classmate."
+    },
+    {
+      "id": "relationships-024",
+      "word": "roommate",
+      "ipa": "/ɹumeɪt/",
+      "meaning": "bạn cùng phòng",
+      "example": "My roommate is quiet."
+    },
+    {
+      "id": "relationships-025",
+      "word": "colleague",
+      "ipa": "/kɑliɡ/",
+      "meaning": "đồng nghiệp",
+      "example": "I had lunch with a colleague."
+    },
+    {
+      "id": "relationships-026",
+      "word": "boss",
+      "ipa": "/bɑs/",
+      "meaning": "sếp",
+      "example": "My boss is strict."
+    },
+    {
+      "id": "relationships-027",
+      "word": "team",
+      "ipa": "/tim/",
+      "meaning": "đội nhóm",
+      "example": "Our team is strong."
+    },
+    {
+      "id": "relationships-028",
+      "word": "friendship",
+      "ipa": "/fɹɛndʃɪp/",
+      "meaning": "tình bạn",
+      "example": "Friendship takes effort."
+    },
+    {
+      "id": "relationships-029",
+      "word": "relationship",
+      "ipa": "/ɹileɪʃʌnʃɪp/",
+      "meaning": "mối quan hệ",
+      "example": "They have a strong relationship."
+    },
+    {
+      "id": "relationships-030",
+      "word": "marriage",
+      "ipa": "/mɛɹɪdʒ/",
+      "meaning": "hôn nhân",
+      "example": "Marriage is a partnership."
+    },
+    {
+      "id": "relationships-031",
+      "word": "engagement",
+      "ipa": "/ɛnɡeɪdʒmʌnt/",
+      "meaning": "đính hôn",
+      "example": "They announced their engagement."
+    },
+    {
+      "id": "relationships-032",
+      "word": "wedding",
+      "ipa": "/wɛdɪŋ/",
+      "meaning": "đám cưới",
+      "example": "The wedding was beautiful."
+    },
+    {
+      "id": "relationships-033",
+      "word": "divorce",
+      "ipa": "/dɪvɔɹs/",
+      "meaning": "ly hôn",
+      "example": "They got a divorce."
+    },
+    {
+      "id": "relationships-034",
+      "word": "support",
+      "ipa": "/sʌpɔɹt/",
+      "meaning": "hỗ trợ",
+      "example": "Thank you for your support."
+    },
+    {
+      "id": "relationships-035",
+      "word": "trust",
+      "ipa": "/tɹʌst/",
+      "meaning": "niềm tin",
+      "example": "Trust is important."
+    },
+    {
+      "id": "relationships-036",
+      "word": "respect",
+      "ipa": "/ɹɪspɛkt/",
+      "meaning": "tôn trọng",
+      "example": "Show respect."
+    },
+    {
+      "id": "relationships-037",
+      "word": "argument",
+      "ipa": "/ɑɹɡjʌmʌnt/",
+      "meaning": "cãi nhau",
+      "example": "They had an argument."
+    },
+    {
+      "id": "relationships-038",
+      "word": "apologize",
+      "ipa": "/ʌpɑlʌdʒaɪz/",
+      "meaning": "xin lỗi",
+      "example": "I apologized to her."
+    },
+    {
+      "id": "relationships-039",
+      "word": "forgive",
+      "ipa": "/fɝɡɪv/",
+      "meaning": "tha thứ",
+      "example": "Can you forgive me?"
+    },
+    {
+      "id": "relationships-040",
+      "word": "hang out",
+      "ipa": "",
+      "meaning": "đi chơi",
+      "example": "Let’s hang out this weekend."
+    }
+  ]
+}

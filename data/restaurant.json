@@ -1,0 +1,321 @@
+{
+  "id": "restaurant",
+  "name": "Gọi món nhà hàng",
+  "cards": [
+    {
+      "id": "restaurant-001",
+      "word": "Can I see the menu?",
+      "ipa": "",
+      "meaning": "Cho tôi xem menu được không?",
+      "example": "Can I see the menu?"
+    },
+    {
+      "id": "restaurant-002",
+      "word": "What do you recommend?",
+      "ipa": "",
+      "meaning": "Bạn gợi ý món gì?",
+      "example": "What do you recommend?"
+    },
+    {
+      "id": "restaurant-003",
+      "word": "I’d like to order.",
+      "ipa": "",
+      "meaning": "Tôi muốn gọi món.",
+      "example": "I’d like to order."
+    },
+    {
+      "id": "restaurant-004",
+      "word": "Could we get the bill?",
+      "ipa": "",
+      "meaning": "Cho tôi xin hóa đơn.",
+      "example": "Could we get the bill?"
+    },
+    {
+      "id": "restaurant-005",
+      "word": "Is this dish spicy?",
+      "ipa": "",
+      "meaning": "Món này có cay không?",
+      "example": "Is this dish spicy?"
+    },
+    {
+      "id": "restaurant-006",
+      "word": "Do you have vegetarian options?",
+      "ipa": "",
+      "meaning": "Có món chay không?",
+      "example": "Do you have vegetarian options?"
+    },
+    {
+      "id": "restaurant-007",
+      "word": "Can I have some water?",
+      "ipa": "",
+      "meaning": "Cho tôi xin nước.",
+      "example": "Can I have some water?"
+    },
+    {
+      "id": "restaurant-008",
+      "word": "Excuse me, waiter.",
+      "ipa": "",
+      "meaning": "Xin lỗi, bạn phục vụ.",
+      "example": "Excuse me, waiter."
+    },
+    {
+      "id": "restaurant-009",
+      "word": "Is service included?",
+      "ipa": "",
+      "meaning": "Đã bao gồm phí phục vụ chưa?",
+      "example": "Is service included?"
+    },
+    {
+      "id": "restaurant-010",
+      "word": "Can we split the bill?",
+      "ipa": "",
+      "meaning": "Chia hóa đơn được không?",
+      "example": "Can we split the bill?"
+    },
+    {
+      "id": "restaurant-011",
+      "word": "menu",
+      "ipa": "",
+      "meaning": "thực đơn",
+      "example": "The menu looks great."
+    },
+    {
+      "id": "restaurant-012",
+      "word": "dish",
+      "ipa": "",
+      "meaning": "món ăn",
+      "example": "This dish is delicious."
+    },
+    {
+      "id": "restaurant-013",
+      "word": "restaurant",
+      "ipa": "",
+      "meaning": "nhà hàng",
+      "example": "This restaurant is popular."
+    },
+    {
+      "id": "restaurant-014",
+      "word": "waiter",
+      "ipa": "",
+      "meaning": "bồi bàn",
+      "example": "The waiter was friendly."
+    },
+    {
+      "id": "restaurant-015",
+      "word": "waitress",
+      "ipa": "",
+      "meaning": "bồi bàn nữ",
+      "example": "The waitress helped us."
+    },
+    {
+      "id": "restaurant-016",
+      "word": "chef",
+      "ipa": "",
+      "meaning": "đầu bếp",
+      "example": "The chef is skilled."
+    },
+    {
+      "id": "restaurant-017",
+      "word": "table",
+      "ipa": "",
+      "meaning": "bàn ăn",
+      "example": "Our table is ready."
+    },
+    {
+      "id": "restaurant-018",
+      "word": "reservation",
+      "ipa": "",
+      "meaning": "đặt bàn",
+      "example": "I made a reservation."
+    },
+    {
+      "id": "restaurant-019",
+      "word": "bill",
+      "ipa": "",
+      "meaning": "hóa đơn",
+      "example": "Here is your bill."
+    },
+    {
+      "id": "restaurant-020",
+      "word": "tip",
+      "ipa": "",
+      "meaning": "tiền tip",
+      "example": "Leave a tip."
+    },
+    {
+      "id": "restaurant-021",
+      "word": "service",
+      "ipa": "",
+      "meaning": "dịch vụ",
+      "example": "The service is excellent."
+    },
+    {
+      "id": "restaurant-022",
+      "word": "order",
+      "ipa": "",
+      "meaning": "gọi món",
+      "example": "I placed an order."
+    },
+    {
+      "id": "restaurant-023",
+      "word": "appetizer",
+      "ipa": "",
+      "meaning": "món khai vị",
+      "example": "We ordered an appetizer."
+    },
+    {
+      "id": "restaurant-024",
+      "word": "main course",
+      "ipa": "",
+      "meaning": "món chính",
+      "example": "The main course was amazing."
+    },
+    {
+      "id": "restaurant-025",
+      "word": "dessert",
+      "ipa": "",
+      "meaning": "món tráng miệng",
+      "example": "Let’s order dessert."
+    },
+    {
+      "id": "restaurant-026",
+      "word": "drink",
+      "ipa": "",
+      "meaning": "đồ uống",
+      "example": "Would you like a drink?"
+    },
+    {
+      "id": "restaurant-027",
+      "word": "water",
+      "ipa": "",
+      "meaning": "nước",
+      "example": "I’d like some water."
+    },
+    {
+      "id": "restaurant-028",
+      "word": "fork",
+      "ipa": "",
+      "meaning": "nĩa",
+      "example": "Can I get a fork?"
+    },
+    {
+      "id": "restaurant-029",
+      "word": "knife",
+      "ipa": "",
+      "meaning": "dao",
+      "example": "Pass me the knife."
+    },
+    {
+      "id": "restaurant-030",
+      "word": "spoon",
+      "ipa": "",
+      "meaning": "muỗng",
+      "example": "Here is your spoon."
+    },
+    {
+      "id": "restaurant-031",
+      "word": "napkin",
+      "ipa": "",
+      "meaning": "khăn ăn",
+      "example": "Use a napkin."
+    },
+    {
+      "id": "restaurant-032",
+      "word": "plate",
+      "ipa": "",
+      "meaning": "đĩa",
+      "example": "The plate is hot."
+    },
+    {
+      "id": "restaurant-033",
+      "word": "bowl",
+      "ipa": "",
+      "meaning": "tô",
+      "example": "The soup is in a bowl."
+    },
+    {
+      "id": "restaurant-034",
+      "word": "glass",
+      "ipa": "",
+      "meaning": "ly",
+      "example": "Fill the glass."
+    },
+    {
+      "id": "restaurant-035",
+      "word": "cup",
+      "ipa": "",
+      "meaning": "tách",
+      "example": "I want a cup of tea."
+    },
+    {
+      "id": "restaurant-036",
+      "word": "hungry",
+      "ipa": "",
+      "meaning": "đói",
+      "example": "I’m hungry."
+    },
+    {
+      "id": "restaurant-037",
+      "word": "full",
+      "ipa": "",
+      "meaning": "no",
+      "example": "I’m full."
+    },
+    {
+      "id": "restaurant-038",
+      "word": "delicious",
+      "ipa": "",
+      "meaning": "ngon",
+      "example": "The food is delicious."
+    },
+    {
+      "id": "restaurant-039",
+      "word": "spicy",
+      "ipa": "",
+      "meaning": "cay",
+      "example": "This is spicy."
+    },
+    {
+      "id": "restaurant-040",
+      "word": "sweet",
+      "ipa": "",
+      "meaning": "ngọt",
+      "example": "The dessert is sweet."
+    },
+    {
+      "id": "restaurant-041",
+      "word": "salty",
+      "ipa": "",
+      "meaning": "mặn",
+      "example": "The soup is salty."
+    },
+    {
+      "id": "restaurant-042",
+      "word": "fresh",
+      "ipa": "",
+      "meaning": "tươi",
+      "example": "The ingredients are fresh."
+    },
+    {
+      "id": "restaurant-043",
+      "word": "raw",
+      "ipa": "",
+      "meaning": "sống",
+      "example": "The fish is raw."
+    },
+    {
+      "id": "restaurant-044",
+      "word": "grilled",
+      "ipa": "",
+      "meaning": "nướng",
+      "example": "I want grilled chicken."
+    },
+    {
+      "id": "restaurant-045",
+      "word": "fried",
+      "ipa": "",
+      "meaning": "chiên",
+      "example": "She ordered fried rice."
+    }
+  ]
+}

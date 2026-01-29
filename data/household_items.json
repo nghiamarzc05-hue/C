@@ -1,0 +1,286 @@
+{
+  "id": "household_items",
+  "name": "Vật dụng trong nhà",
+  "cards": [
+    {
+      "id": "household_items-001",
+      "word": "bed",
+      "ipa": "/bɛd/",
+      "meaning": "giường",
+      "example": "I went to bed early last night."
+    },
+    {
+      "id": "household_items-002",
+      "word": "pillow",
+      "ipa": "/pɪloʊ/",
+      "meaning": "gối",
+      "example": "This pillow is soft."
+    },
+    {
+      "id": "household_items-003",
+      "word": "blanket",
+      "ipa": "/blæŋkʌt/",
+      "meaning": "chăn",
+      "example": "I need a warm blanket."
+    },
+    {
+      "id": "household_items-004",
+      "word": "sofa",
+      "ipa": "/soʊfʌ/",
+      "meaning": "ghế sofa",
+      "example": "We sat on the sofa and watched TV."
+    },
+    {
+      "id": "household_items-005",
+      "word": "chair",
+      "ipa": "/tʃɛɹ/",
+      "meaning": "ghế",
+      "example": "Pull up a chair."
+    },
+    {
+      "id": "household_items-006",
+      "word": "table",
+      "ipa": "/teɪbʌl/",
+      "meaning": "bàn",
+      "example": "Dinner is on the table."
+    },
+    {
+      "id": "household_items-007",
+      "word": "desk",
+      "ipa": "/dɛsk/",
+      "meaning": "bàn làm việc",
+      "example": "My desk is messy."
+    },
+    {
+      "id": "household_items-008",
+      "word": "lamp",
+      "ipa": "/læmp/",
+      "meaning": "đèn",
+      "example": "Turn on the lamp."
+    },
+    {
+      "id": "household_items-009",
+      "word": "clock",
+      "ipa": "/klɑk/",
+      "meaning": "đồng hồ",
+      "example": "The clock is fast."
+    },
+    {
+      "id": "household_items-010",
+      "word": "mirror",
+      "ipa": "/mɪɹɝ/",
+      "meaning": "gương",
+      "example": "Look in the mirror."
+    },
+    {
+      "id": "household_items-011",
+      "word": "curtain",
+      "ipa": "/kɝtʌn/",
+      "meaning": "rèm",
+      "example": "Close the curtains."
+    },
+    {
+      "id": "household_items-012",
+      "word": "door",
+      "ipa": "/dɔɹ/",
+      "meaning": "cửa",
+      "example": "Please close the door."
+    },
+    {
+      "id": "household_items-013",
+      "word": "window",
+      "ipa": "/wɪndoʊ/",
+      "meaning": "cửa sổ",
+      "example": "Open the window."
+    },
+    {
+      "id": "household_items-014",
+      "word": "carpet",
+      "ipa": "/kɑɹpʌt/",
+      "meaning": "thảm",
+      "example": "The carpet is new."
+    },
+    {
+      "id": "household_items-015",
+      "word": "rug",
+      "ipa": "/ɹʌɡ/",
+      "meaning": "tấm thảm nhỏ",
+      "example": "This rug is nice."
+    },
+    {
+      "id": "household_items-016",
+      "word": "wardrobe",
+      "ipa": "/wɔɹdɹoʊb/",
+      "meaning": "tủ quần áo",
+      "example": "My wardrobe is full."
+    },
+    {
+      "id": "household_items-017",
+      "word": "drawer",
+      "ipa": "/dɹɔɹ/",
+      "meaning": "ngăn kéo",
+      "example": "It’s in the top drawer."
+    },
+    {
+      "id": "household_items-018",
+      "word": "shelf",
+      "ipa": "/ʃɛlf/",
+      "meaning": "kệ",
+      "example": "Put it on the shelf."
+    },
+    {
+      "id": "household_items-019",
+      "word": "cabinet",
+      "ipa": "/kæbʌnʌt/",
+      "meaning": "tủ",
+      "example": "The cabinet is empty."
+    },
+    {
+      "id": "household_items-020",
+      "word": "fridge",
+      "ipa": "/fɹɪdʒ/",
+      "meaning": "tủ lạnh",
+      "example": "There’s some milk in the fridge."
+    },
+    {
+      "id": "household_items-021",
+      "word": "freezer",
+      "ipa": "/fɹizɝ/",
+      "meaning": "ngăn đá",
+      "example": "Ice cream is in the freezer."
+    },
+    {
+      "id": "household_items-022",
+      "word": "microwave",
+      "ipa": "/maɪkɹʌweɪv/",
+      "meaning": "lò vi sóng",
+      "example": "I warmed it up in the microwave."
+    },
+    {
+      "id": "household_items-023",
+      "word": "oven",
+      "ipa": "/ʌvʌn/",
+      "meaning": "lò nướng",
+      "example": "The oven is hot."
+    },
+    {
+      "id": "household_items-024",
+      "word": "stove",
+      "ipa": "/stoʊv/",
+      "meaning": "bếp",
+      "example": "Turn off the stove."
+    },
+    {
+      "id": "household_items-025",
+      "word": "kettle",
+      "ipa": "/kɛtʌl/",
+      "meaning": "ấm đun nước",
+      "example": "The kettle is boiling."
+    },
+    {
+      "id": "household_items-026",
+      "word": "rice cooker",
+      "ipa": "",
+      "meaning": "nồi cơm điện",
+      "example": "The rice cooker is on."
+    },
+    {
+      "id": "household_items-027",
+      "word": "fan",
+      "ipa": "/fæn/",
+      "meaning": "quạt",
+      "example": "Turn on the fan."
+    },
+    {
+      "id": "household_items-028",
+      "word": "air conditioner",
+      "ipa": "",
+      "meaning": "máy lạnh",
+      "example": "The air conditioner is loud."
+    },
+    {
+      "id": "household_items-029",
+      "word": "heater",
+      "ipa": "/hitɝ/",
+      "meaning": "máy sưởi",
+      "example": "We turned on the heater."
+    },
+    {
+      "id": "household_items-030",
+      "word": "washing machine",
+      "ipa": "",
+      "meaning": "máy giặt",
+      "example": "The washing machine is running."
+    },
+    {
+      "id": "household_items-031",
+      "word": "dryer",
+      "ipa": "/dɹaɪɝ/",
+      "meaning": "máy sấy",
+      "example": "Put it in the dryer."
+    },
+    {
+      "id": "household_items-032",
+      "word": "vacuum cleaner",
+      "ipa": "",
+      "meaning": "máy hút bụi",
+      "example": "I used the vacuum cleaner."
+    },
+    {
+      "id": "household_items-033",
+      "word": "iron",
+      "ipa": "/aɪɝn/",
+      "meaning": "bàn ủi",
+      "example": "I need to iron this shirt."
+    },
+    {
+      "id": "household_items-034",
+      "word": "television",
+      "ipa": "/tɛlʌvɪʒʌn/",
+      "meaning": "tivi",
+      "example": "The television is on."
+    },
+    {
+      "id": "household_items-035",
+      "word": "remote control",
+      "ipa": "",
+      "meaning": "điều khiển",
+      "example": "Where’s the remote control?"
+    },
+    {
+      "id": "household_items-036",
+      "word": "computer",
+      "ipa": "/kʌmpjutɝ/",
+      "meaning": "máy tính",
+      "example": "My computer is slow."
+    },
+    {
+      "id": "household_items-037",
+      "word": "laptop",
+      "ipa": "/læptɑp/",
+      "meaning": "laptop",
+      "example": "I brought my laptop."
+    },
+    {
+      "id": "household_items-038",
+      "word": "phone charger",
+      "ipa": "",
+      "meaning": "sạc điện thoại",
+      "example": "I forgot my phone charger."
+    },
+    {
+      "id": "household_items-039",
+      "word": "toothbrush",
+      "ipa": "/tuθbɹʌʃ/",
+      "meaning": "bàn chải đánh răng",
+      "example": "I need a new toothbrush."
+    },
+    {
+      "id": "household_items-040",
+      "word": "towel",
+      "ipa": "/taʊʌl/",
+      "meaning": "khăn",
+      "example": "Grab a clean towel."
+    }
+  ]
+}
